@@ -1,0 +1,3 @@
+# Stok
+
+"Stok", bir işletmenin elinde bulunan ve tedariğini sağladığı mal veya hizmetlerin miktarını ve değerini ifade eden bir kavramdır. Stoklar, işletmenin satış veya üretim faaliyetlerinde kullanılmak üzere depolanan varlıkları temsil eder. Bu malzemeler, satılacak ürünlerin hammaddeleri, işlenmiş ürünler veya satılmayı bekleyen hizmetler olabilir. Stok takibi, işletmenin finansal sağlığını değerlendirmede ve envanter yönetiminde kritik bir rol oynar.  Stok seviyelerini takip etmek, talep tahminleri yapmak ve gerektiğinde yeni siparişler vermek gibi işletme kararları için önemli bilgiler sağlar.
