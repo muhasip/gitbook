@@ -7,9 +7,9 @@
 
 * [Güncel Durum](on-muhasebe/guencel-durum.md)
 * [Cariler](on-muhasebe/cariler/README.md)
-  * [Müşteri ve Tedarikçilerinizi Muhasip’e Kaydetmek](on-muhasebe/cariler/muesteri-ve-tedarikcilerinizi-muhasipe-kaydetmek/README.md)
-    * [Carileri Manuel Olarak Muhasip'e Kaydetmek](on-muhasebe/cariler/muesteri-ve-tedarikcilerinizi-muhasipe-kaydetmek/carileri-manuel-olarak-muhasipe-kaydetmek.md)
-    * [İçeri Aktarma Yoluyla Carileri Muhasip'e Kaydetmek](on-muhasebe/cariler/muesteri-ve-tedarikcilerinizi-muhasipe-kaydetmek/iceri-aktarma-yoluyla-carileri-muhasipe-kaydetmek.md)
+  * [Cari Kartı Oluşturun](on-muhasebe/cariler/cari-karti-olusturun/README.md)
+    * [Carileri Manuel Olarak Muhasip'e Kaydetmek](on-muhasebe/cariler/cari-karti-olusturun/carileri-manuel-olarak-muhasipe-kaydetmek.md)
+    * [İçeri Aktarma Yoluyla Carileri Muhasip'e Kaydetmek](on-muhasebe/cariler/cari-karti-olusturun/iceri-aktarma-yoluyla-carileri-muhasipe-kaydetmek.md)
   * [Cari Hesap İşlemleri](on-muhasebe/cariler/cari-hesap-islemleri/README.md)
     * [Cari Borçlandırma](on-muhasebe/cariler/cari-hesap-islemleri/cari-borclandirma.md)
     * [Çek/Senet Yönetimi](on-muhasebe/cariler/cari-hesap-islemleri/cek-senet-yoenetimi.md)
