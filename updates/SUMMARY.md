@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Güncellemeler](README.md)
+* [🦉 Geliştirme Takvimi](README.md)
 
 ## 🌐 Yayınlanan
 
