@@ -42,8 +42,6 @@
   * [Çek/Senet Yönetimi](on-muhasebe/finans/cek-senet-yoenetimi.md)
   * [Kasalar Arası Transfer](on-muhasebe/finans/kasalar-arasi-transfer.md)
   * [Kasa Raporu](on-muhasebe/finans/kasa-raporu.md)
-  * [Banka Entegrasyonu](on-muhasebe/finans/banka-entegrasyonu.md)
-  * [Banka Entegrasyon Süreci](on-muhasebe/finans/muhasip-ile-banka-hesap-entegrasyonu-ve-suereci.md)
 * [Raporlar](on-muhasebe/raporlar/README.md)
   * [Gün Sonu Raporu](on-muhasebe/raporlar/guen-sonu-raporu.md)
   * [Kasa Hareketleri](on-muhasebe/raporlar/kasa-hareketleri.md)
@@ -65,6 +63,9 @@
 
 * [Sanal Pos](moduller/sanal-pos.md)
 * [E-Banka](moduller/e-banka/README.md)
+  * [Banka Entegrasyonu](moduller/e-banka/banka-entegrasyonu/README.md)
+    * [Başvuru Süreci](moduller/e-banka/banka-entegrasyonu/muhasip-ile-banka-hesap-entegrasyonu-ve-suereci.md)
+    * [Hesap Entegrasyonu](moduller/e-banka/banka-entegrasyonu/hesap-entegrasyonu.md)
   * [Banka Formları](moduller/e-banka/banka-formlari.md)
   * [🤖 Fatura Otomasyonu](moduller/e-banka/fatura-otomasyonu.md)
 
@@ -80,5 +81,5 @@
 
 ## İpuçları
 
-* [WhatsApp Entegrasyonu](ipuclari/whatsapp-entegrasyonu.md)
 * [Güncellemeler](https://updates.muhasip.pro/)
+* [Kısayollar](ipuclari/kisayollar.md)

@@ -44,11 +44,11 @@ layout:
 [kasa-raporu.md](kasa-raporu.md)
 {% endcontent-ref %}
 
-{% content-ref url="banka-entegrasyonu.md" %}
-[banka-entegrasyonu.md](banka-entegrasyonu.md)
+{% content-ref url="../../moduller/e-banka/banka-entegrasyonu/" %}
+[banka-entegrasyonu](../../moduller/e-banka/banka-entegrasyonu/)
 {% endcontent-ref %}
 
-{% content-ref url="muhasip-ile-banka-hesap-entegrasyonu-ve-suereci.md" %}
-[muhasip-ile-banka-hesap-entegrasyonu-ve-suereci.md](muhasip-ile-banka-hesap-entegrasyonu-ve-suereci.md)
+{% content-ref url="../../moduller/e-banka/banka-entegrasyonu/muhasip-ile-banka-hesap-entegrasyonu-ve-suereci.md" %}
+[muhasip-ile-banka-hesap-entegrasyonu-ve-suereci.md](../../moduller/e-banka/banka-entegrasyonu/muhasip-ile-banka-hesap-entegrasyonu-ve-suereci.md)
 {% endcontent-ref %}
 
