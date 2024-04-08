@@ -12,4 +12,4 @@ Makbuz No ve Açıklama kısımlarını doldurun. \
 Eklemek istediğiniz jpg, jpeg, pdf formatında belge var ise Dosya kısmından yükleyebilirsiniz.\
 Son olarak Tahsilat/Ödeme İşle butonuna basarak işleminizi tamamlayabilirsiniz.&#x20;
 
-<figure><img src="../../../.gitbook/assets/EkranKayd2024-01-2413.03.21-ezgif.com-video-to-gif-converter (1) (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/EkranKayd2024-01-2413.03.21-ezgif.com-video-to-gif-converter (1) (1).gif" alt=""><figcaption></figcaption></figure>

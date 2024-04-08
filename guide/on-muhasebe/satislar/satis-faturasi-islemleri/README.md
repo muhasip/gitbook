@@ -1,6 +1,6 @@
 # Satış Faturası İşlemleri
 
-Muhasip’te oluşturduğunuz bir faturayı görüntüleme, faturaya işlem geçmişini görüntüleme, faturayı mail gönderme, yazdırma ve iptal etme işlemlerini&#x20;
+Muhasip’te oluşturduğunuz bir faturayı görüntüleme, faturaya ait işlem geçmişini görüntüleme, faturayı mail gönderme, yazdırma ve iptal etme işlemlerini&#x20;
 
 1.Satış Faturası oluşturduktan sonra yönlendirildiğiniz pencerede,
 
