@@ -1,5 +1,9 @@
 ---
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -12,16 +16,16 @@ layout:
     visible: false
 ---
 
-# Versiyon 1.0.38
+# ✅ Versiyon 1.0.38
 
 {% hint style="success" %}
 Bu geliştirme 11 Mart Pazartesi 05:00 da yayına alınmıştır.
 {% endhint %}
 
-* Raporlama modülünde iyileştirmeler.
-* Bekleyen online ödeme linklerinin cari kartlarında gösterilmesi.
-* Yetkilendirme sisteminde iyileştirmeler
-* Online tahsilat modülünde iyileştirmer.
-* Stok kartı oluştururken karşılaştığımız hata giderildi.
-* Tasarımsal iyileştirmeler
-* API iyileştirmeleri
+* [x] Raporlama modülünde iyileştirmeler.
+* [x] Bekleyen online ödeme linklerinin cari kartlarında gösterilmesi.
+* [x] Yetkilendirme sisteminde iyileştirmeler
+* [x] Online tahsilat modülünde iyileştirmer.
+* [x] Stok kartı oluştururken karşılaştığımız hata giderildi.
+* [x] Tasarımsal iyileştirmeler
+* [x] API iyileştirmeleri

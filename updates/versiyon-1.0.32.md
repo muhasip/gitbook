@@ -1,5 +1,9 @@
 ---
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -12,9 +16,13 @@ layout:
     visible: false
 ---
 
-# Versiyon 1.0.32
+# ✅ Versiyon 1.0.32
 
-💡 Bu geliştirme arayüzsel değişikliği kapsamamaktadır.
 
-* Banka entegrasyonlarında kontrol saatleri güncellendi
-* Online ödeme servislerinde [muhasip.readme.io](http://muhasip.readme.io) üzerindeki arayüz ile alakalı olan güncellemeler geliştirildi
+
+{% hint style="info" %}
+Bu geliştirme arayüzsel değişikliği kapsamamaktadır.
+{% endhint %}
+
+* [x] Banka entegrasyonlarında kontrol saatleri güncellendi
+* [x] Online ödeme servislerinde [muhasip.readme.io](http://muhasip.readme.io) üzerindeki arayüz ile alakalı olan güncellemeler geliştirildi

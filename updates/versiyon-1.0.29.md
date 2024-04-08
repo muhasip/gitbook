@@ -12,9 +12,11 @@ layout:
     visible: false
 ---
 
-# Versiyon 1.0.29
+# ✅ Versiyon 1.0.29
 
-✅ Bu geliştirme 02 Mart Cumartesi günü 03:00’da yayına alınmıştır
+{% hint style="success" %}
+Bu geliştirme 02 Mart Cumartesi günü 03:00’da yayına alınmıştır
+{% endhint %}
 
 * Panel iyileştirmeleri
 * Fatura işlemlerinin otomatikleştirilme şablonları
