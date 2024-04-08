@@ -20,9 +20,21 @@ layout:
 
 # 🦉 Geliştirme Takvimi
 
+{% hint style="warning" %}
+Yazılım ekibimiz aktif olarak aşağıdaki liste üzerinde çalışmaktadır.
+{% endhint %}
+
+### Planlanan geliştirmeler
+
 * [x] Kişisel Kısayollar
 * [x] [Workspace](https://www.muhasip.com.tr/workspace) için arayüz güncellemeleri
 * [x] [Klavyesi kullanım için kısayolların geliştirmesi](https://kilavuz.muhasip.pro/on-muhasebe/kisayollar)
 * [x] [E-Fatura otomasyonu](https://kilavuz.muhasip.pro/moduller/e-banka/fatura-otomasyonu)
-* [ ] Minör hataların giderildi
-* [ ] [E-Arşiv portal](https://www.muhasip.com.tr/e-arsiv-portal) hataları deneyimlendi ve giderildi
+* [x] Minör tasarım hataları
+* [ ] Responsive mobil arayüzde hataların giderilmesi
+
+***
+
+### Plansız ara geliştirme ve güncellemeler
+
+* E-Arşiv portal tarafında tespit edilen bir takım hatalar giderildi.
