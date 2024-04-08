@@ -2,6 +2,7 @@
 description: >-
   API'yi yazarken mümkün olduğunca detaylı ve basit bir kullanım sunmaya özen
   gösterdik.
+coverY: 0
 ---
 
 # Api Anahtarı Oluşturma

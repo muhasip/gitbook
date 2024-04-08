@@ -68,14 +68,17 @@
   * [Banka Formları](moduller/e-banka/banka-formlari.md)
   * [🤖 Fatura Otomasyonu](moduller/e-banka/fatura-otomasyonu.md)
 
-## Diğer İşlevler
+## Sistem Ayarları
 
-* [Api Anahtarı Oluşturma](diger-islevler/api-anahtari-olusturma.md)
-* [WhatsApp Entegrasyonu](diger-islevler/whatsapp-entegrasyonu.md)
-* [Kullanici ve Hesap Ayarları](diger-islevler/kullanici-ve-hesap-ayarlari/README.md)
-  * [Hesap Bilgileri](diger-islevler/kullanici-ve-hesap-ayarlari/hesap-bilgileri.md)
-  * [Kişisel Bilgiler](diger-islevler/kullanici-ve-hesap-ayarlari/kisisel-bilgiler.md)
-  * [Kullanıcı İşlemleri](diger-islevler/kullanici-ve-hesap-ayarlari/kullanici-islemleri.md)
-* [Hızlı İşlemler](diger-islevler/hizli-islemler.md)
-* [Tanımlamalar](diger-islevler/tanimlamalar.md)
-* [Destek İzni Açma](diger-islevler/destek-izni-acma.md)
+* [Api Anahtarı Oluşturma](sistem-ayarlari/api-anahtari-olusturma.md)
+* [Kullanici ve Hesap Ayarları](sistem-ayarlari/kullanici-ve-hesap-ayarlari/README.md)
+  * [Hesap Bilgileri](sistem-ayarlari/kullanici-ve-hesap-ayarlari/hesap-bilgileri.md)
+  * [Kişisel Bilgiler](sistem-ayarlari/kullanici-ve-hesap-ayarlari/kisisel-bilgiler.md)
+  * [Kullanıcı İşlemleri](sistem-ayarlari/kullanici-ve-hesap-ayarlari/kullanici-islemleri.md)
+* [Tanımlamalar](sistem-ayarlari/tanimlamalar.md)
+* [Destek İzni Açma](sistem-ayarlari/destek-izni-acma.md)
+
+## İpuçları
+
+* [WhatsApp Entegrasyonu](ipuclari/whatsapp-entegrasyonu.md)
+* [Güncellemeler](https://updates.muhasip.pro/)
