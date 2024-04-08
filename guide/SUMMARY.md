@@ -5,7 +5,6 @@
 
 ## Ön Muhasebe <a href="#on-muhasebe" id="on-muhasebe"></a>
 
-* [Güncel Durum](on-muhasebe/guencel-durum.md)
 * [Cariler](on-muhasebe/cariler/README.md)
   * [Cari Detay](on-muhasebe/cariler/cari-detay/README.md)
     * [Cari Hesap İşlemleri](on-muhasebe/cariler/cari-hesap-islemleri/README.md)
