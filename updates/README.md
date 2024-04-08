@@ -1,7 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxuYXNhJTIwd29ybGR8ZW58MHx8fHwxNzEyNTgzMzkxfDA&ixlib=rb-4.0.3&q=85
-coverY: 124.16438356164383
+coverY: 0
 layout:
   cover:
     visible: true
@@ -18,11 +16,16 @@ layout:
     visible: false
 ---
 
-# 🦉 Geliştirme Takvimi
+# ✅ Versiyon 1.0.44
 
-* [x] Kişisel Kısayollar
-* [x] [Workspace](https://www.muhasip.com.tr/workspace) için arayüz güncellemeleri
-* [x] [Klavyesi kullanım için kısayolların geliştirmesi](https://kilavuz.muhasip.pro/on-muhasebe/kisayollar)
-* [x] [E-Fatura otomasyonu](https://kilavuz.muhasip.pro/moduller/e-banka/fatura-otomasyonu)
-* [ ] Minör hataların giderildi
-* [ ] [E-Arşiv portal](https://www.muhasip.com.tr/e-arsiv-portal) hataları deneyimlendi ve giderildi
+{% hint style="success" %}
+Bu versiyon 18 Mart Pazartesi 03:00 da yayına alınmıştır.
+{% endhint %}
+
+* [ ] ~~Satış Fişi, Alış Fişi, Tahsilat ve Ödeme Fişlerinin tasarımlarının özelleştirilmesi~~
+* [ ] ~~E~~[~~-Fatura~~](https://www.muhasip.com.tr/e-fatura-entegrator) ~~haricinde yapılan satışların belgelendirilmesi ve WhatsApp, Sms veya Mail ile paylaşılması için PDF üretilmesi \[1.0.23]~~
+* [ ] Raporlama modülünde iyileştirmeler.
+* [ ] ~~Kişisel kısayollar ekleme \[1.0.29]~~
+* [x] Alış ve Satış listelemelerde ufak hatalar giderilmiştir.
+* [x] Minör Performans geliştirmeleri
+* [x] Sarraf modülünde iyileştirmeler yapılmıştır.
