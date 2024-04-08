@@ -1,5 +1,9 @@
 ---
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -12,9 +16,11 @@ layout:
     visible: false
 ---
 
-# Versiyon 1.0.18
+# ✅ Versiyon 1.0.18
 
-✅ Versiyon 14 Ocak 2024 Pazar günü yayına alınmıştır
+{% hint style="info" %}
+14 Ocak 2024 Pazar günü yayına alınmıştır
+{% endhint %}
 
 ### Cari Açılış Bakiyesi Geliştirmesi
 
