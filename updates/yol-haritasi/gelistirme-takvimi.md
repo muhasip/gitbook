@@ -33,7 +33,11 @@ Yazılım ekibimiz aktif olarak aşağıdaki liste üzerinde çalışmaktadır.
 * [x] Minör tasarım hataları
 * [x] Responsive mobil arayüzde hataların giderilmesi
 * [x] Banka Entegrasyonu filtre yönetimi
+* [ ] Mail entegrasyonu servis değişikliği
 * [ ] Öğrenme modunda kılavuz erişimi
+* [ ] Bildirim Yönetimi
+  * [ ] WhatsApp bildirimleri
+  * [ ] Mobil uygulama bildirimleri
 
 
 
