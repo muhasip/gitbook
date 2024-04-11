@@ -62,23 +62,38 @@
 
 * [Sanal Pos](moduller/sanal-pos.md)
 * [E-Banka](moduller/e-banka/README.md)
+  * [Banka Hesap Hareketleri](moduller/e-banka/banka-hesap-hareketleri/README.md)
+    * [E-Banka Filtre](moduller/e-banka/banka-hesap-hareketleri/e-banka-filtre.md)
+    * [Fatura Otomasyonu](moduller/e-banka/banka-hesap-hareketleri/fatura-otomasyonu.md)
   * [Banka Entegrasyonu](moduller/e-banka/banka-entegrasyonu/README.md)
     * [Başvuru Süreci](moduller/e-banka/banka-entegrasyonu/muhasip-ile-banka-hesap-entegrasyonu-ve-suereci.md)
     * [Hesap Entegrasyonu](moduller/e-banka/banka-entegrasyonu/hesap-entegrasyonu.md)
   * [Banka Formları](moduller/e-banka/banka-formlari.md)
-  * [🤖 Fatura Otomasyonu](moduller/e-banka/fatura-otomasyonu.md)
+* [E-Fatura](moduller/e-fatura.md)
+* [GİB E-Arşiv](moduller/gib-e-arsiv.md)
+
+## Otomasyonlar
+
+* [Otomasyonlara Başlarken](otomasyonlar/otomasyonlara-baslarken.md)
+* [Tetikleyici](otomasyonlar/tetikleyici.md)
+* [İş Akışı](otomasyonlar/is-akisi.md)
 
 ## Sistem Ayarları
 
-* [Api Anahtarı Oluşturma](sistem-ayarlari/api-anahtari-olusturma.md)
-* [Kullanici ve Hesap Ayarları](sistem-ayarlari/kullanici-ve-hesap-ayarlari/README.md)
-  * [Hesap Bilgileri](sistem-ayarlari/kullanici-ve-hesap-ayarlari/hesap-bilgileri.md)
-  * [Kişisel Bilgiler](sistem-ayarlari/kullanici-ve-hesap-ayarlari/kisisel-bilgiler.md)
-  * [Kullanıcı İşlemleri](sistem-ayarlari/kullanici-ve-hesap-ayarlari/kullanici-islemleri.md)
+* [Hesap Bilgileri](sistem-ayarlari/hesap-bilgileri/README.md)
+  * [Müşavir Ofisiniz](sistem-ayarlari/hesap-bilgileri/muesavir-ofisiniz.md)
+  * [Destek İzni Açma](sistem-ayarlari/hesap-bilgileri/destek-izni-acma.md)
 * [Tanımlamalar](sistem-ayarlari/tanimlamalar.md)
-* [Destek İzni Açma](sistem-ayarlari/destek-izni-acma.md)
+* [Kullanıcı İşlemleri](sistem-ayarlari/kullanici-islemleri.md)
+* [Yazdırma Ayarları](sistem-ayarlari/yazdirma-ayarlari.md)
+* [Tekrar Şablonları](sistem-ayarlari/tekrar-sablonlari.md)
+* [Api Anahtarı Oluşturma](sistem-ayarlari/api-anahtari-olusturma.md)
 
 ## İpuçları
 
 * [Güncellemeler](https://updates.muhasip.pro/)
 * [Kısayollar](ipuclari/kisayollar.md)
+
+***
+
+* [Kişisel Bilgiler](kisisel-bilgiler.md)

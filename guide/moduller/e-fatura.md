@@ -1,16 +1,20 @@
 ---
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
-    visible: false
+    visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: false
 ---
 
-# Kullanici ve Hesap Ayarları
+# E-Fatura
 
