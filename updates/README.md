@@ -1,4 +1,6 @@
 ---
+cover: >-
+  https://images.unsplash.com/photo-1586902197503-e71026292412?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxzdW1tZXJ8ZW58MHx8fHwxNzEzMTc2MTk3fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
@@ -16,16 +18,31 @@ layout:
     visible: false
 ---
 
-# ✅ Versiyon 1.0.44
+# ✅ Versiyon 1.0.56
 
 {% hint style="success" %}
-Bu versiyon 18 Mart Pazartesi 03:00 da yayına alınmıştır.
+Bu versiyon 15 Nisan Pazartesi 04:00 da yayına alınmıştır.
 {% endhint %}
 
-* [ ] ~~Satış Fişi, Alış Fişi, Tahsilat ve Ödeme Fişlerinin tasarımlarının özelleştirilmesi~~
-* [ ] ~~E~~[~~-Fatura~~](https://www.muhasip.com.tr/e-fatura-entegrator) ~~haricinde yapılan satışların belgelendirilmesi ve WhatsApp, Sms veya Mail ile paylaşılması için PDF üretilmesi \[1.0.23]~~
-* [ ] Raporlama modülünde iyileştirmeler.
-* [ ] ~~Kişisel kısayollar ekleme \[1.0.29]~~
-* [x] Alış ve Satış listelemelerde ufak hatalar giderilmiştir.
-* [x] Minör Performans geliştirmeleri
-* [x] Sarraf modülünde iyileştirmeler yapılmıştır.
+### Planlanan geliştirmeler
+
+* [x] [CTRL+K veya CMD+K ile kullanım (Kısayollar)](https://kilavuz.muhasip.pro/ipuclari/kisayollar)
+* [x] [Workspace](https://www.muhasip.com.tr/workspace) için arayüz güncellemeleri
+* [x] [Klavyesi kullanım için kısayolların geliştirmesi](https://kilavuz.muhasip.pro/on-muhasebe/kisayollar)
+* [x] [E-Fatura otomasyonu](https://kilavuz.muhasip.pro/moduller/e-banka/fatura-otomasyonu)
+* [x] Minör tasarım hataları
+* [x] Responsive mobil arayüzde hataların giderilmesi
+* [x] Banka Entegrasyonu filtre yönetimi
+* [x] Mail entegrasyonu servis değişikliği
+* [x] Öğrenme modunda kılavuz erişimi
+* [ ] ~~Bildirim Yönetimi~~
+  * [ ] ~~WhatsApp bildirimleri~~
+  * [ ] ~~Mobil uygulama bildirimleri~~
+
+
+
+***
+
+### Plansız ara geliştirme ve güncellemeler
+
+* E-Arşiv portal tarafında tespit edilen bir takım hatalar giderildi.
