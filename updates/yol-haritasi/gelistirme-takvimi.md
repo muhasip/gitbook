@@ -29,8 +29,8 @@ Yazılım ekibimiz aktif olarak aşağıdaki liste üzerinde çalışmaktadır.
 * [ ] Bildirim Yönetimi
   * [ ] WhatsApp bildirimleri
   * [ ] Mobil uygulama bildirimleri
-* [x] Sarraf modülü pusula entegrasyonu otomatikleştirilmesi
-* [ ] Kasa detay sayfasında sıralama hatalarının giderilmesi
+
+
 
 
 
