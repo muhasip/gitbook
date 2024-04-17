@@ -29,6 +29,6 @@ Yazılım ekibimiz aktif olarak aşağıdaki liste üzerinde çalışmaktadır.
 * [ ] Bildirim Yönetimi
   * [ ] WhatsApp bildirimleri
   * [ ] Mobil uygulama bildirimleri
-* [x] Cari ve Ürün yönetiminde toplu güncelleme seçeneklerinin artırılması
-* [ ] Doviz bazlı ürün listelemede kur hatası
+
+
 

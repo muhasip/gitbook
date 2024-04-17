@@ -1,7 +1,7 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1586902197503-e71026292412?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxzdW1tZXJ8ZW58MHx8fHwxNzEzMTc2MTk3fDA&ixlib=rb-4.0.3&q=85
-coverY: 0
+  https://images.unsplash.com/photo-1468546458273-0e7360b59a37?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxzdW1lcnxlbnwwfHx8fDE3MTMzNjI5OTh8MA&ixlib=rb-4.0.3&q=85
+coverY: -85
 layout:
   cover:
     visible: true
@@ -18,31 +18,14 @@ layout:
     visible: false
 ---
 
-# ✅ Versiyon 1.0.56
+# ✅ Versiyon 1.0.57
 
 {% hint style="success" %}
-Bu versiyon 15 Nisan Pazartesi 04:00 da yayına alınmıştır.
+Bu versiyon 16 Nisan Pazartesi 04:00 da yayına alınmıştır.
 {% endhint %}
 
-### Planlanan geliştirmeler
-
-* [x] [CTRL+K veya CMD+K ile kullanım (Kısayollar)](https://kilavuz.muhasip.pro/ipuclari/kisayollar)
-* [x] [Workspace](https://www.muhasip.com.tr/workspace) için arayüz güncellemeleri
-* [x] [Klavyesi kullanım için kısayolların geliştirmesi](https://kilavuz.muhasip.pro/on-muhasebe/kisayollar)
-* [x] [E-Fatura otomasyonu](https://kilavuz.muhasip.pro/moduller/e-banka/fatura-otomasyonu)
-* [x] Minör tasarım hataları
-* [x] Responsive mobil arayüzde hataların giderilmesi
-* [x] Banka Entegrasyonu filtre yönetimi
-* [x] Mail entegrasyonu servis değişikliği
-* [x] Öğrenme modunda kılavuz erişimi
-* [ ] ~~Bildirim Yönetimi~~
-  * [ ] ~~WhatsApp bildirimleri~~
-  * [ ] ~~Mobil uygulama bildirimleri~~
 
 
+* [x] Cari ve Ürün yönetiminde toplu güncelleme seçeneklerinin artırılması
+* [x] Doviz bazlı ürün listelemede kur hatası
 
-***
-
-### Plansız ara geliştirme ve güncellemeler
-
-* E-Arşiv portal tarafında tespit edilen bir takım hatalar giderildi.
