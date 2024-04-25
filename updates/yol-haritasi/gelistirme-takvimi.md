@@ -29,6 +29,11 @@ Yazılım ekibimiz aktif olarak aşağıdaki liste üzerinde çalışmaktadır.
 * [ ] Bildirim Yönetimi
   * [ ] WhatsApp bildirimleri
   * [ ] Mobil uygulama bildirimleri
+* [ ] Online İşlemler
+  * [ ] Statik arayüz kütüphanesi seçildi
+  * [ ] &#x20;muhasip.page konfigürasyonu yapıldı
+* [ ] Modüller ve uygulamalar sayfalarının birleştirilmesi
+* [ ] Teklif ve satış uygulamasının modül olarak yeniden kodlanması
 
 
 
