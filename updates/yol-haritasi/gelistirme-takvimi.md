@@ -30,12 +30,14 @@ Yazılım ekibimiz aktif olarak aşağıdaki liste üzerinde çalışmaktadır.
   * [ ] WhatsApp bildirimleri
   * [ ] Mobil uygulama bildirimleri
 * [x] Online İşlemler
-  * [x] Statik arayüz kütüphanesi seçildi
-  * [x] &#x20;muhasip.page konfigürasyonu yapıldı
-* [ ] Modüller ve uygulamalar sayfalarının birleştirildi
-* [ ] Teklif ve satış uygulamasının modül olarak yeniden kodlandı
-* [ ] Satış ve Alış dökümlerinin raporlama modülüne eklendi
-* [ ] Gün sonu raporu aktif edildi
+  * [x] Statik arayüz kütüphanesi seçilmesi
+  * [x] &#x20;muhasip.page subdomain konfigürasyonu&#x20;
+  * [ ] Yetkilerin test edilmesi
+* [ ] Modüller ve uygulamalar sayfalarının birleştirilmesi
+* [ ] Teklif ve satış uygulamasının modül olarak yeniden kodlanması
+* [ ] Satış ve Alış dökümlerinin raporlama modülüne eklenmesi
+* [ ] Gün sonu raporu aktif edilmesi
+* [x] Yapıkredi bankası gün içinde gelen hareketlerin Muhasip'e düşmesini etikleyen hata tespit edildi ve giderildi.
 
 
 
