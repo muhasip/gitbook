@@ -71,6 +71,7 @@
   * [Banka Formları](moduller/e-banka/banka-formlari.md)
 * [E-Fatura](moduller/e-fatura.md)
 * [GİB E-Arşiv](moduller/gib-e-arsiv.md)
+* [Kısa Mesaj](moduller/kisa-mesaj.md)
 
 ## Otomasyonlar
 
