@@ -32,12 +32,13 @@ Yazılım ekibimiz aktif olarak aşağıdaki liste üzerinde çalışmaktadır.
 * [x] Online İşlemler
   * [x] Statik arayüz kütüphanesi seçilmesi
   * [x] &#x20;muhasip.page subdomain konfigürasyonu&#x20;
-  * [ ] Yetkilerin test edilmesi
+  * [x] Yetkilerin test edilmesi
 * [ ] Modüller ve uygulamalar sayfalarının birleştirilmesi
 * [ ] Teklif ve satış uygulamasının modül olarak yeniden kodlanması
 * [ ] Satış ve Alış dökümlerinin raporlama modülüne eklenmesi
 * [ ] Gün sonu raporu aktif edilmesi
 * [x] Yapıkredi bankası gün içinde gelen hareketlerin Muhasip'e düşmesini etikleyen hata tespit edildi ve giderildi.
+* [x] Mobilde tahsilatı işlemini etkileyen hata.
 
 
 
