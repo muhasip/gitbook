@@ -21,7 +21,7 @@ layout:
 # ✅ Versiyon 1.0.66
 
 {% hint style="success" %}
-Bu versiyon 13 Mays Pazartesi 04:30 da yayına alınmıştır.
+Bu versiyon 13 Mayıs Pazartesi 04:30 da yayına alınmıştır.
 {% endhint %}
 
 
