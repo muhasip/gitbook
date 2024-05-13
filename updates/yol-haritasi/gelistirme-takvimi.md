@@ -29,17 +29,7 @@ Yazılım ekibimiz aktif olarak aşağıdaki liste üzerinde çalışmaktadır.
 * [ ] Bildirim Yönetimi
   * [ ] WhatsApp bildirimleri
   * [ ] Mobil uygulama bildirimleri
-* [x] Online İşlemler
-  * [x] Statik arayüz kütüphanesi seçilmesi
-  * [x] &#x20;muhasip.page subdomain konfigürasyonu&#x20;
-  * [x] Yetkilerin test edilmesi
-* [x] Modüller ve uygulamalar sayfalarının birleştirilmesi
 * [ ] Teklif ve satış uygulamasının modül olarak yeniden kodlanması
-* [x] Satış ve Alış dökümlerinin raporlama modülüne eklenmesi
-* [x] Gün sonu raporu aktif edilmesi
-* [x] Yapıkredi bankası gün içinde gelen hareketlerin Muhasip'e düşmesini etikleyen hata tespit edildi ve giderildi.
-* [x] Mobilde tahsilatı işlemini etkileyen hata.
-* [ ] Ajanda Modülü geliştirilmesi
 
 
 

@@ -1,6 +1,6 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1572953745960-14685e3e9b49?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxzdW1tZXJ8ZW58MHx8fHwxNzEzMzg4NDU0fDA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1514925312285-7a2c94c2c095?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxtb3RoZXJ8ZW58MHx8fHwxNzE1NTY0MjUwfDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
@@ -18,14 +18,26 @@ layout:
     visible: false
 ---
 
-# ✅ Versiyon 1.0.58
+# ✅ Versiyon 1.0.66
 
 {% hint style="success" %}
-Bu versiyon 16 Nisan Salı 00:15 de yayına alınmıştır.
+Bu versiyon 13 Mays Pazartesi 04:30 da yayına alınmıştır.
 {% endhint %}
 
-* [x] Sarraf modülü pusula entegrasyonu otomatikleştirilmesi
-* [x] Kasa detay sayfasında sıralama hatalarının giderilmesi
+
+
+* [x] Online İşlemler
+  * [x] Statik arayüz kütüphanesi seçilmesi
+  * [x] &#x20;muhasip.page subdomain konfigürasyonu&#x20;
+  * [x] Yetkilerin test edilmesi
+* [x] Modüller ve uygulamalar sayfalarının birleştirilmesi
+* [x] Satış ve Alış dökümlerinin raporlama modülüne eklenmesi
+* [x] Gün sonu raporu aktif edilmesi
+* [x] Yapıkredi bankası gün içinde gelen hareketlerin Muhasip'e düşmesini etikleyen hata tespit edildi ve giderildi.
+* [x] Mobilde tahsilatı işlemini etkileyen hata.
+* [x] Ajanda Modülü geliştirilmesi
+
+
 
 
 
