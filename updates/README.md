@@ -25,7 +25,7 @@ Bu versiyon 20 Mayıs Pazartesi 02:30 da yayına alınmıştır.
 {% endhint %}
 
 * Enterprise ürünlerde otomatik işlem geliştirmeleri
-* Banka hereket sorgulama sayfasında zengin filtreleme geliştirmesi
+* Banka hareket sorgulama sayfasında zengin filtreleme geliştirmesi
 * Performans geliştirmeleri
 
 
