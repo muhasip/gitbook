@@ -21,15 +21,10 @@ layout:
 # 🦉 Geliştirme Takvimi
 
 {% hint style="warning" %}
-Yazılım ekibimiz aktif olarak aşağıdaki liste üzerinde çalışmaktadır.
+20 Mayıs 2024 itibari ile takvimimizi artık uygulama içinden paylaşıyoruz.
 {% endhint %}
 
 
-
-* [ ] Bildirim Yönetimi
-  * [ ] WhatsApp bildirimleri
-  * [ ] Mobil uygulama bildirimleri
-* [ ] Teklif ve satış uygulamasının modül olarak yeniden kodlanması
 
 
 

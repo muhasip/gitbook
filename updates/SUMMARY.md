@@ -2,7 +2,8 @@
 
 ## 🪐 Güncellemeler <a href="#guncellemeler" id="guncellemeler"></a>
 
-* [✅ Versiyon 1.0.66](README.md)
+* [✅ Versiyon 1.0.74](README.md)
+* [✅ Versiyon 1.0.66](<README (3).md>)
 * [✅ Versiyon 1.0.58](<README (2).md>)
 * [✅ Versiyon 1.0.57](<README (2) (1).md>)
 * [✅ Versiyon 1.0.56](<README (1).md>)
