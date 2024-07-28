@@ -18,14 +18,14 @@ layout:
     visible: false
 ---
 
-# 🗓️ Versiyon 1.0.95
+# ✅ Versiyon 1.0.95
 
-{% hint style="warning" %}
-Bu versiyon henüz yayınlanmamıştır.
+{% hint style="success" %}
+Bu versiyon 29 Temmuz Pazar 00:40 da yayına alınmıştır.
 {% endhint %}
 
 * Bazı filtreleme ekranlarındaki görüntüleme hataları giderildi.
-* Lonca entegrasyonu süreçleri tamamlandı.
+* [Lonca E-Ticaret](https://lonca.org) entegrasyonu süreçleri tamamlandı.
 * Bir çok minör arayüz güncellemesi yapıldı.
 * Hızlı kategori ekleme özelliğindeki sözdizimi[^1] sorunları giderildi.
 * Ürün/Hizmetler sayfasına sayfada gösterilecek kayıt sayısı eklendi.

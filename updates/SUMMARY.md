@@ -2,7 +2,7 @@
 
 ## 🪐 Güncellemeler
 
-* [🗓️ Versiyon 1.0.95](README.md)
+* [✅ Versiyon 1.0.95](README.md)
 * [✅ Versiyon 1.0.92](<README (4).md>)
 * [✅ Versiyon 1.0.74](<README (3).md>)
 * [✅ Versiyon 1.0.66](<README (3) (1).md>)
