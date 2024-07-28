@@ -1,6 +1,6 @@
 # Table of contents
 
-## 🪐 Güncellemeler
+## 🚀 Güncellemeler
 
 * [✅ Versiyon 1.0.95](README.md)
 * [✅ Versiyon 1.0.94](guncellemeler/versiyon-1.0.94.md)
