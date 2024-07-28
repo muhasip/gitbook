@@ -29,6 +29,7 @@ Bu versiyon henüz yayınlanmamıştır.
 * Bir çok minör arayüz güncellemesi yapıldı.
 * Hızlı kategori ekleme özelliğindeki sözdizimi[^1] sorunları giderildi.
 * Ürün/Hizmetler sayfasına sayfada gösterilecek kayıt sayısı eklendi.
+* Ajanda modülünde ilgili etiket sayfasındayken not ekle butonunda etiket otomatik seçili olarak getiren geliştirme yapıldı.
 
 
 
