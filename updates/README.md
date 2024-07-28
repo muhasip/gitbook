@@ -28,6 +28,7 @@ Bu versiyon henüz yayınlanmamıştır.
 * Lonca entegrasyonu süreçleri tamamlandı.
 * Bir çok minör arayüz güncellemesi yapıldı.
 * Hızlı kategori ekleme özelliğindeki sözdizimi[^1] sorunları giderildi.
+* Ürün/Hizmetler sayfasına sayfada gösterilecek kayıt sayısı eklendi.
 
 
 
