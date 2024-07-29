@@ -19,7 +19,3 @@
 * [✅ Versiyon 1.0.20](guncellemeler/versiyon-1.0.20.md)
 * [✅ Versiyon 1.0.19](guncellemeler/versiyon-1.0.19.md)
 * [✅ Versiyon 1.0.18](guncellemeler/versiyon-1.0.18.md)
-
-## 🌻 Yol Haritası
-
-* [🦉 Geliştirme Takvimi](yol-haritasi/gelistirme-takvimi.md)
