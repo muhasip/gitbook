@@ -2,15 +2,15 @@
 
 ## 🚀 Güncellemeler
 
-* [✅ Versiyon 1.0.95](README.md)
+* [✅ Versiyon 1.0.95](guncellemeler/versiyon-1.0.95.md)
 * [✅ Versiyon 1.0.94](guncellemeler/versiyon-1.0.94.md)
-* [✅ Versiyon 1.0.92](<README (4).md>)
-* [✅ Versiyon 1.0.74](<README (3).md>)
-* [✅ Versiyon 1.0.66](<README (3) (1).md>)
-* [✅ Versiyon 1.0.58](<README (2).md>)
-* [✅ Versiyon 1.0.57](<README (2) (1).md>)
-* [✅ Versiyon 1.0.56](<README (1).md>)
-* [✅ Versiyon 1.0.44](<README (1) (1).md>)
+* [✅ Versiyon 1.0.92](guncellemeler/versiyon-1.0.92.md)
+* [✅ Versiyon 1.0.74](guncellemeler/versiyon-1.0.74.md)
+* [✅ Versiyon 1.0.66](guncellemeler/versiyon-1.0.66.md)
+* [✅ Versiyon 1.0.58](guncellemeler/versiyon-1.0.58.md)
+* [✅ Versiyon 1.0.57](guncellemeler/versiyon-1.0.57.md)
+* [✅ Versiyon 1.0.56](guncellemeler/versiyon-1.0.56.md)
+* [✅ Versiyon 1.0.44](guncellemeler/versiyon-1.0.44.md)
 * [✅ Versiyon 1.0.38](guncellemeler/versiyon-1.0.38.md)
 * [✅ Versiyon 1.0.34](guncellemeler/versiyon-1.0.34.md)
 * [✅ Versiyon 1.0.32](guncellemeler/versiyon-1.0.32.md)
