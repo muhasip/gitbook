@@ -2,7 +2,8 @@
 
 ## 🚀 Güncellemeler
 
-* [✅ Versiyon 1.0.95](README.md)
+* [✅ Versiyon 1.0.96](README.md)
+* [✅ Versiyon 1.0.95](guncellemeler/1.0.95-1.md)
 * [✅ Versiyon 1.0.94](guncellemeler/1.0.94.md)
 * [✅ Versiyon 1.0.92](guncellemeler/versiyon-1.0.92.md)
 * [✅ Versiyon 1.0.74](guncellemeler/versiyon-1.0.74.md)
