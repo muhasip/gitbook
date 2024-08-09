@@ -1,7 +1,7 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1582275410499-b09bab451a19?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxldmVyZXN0fGVufDB8fHx8MTcyMjU1MDg3M3ww&ixlib=rb-4.0.3&q=85
-coverY: -97.73553719008265
+  https://images.unsplash.com/photo-1719530910477-182ceb10b681?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI4ODMxMDd8&ixlib=rb-4.0.3&q=85
+coverY: 23
 layout:
   cover:
     visible: true
@@ -18,21 +18,20 @@ layout:
     visible: false
 ---
 
-# ✅ Versiyon 1.0.96
+# ✅ Versiyon 1.0.97
 
 {% hint style="success" %}
-Bu versiyon 02 Ağustos Cuma 02:30 da yayına alınmıştır.
+Bu versiyon 04 Ağustos Pazartesi 04:30 da yayına alınmıştır.
 {% endhint %}
 
-* Cari ve Ürün filtrelemede Arşiv, Güncel veya Tümü seçeneği eklendi.
-* Doviz bazlı faturalarda doviz kuru girişindeki noktalama hatası giderildi.
-* Hizmet ve ürünlerde barkod üretim modülü geliştirildi.
-* Aynı VKN ile kayıt varsa uyarı ve onay aşaması geliştirildi.
-* Stok sayımında depoda yoksa dahi ürün ekleme işlemleri geliştirildi.
-* [Perakende Satış Ekranı](https://www.muhasip.com.tr/perakende-satis-programi) Test4 versiyonu geliştirildi.
-* Hizmet ve ürünlere varyant, set-seri özelliği beta olarak yayınladı.
-* Raporlamalar ve filtrelemeleri etkileyen bir kaç küçük hata giderildi.
-* [Lonca](https://www.muhasip.com.tr/e-ticaret-uygulamasi) Test1 versiyonu geliştirildi.
+* Hızlı Tahsilat ve Ödeme modülü geliştirildi.
+* Ürünlere Barkod tasarım özelliği geliştirildi.
+* Depo yönetiminde depo,raf,sıra gibi özelliklerin girileceği alan geliştirildi.
+* Mobil uygulamada tahsilat ve cari ekstreyi etkileyen hatalar giderildi.
+* Otomatik Makbuz ve Fatura numarası özelliği geliştirildi.
+* Ödeme ve tahsilatlarda makbuz numarasına göre filtreleme seçeneği geliştirildi.
+* [Sarraf uygulamasına](https://sarraf.pro/) Gider pusulası özelliği eklendi.
+* Sarraf uygulamasında [excel ile fatura kesme](https://www.muhasip.com.tr/on-muhasebe-programi) özelliği eklendi.
 
 
 

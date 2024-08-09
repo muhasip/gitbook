@@ -1,7 +1,7 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1529348915581-73628f0cf212?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxwYWxtfGVufDB8fHx8MTcyMjE0NTA5M3ww&ixlib=rb-4.0.3&q=85
-coverY: -142.07142857142858
+  https://images.unsplash.com/photo-1582275410499-b09bab451a19?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxldmVyZXN0fGVufDB8fHx8MTcyMjU1MDg3M3ww&ixlib=rb-4.0.3&q=85
+coverY: -97.73553719008265
 layout:
   cover:
     visible: true
@@ -18,18 +18,21 @@ layout:
     visible: false
 ---
 
-# ✅ Versiyon 1.0.95
+# ✅ Versiyon 1.0.96
 
 {% hint style="success" %}
-Bu versiyon 29 Temmuz Pazar 00:40 da yayına alınmıştır.
+Bu versiyon 02 Ağustos Cuma 02:30 da yayına alınmıştır.
 {% endhint %}
 
-* Bazı filtreleme ekranlarındaki görüntüleme hataları giderildi.
-* [Lonca E-Ticaret](https://lonca.org) entegrasyonu süreçleri tamamlandı.
-* Bir çok minör arayüz güncellemesi yapıldı.
-* Hızlı kategori ekleme özelliğindeki sözdizimi[^1] sorunları giderildi.
-* Ürün/Hizmetler sayfasına sayfada gösterilecek kayıt sayısı eklendi.
-* Ajanda modülünde ilgili etiket sayfasındayken not ekle butonunda etiket otomatik seçili olarak getiren geliştirme yapıldı.
+* Cari ve Ürün filtrelemede Arşiv, Güncel veya Tümü seçeneği eklendi.
+* Doviz bazlı faturalarda doviz kuru girişindeki noktalama hatası giderildi.
+* Hizmet ve ürünlerde barkod üretim modülü geliştirildi.
+* Aynı VKN ile kayıt varsa uyarı ve onay aşaması geliştirildi.
+* Stok sayımında depoda yoksa dahi ürün ekleme işlemleri geliştirildi.
+* [Perakende Satış Ekranı](https://www.muhasip.com.tr/perakende-satis-programi) Test4 versiyonu geliştirildi.
+* Hizmet ve ürünlere varyant, set-seri özelliği beta olarak yayınladı.
+* Raporlamalar ve filtrelemeleri etkileyen bir kaç küçük hata giderildi.
+* [Lonca](https://www.muhasip.com.tr/e-ticaret-uygulamasi) Test1 versiyonu geliştirildi.
 
 
 
@@ -39,6 +42,3 @@ Bu versiyon 29 Temmuz Pazar 00:40 da yayına alınmıştır.
 
 
 
-
-
-[^1]: [⭐](https://emojipedia.org/star) syntax
