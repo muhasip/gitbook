@@ -1,39 +1,16 @@
 ---
+description: Muhasip ve Muhasip tabanlı projelerimizin güncellemelerini takip edebilirsiniz
 cover: >-
-  https://images.unsplash.com/photo-1469536155880-453e70e42829?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxtb3VudHxlbnwwfHx8fDE3MjMyNDI4NTB8MA&ixlib=rb-4.0.3&q=85
-coverY: -466.21606648199446
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
+  https://images.unsplash.com/photo-1737143765999-bd3be790ab4f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg2ODc4ODl8&ixlib=rb-4.0.3&q=85
+coverY: 127
 ---
 
-# ✅ Versiyon 1.0.98
+# Bilgilendirme
 
-{% hint style="success" %}
-Bu versiyon 10 Ağustos Pazartesi 01:30 da yayına alınmıştır.
+Ar-Ge kapsamındayken ve kararlı olmayan güncellemeleri AR-GE GÜNCELLEMELERİ sekmesinde inceleyebilirsiniz.
+
+
+
+{% hint style="info" %}
+Versiyon 2 itibari ile kararlı sürüm güncellemelerini takip edebilirsiniz.&#x20;
 {% endhint %}
-
-* Akış ekranındaki haftalık ajanda tarih hatası giderildi.
-* Alış ve Satış ekranlarındaki filtrelemelerde geliştirmeler yapıldı.
-* E-Fatura filtrelemelerinde geliştirmeler yapıldı.
-* Bir çok hatalar minör hata giderildi.
-
-
-
-
-
-
-
-
-
