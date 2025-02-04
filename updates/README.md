@@ -5,7 +5,7 @@ cover: >-
 coverY: 127
 ---
 
-# Bilgilendirme
+# Giriş
 
 Ar-Ge kapsamındayken ve kararlı olmayan güncellemeleri AR-GE GÜNCELLEMELERİ sekmesinde inceleyebilirsiniz.
 
