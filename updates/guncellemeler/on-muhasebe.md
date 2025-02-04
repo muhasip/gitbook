@@ -1,4 +1,5 @@
 ---
+icon: calculator
 layout:
   title:
     visible: true
@@ -12,5 +13,5 @@ layout:
     visible: false
 ---
 
-# Muhasip
+# Ön Muhasebe
 
