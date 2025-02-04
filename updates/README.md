@@ -1,21 +1,46 @@
 ---
-description: Muhasip ve Muhasip tabanlı projelerimizin güncellemelerini takip edebilirsiniz
-icon: hand-wave
+icon: globe-pointer
+description: Son güncellemeleri buradan takip edebilirsiniz.
 cover: >-
-  https://images.unsplash.com/photo-1737143765999-bd3be790ab4f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg2ODc4ODl8&ixlib=rb-4.0.3&q=85
-coverY: 127
+  https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxjb2RlfGVufDB8fHx8MTczODY5MTM1N3ww&ixlib=rb-4.0.3&q=85
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
-# Giriş
+# 🌏 Güncellemeler
 
-Ar-Ge kapsamındayken ve kararlı olmayan güncellemeleri AR-GE GÜNCELLEMELERİ sekmesinde inceleyebilirsiniz.
+1 Ocak öncesindeki güncellemeler Ar-Ge kapsamında olduğu ve seri güncellemeler olduğu için dökümante edilmemiştir.
+
+Bu başlıkta 1 Ocak sonrasında yapılan ve yayınlamaya uygun güncellemeleri takip edebilirsiniz.
 
 
 
-{% hint style="info" %}
-05 Ocak 2025  itibari ile kararlı sürüm güncellemelerini takip edebilirsiniz.&#x20;
-{% endhint %}
+{% content-ref url="guncellemeler/on-muhasebe.md" %}
+[on-muhasebe.md](guncellemeler/on-muhasebe.md)
+{% endcontent-ref %}
 
-Sektörel bazlı özel güncellemeler için alt sayfalar oluşturulmuştur.
+{% content-ref url="guncellemeler/sarraf.md" %}
+[sarraf.md](guncellemeler/sarraf.md)
+{% endcontent-ref %}
 
-Ön Muhasebe modülü bütün sektörler için geçerlidir.
+{% content-ref url="guncellemeler/lonca.md" %}
+[lonca.md](guncellemeler/lonca.md)
+{% endcontent-ref %}
+
+{% content-ref url="guncellemeler/workspace.md" %}
+[workspace.md](guncellemeler/workspace.md)
+{% endcontent-ref %}
+

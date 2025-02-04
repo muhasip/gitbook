@@ -1,7 +1,6 @@
 # Table of contents
 
-* [👋 Giriş](README.md)
-* [🌏 Güncellemeler](guncellemeler/README.md)
+* [🌏 Güncellemeler](README.md)
   * [🖨️ Ön Muhasebe](guncellemeler/on-muhasebe.md)
   * [💎 Sarraf](guncellemeler/sarraf.md)
   * [☘️ Lonca](guncellemeler/lonca.md)
