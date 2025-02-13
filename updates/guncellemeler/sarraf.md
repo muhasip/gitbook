@@ -20,13 +20,13 @@ layout:
     visible: false
 ---
 
-# Sarraf
+# 💎 Sarraf
 
 
 
 ### v.1.2.05  :calendar\_spiral: 05 Şubat
 
-* [ ] Gider pusulasında toplu kur güncellemesi
+* [x] Gider pusulasında toplu kur güncellemesi
 
 
 

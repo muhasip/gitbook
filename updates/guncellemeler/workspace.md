@@ -6,5 +6,11 @@ cover: >-
 coverY: 223
 ---
 
-# Workspace
+# 🏭 Workspace
+
+{% hint style="info" %}
+**Güncellemeler Hk**
+
+Private olarak yazılım içinde paylaşılmaktadır.
+{% endhint %}
 
