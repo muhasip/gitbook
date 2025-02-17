@@ -32,8 +32,8 @@ Güncelleme yüklendiğinde ayrıca versiyon numarası ile sayfalaştırılmakta
 
 ## Gündemdeki geliştirmeler&#x20;
 
-{% content-ref url="v.1.1..md" %}
-[v.1.1..md](v.1.1..md)
+{% content-ref url="v.1.1.71.md" %}
+[v.1.1.71.md](v.1.1.71.md)
 {% endcontent-ref %}
 
 
