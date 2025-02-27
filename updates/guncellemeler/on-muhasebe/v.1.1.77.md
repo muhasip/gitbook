@@ -18,11 +18,21 @@ Birim Fiyat Yuvarlama: Aynı faturada iskonto veya bedelsiz kalemleri toplayıp 
 
 Alış Fiyat Takibi: Son girilen alış ile birim güncellenir ve değişiklik varsa uyarılır.
 
-
-
 #### Alış Birim Kuralları
 
 Alışlar Paket, Koli vb gibi alınıp adet bazında satılan ürünkler için kullanılabilir.
 
 Birim (Faturadaki birim), Çarpan girişi ile birden fazla yapılabilir.
+
+
+
+
+
+### Birden fazla resim yüklenmesi&#x20;
+
+Stok takibi yapılan ürünlere birden fazla resim yükleme özelliği aktif edildi
+
+
+
+{% file src="../../.gitbook/assets/Ekran Resmi 2025-02-27 19.11.34.png" %}
 
