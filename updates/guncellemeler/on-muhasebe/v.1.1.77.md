@@ -8,6 +8,8 @@ Satış için kullanılan karta alışta kullanılan diğer barkodlar girilebili
 
 Bu sayede mükerrer stok kartı oluşturulmaz.
 
+#### Diğer Detaylar
+
 <div align="left"><figure><img src="../../.gitbook/assets/Ekran Resmi 2025-02-27 19.23.31.png" alt=""><figcaption><p>Diğer Detaylar Sekmesi</p></figcaption></figure></div>
 
 Ham madde : Ürün modülü için kullanacaktır ve bu statüdeki kayıtların satışı yapılamaz.
