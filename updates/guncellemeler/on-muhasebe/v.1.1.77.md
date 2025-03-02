@@ -1,4 +1,12 @@
-# 🕐 V.1.1.77
+# ✅ V.1.1.77
+
+
+
+{% hint style="success" %}
+Bu güncelleme 03 Mart 2025 te yüklenmiştir.
+{% endhint %}
+
+
 
 ### Ürün Detay Bilgileri Güncellemesi
 
