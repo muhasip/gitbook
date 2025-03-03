@@ -1,7 +1,6 @@
 ---
 description: SarrafPro ile Pusula Kuyumcu Yazılımı entegrasyonu
-icon: code-merge
-cover: ../../.gitbook/assets/Ekran Resmi 2025-03-04 00.58.01.png
+cover: ../../../.gitbook/assets/Ekran Resmi 2025-03-04 00.58.01.png
 coverY: 325.0612244897959
 ---
 

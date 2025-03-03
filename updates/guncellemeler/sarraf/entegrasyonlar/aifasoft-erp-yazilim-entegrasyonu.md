@@ -1,7 +1,6 @@
 ---
 description: SarrafPro ile  Aifasoft ERP Yazılımı entegrasyonu
-icon: code-merge
-cover: ../../.gitbook/assets/Ekran Resmi 2025-03-04 00.56.56.png
+cover: ../../../.gitbook/assets/Ekran Resmi 2025-03-04 00.56.56.png
 coverY: 467.443413729128
 ---
 
