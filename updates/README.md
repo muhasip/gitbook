@@ -32,8 +32,8 @@ Bu başlıkta 1 Ocak sonrasında yapılan ve yayınlamaya uygun güncellemeleri 
 [on-muhasebe](guncellemeler/on-muhasebe/)
 {% endcontent-ref %}
 
-{% content-ref url="guncellemeler/sarraf.md" %}
-[sarraf.md](guncellemeler/sarraf.md)
+{% content-ref url="guncellemeler/sarraf/" %}
+[sarraf](guncellemeler/sarraf/)
 {% endcontent-ref %}
 
 {% content-ref url="guncellemeler/lonca/" %}
