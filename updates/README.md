@@ -36,8 +36,8 @@ Bu başlıkta 1 Ocak sonrasında yapılan ve yayınlamaya uygun güncellemeleri 
 [sarraf.md](guncellemeler/sarraf.md)
 {% endcontent-ref %}
 
-{% content-ref url="guncellemeler/lonca.md" %}
-[lonca.md](guncellemeler/lonca.md)
+{% content-ref url="guncellemeler/lonca/" %}
+[lonca](guncellemeler/lonca/)
 {% endcontent-ref %}
 
 {% content-ref url="guncellemeler/workspace/" %}
