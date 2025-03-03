@@ -40,7 +40,7 @@ Bu başlıkta 1 Ocak sonrasında yapılan ve yayınlamaya uygun güncellemeleri 
 [lonca.md](guncellemeler/lonca.md)
 {% endcontent-ref %}
 
-{% content-ref url="guncellemeler/workspace.md" %}
-[workspace.md](guncellemeler/workspace.md)
+{% content-ref url="guncellemeler/workspace/" %}
+[workspace](guncellemeler/workspace/)
 {% endcontent-ref %}
 
