@@ -1,5 +1,4 @@
 ---
-icon: calculator
 description: Muhasip ön muhasebe geliştirme notları
 cover: >-
   https://images.unsplash.com/photo-1625225233840-695456021cde?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxjYWxjdWxhdG9yfGVufDB8fHx8MTczODY5MzA0MXww&ixlib=rb-4.0.3&q=85

@@ -2,7 +2,7 @@
 
 * [🌏 Güncellemeler](README.md)
   * [🖨️ Ön Muhasebe](guncellemeler/on-muhasebe/README.md)
-    * [🕐 V.1.1.\*\*](guncellemeler/on-muhasebe/v.1.1..md)
+    * [✅ V.1.1.80](guncellemeler/on-muhasebe/v.1.1.80.md)
     * [✅ V.1.1.77](guncellemeler/on-muhasebe/v.1.1.77.md)
     * [✅ V.1.1.71](guncellemeler/on-muhasebe/v.1.1.71.md)
   * [💎 Sarraf](guncellemeler/sarraf.md)

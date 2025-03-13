@@ -1,7 +1,3 @@
----
-icon: spinner-scale
----
-
 # ✅ V.1.1.71
 
 {% hint style="success" %}

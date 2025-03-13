@@ -1,5 +1,4 @@
 ---
-icon: globe-pointer
 description: Son güncellemeleri buradan takip edebilirsiniz.
 cover: >-
   https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxjb2RlfGVufDB8fHx8MTczODY5MTM1N3ww&ixlib=rb-4.0.3&q=85
