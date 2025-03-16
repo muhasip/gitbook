@@ -32,3 +32,9 @@ Güvenilir, kullanıcı dostu ve özelleştirilebilir özellikleriyle Muhasip, i
 
 
 
+{% hint style="info" %}
+Bu dökümanlar belirli aralıklar ile güncellendiği için güncel durumu uygulama içinden takip edebilirsiniz.
+{% endhint %}
+
+
+

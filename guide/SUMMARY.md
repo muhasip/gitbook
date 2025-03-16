@@ -3,7 +3,7 @@
 * [Muhasip'e Genel Bakış](README.md)
 * [Nasıl Başlamalıyım?](nasil-baslamaliyim.md)
 
-## Ön Muhasebe <a href="#on-muhasebe" id="on-muhasebe"></a>
+## Ön Muhasebe
 
 * [Cariler](on-muhasebe/cariler/README.md)
   * [Cari Detay](on-muhasebe/cariler/cari-detay/README.md)
@@ -58,7 +58,7 @@
   * [Yeni Hizmet/Ürün Ekleme](on-muhasebe/stok/yeni-hizmet-ueruen-ekleme.md)
   * [Stok İşlemleri](on-muhasebe/stok/stok-islemleri.md)
 
-## Modüller <a href="#moduller" id="moduller"></a>
+## Modüller
 
 * [Sanal Pos](moduller/sanal-pos.md)
 * [E-Banka](moduller/e-banka/README.md)
