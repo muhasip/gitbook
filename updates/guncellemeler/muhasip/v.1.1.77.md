@@ -1,12 +1,8 @@
 # ✅ V.1.1.77
 
-
-
 {% hint style="success" %}
 Bu güncelleme 03 Mart 2025 te yüklenmiştir.
 {% endhint %}
-
-
 
 ### Ürün Detay Bilgileri Güncellemesi
 
@@ -48,7 +44,7 @@ Stok takibi yapılan ürünlere birden fazla resim yükleme özelliği aktif edi
 
 ## Demirbaş Modülü
 
-
+Geliştirmeleri [demirbas.md](../workspace/demirbas.md "mention") sayfasından takip edebilirsiniz
 
 
 
@@ -56,5 +52,5 @@ Stok takibi yapılan ürünlere birden fazla resim yükleme özelliği aktif edi
 
 ## Üretim Modülü
 
-
+Geliştirmeleri [uretim-modulu.md](../workspace/uretim-modulu.md "mention") sayfasından takip edebilirsiniz.
 
