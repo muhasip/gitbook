@@ -27,8 +27,8 @@ Bu başlıkta 1 Ocak sonrasında yapılan ve yayınlamaya uygun güncellemeleri 
 
 
 
-{% content-ref url="guncellemeler/on-muhasebe/" %}
-[on-muhasebe](guncellemeler/on-muhasebe/)
+{% content-ref url="guncellemeler/muhasip/" %}
+[muhasip](guncellemeler/muhasip/)
 {% endcontent-ref %}
 
 {% content-ref url="guncellemeler/sarraf.md" %}
