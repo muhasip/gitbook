@@ -1,8 +1,14 @@
-# 🕐 V.1.1.80
+# ✅ V.1.1.80
 
-{% hint style="info" %}
-Bu güncellemeyi 17 Mart 2025 tarihinde yayınlamayı planlıyoruz
+{% hint style="success" %}
+Bu güncelleme 14 Mart 2025 te yüklenmiştir.
 {% endhint %}
 
-* Akış ekranında bulunan banka Widget üzerinden tıklanan bankaların filtrelenmesini engelleyen yönlendirme sorunu giderildi.
+#### Satış E-Faturası geliştirmeleri
+
+Sipariş alanında Sipariş Dosyasından seçilmemesinden kaynaklanan şema hatası için uyarı eklendi
+
+İade faturalarında İade Edilecek Fatura Bilgisi girilmemesinden kaynaklanan şema hatası için uyarı eklendi
+
+Arayüzde iyileştirmeler yapıldı.
 

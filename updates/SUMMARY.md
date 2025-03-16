@@ -2,8 +2,8 @@
 
 * [🌏 Güncellemeler](README.md)
   * [🖨️ Muhasip](guncellemeler/muhasip/README.md)
-    * [🕐 V.1.1.80](guncellemeler/muhasip/v.1.1.80.md)
-    * [✅ V.1.1.80](guncellemeler/muhasip/v.1.1.80-1.md)
+    * [🕐 V.1.1.??](guncellemeler/muhasip/v.1.1..md)
+    * [✅ V.1.1.80](guncellemeler/muhasip/v.1.1.80.md)
     * [✅ V.1.1.77](guncellemeler/muhasip/v.1.1.77.md)
     * [✅ V.1.1.71](guncellemeler/muhasip/v.1.1.71.md)
   * [💎 Sarraf](guncellemeler/sarraf.md)
