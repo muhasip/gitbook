@@ -19,7 +19,7 @@ layout:
     visible: false
 ---
 
-# 🖨️ Ön Muhasebe
+# 🖨️ Muhasip
 
 {% hint style="info" %}
 Tavsiyeleriniz ile geliştirmeye aldığımız güncellemeleri buradan takip edebilirsiniz.
@@ -28,16 +28,6 @@ Güncelleme yüklendiğinde ayrıca versiyon numarası ile sayfalaştırılmakta
 {% endhint %}
 
 
-
-## Gündemdeki geliştirmeler&#x20;
-
-{% content-ref url="v.1.1.77.md" %}
-[v.1.1.77.md](v.1.1.77.md)
-{% endcontent-ref %}
-
-{% content-ref url="v.1.1.71.md" %}
-[v.1.1.71.md](v.1.1.71.md)
-{% endcontent-ref %}
 
 
 
