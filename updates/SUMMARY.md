@@ -7,6 +7,7 @@
     * [✅ V.1.1.77](guncellemeler/muhasip/v.1.1.77.md)
     * [✅ V.1.1.71](guncellemeler/muhasip/v.1.1.71.md)
   * [💎 Sarraf](guncellemeler/sarraf.md)
+    * [🕐 v.1.2.25](guncellemeler/sarraf/v.1.2.25.md)
     * [✅ v.1.2.05   05 Şubat](guncellemeler/sarraf/v.1.2.05-05-subat.md)
     * [✅ Masak Sorgu Güncellemesi](guncellemeler/sarraf/masak-sorgu-guncellemesi.md)
     * [Entegrasyonlar](guncellemeler/sarraf/entegrasyonlar/README.md)
