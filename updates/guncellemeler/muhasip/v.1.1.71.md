@@ -1,7 +1,7 @@
 # ✅ V.1.1.71
 
 {% hint style="success" %}
-Bu Güncelleme 17 Şubat 2025 yüklenmiştir.
+Bu Güncelleme 17 Şubat 2025 yayınlanmıştır.
 {% endhint %}
 
 Satış faturalarının PDF dökümlerinde alt toplamlarında önceki bakiye ve güncel bakiye eklenmesi geliştirmesi.

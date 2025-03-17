@@ -1,7 +1,7 @@
 # ✅ V.1.1.77
 
 {% hint style="success" %}
-Bu güncelleme 03 Mart 2025 te yüklenmiştir.
+Bu güncelleme 03 Mart 2025 te yayınlanmıştır.
 {% endhint %}
 
 ### Ürün Detay Bilgileri Güncellemesi

@@ -1,7 +1,7 @@
 # ✅ V.1.1.80
 
 {% hint style="success" %}
-Bu güncelleme 14 Mart 2025 te yüklenmiştir.
+Bu güncelleme 14 Mart 2025 te yayınlanmıştır.
 {% endhint %}
 
 #### Satış E-Faturası geliştirmeleri
