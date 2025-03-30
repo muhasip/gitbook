@@ -1,2 +1,6 @@
-# Destek Makaleleri
+---
+coverY: 0
+---
+
+# 👋 Hoşgeldiniz
 

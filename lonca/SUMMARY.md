@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Destek Makaleleri](README.md)
+* [👋 Hoşgeldiniz](README.md)
+  * [Lonca Nedir?](hosgeldiniz/lonca-nedir.md)
 * [Lonca 101](lonca-101.md)
 * [Katalog](katalog/README.md)
   * [Ürünler](katalog/urunler.md)
