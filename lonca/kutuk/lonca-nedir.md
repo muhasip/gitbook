@@ -6,6 +6,20 @@ cover: >-
   ../.gitbook/assets/freepik__a-bazaar-scene-during-the-ottoman-period-guild-cra__27041
   (1).png
 coverY: -95
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Lonca Nedir?
