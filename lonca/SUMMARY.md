@@ -5,5 +5,7 @@
 * [Katalog](katalog/README.md)
   * [Ürünler](katalog/urunler.md)
   * [Stok Sayım](katalog/stok-sayim.md)
-  * [Tanımlar](katalog/tanimlar.md)
+  * [Tanımlamalar](katalog/tanimlamalar/README.md)
+    * [Kategoriler](katalog/tanimlamalar/kategoriler.md)
+    * [Markalar](katalog/tanimlamalar/markalar.md)
 * [Siparişler](siparisler.md)
