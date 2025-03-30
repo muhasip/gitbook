@@ -1,5 +1,6 @@
 ---
 description: Biz Lonca'da, eski usulde bir ticaret deneyimi hedefliyoruz.
+icon: circle-info
 coverY: 0
 layout:
   cover:
