@@ -13,7 +13,7 @@
 * [Künye](lonca.shop/kunye.md)
 * [Katalog](lonca.shop/katalog/README.md)
   * [Ürünler](lonca.shop/katalog/urunler.md)
-  * [Stok Sayım](lonca.shop/katalog/stok-sayim.md)
+  * [Stok Yönetimi](lonca.shop/katalog/stok-yonetimi.md)
   * [Tanımlamalar](lonca.shop/katalog/tanimlamalar/README.md)
     * [Kategoriler](lonca.shop/katalog/tanimlamalar/kategoriler.md)
     * [Markalar](lonca.shop/katalog/tanimlamalar/markalar.md)
