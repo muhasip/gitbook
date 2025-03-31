@@ -5,7 +5,8 @@
 ## Kütük
 
 * [Lonca Nedir?](kutuk/lonca-nedir.md)
-* [Lonca 101](kutuk/lonca-101.md)
+* [Lonca 101](kutuk/lonca-101/README.md)
+  * [Google Ürün Kategorisi](kutuk/lonca-101/google-urun-kategorisi.md)
 * [Yol Haritası](kutuk/yol-haritasi.md)
 
 ## lonca.shop
