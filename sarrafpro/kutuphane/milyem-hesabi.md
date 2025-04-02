@@ -20,7 +20,7 @@ Milyem, altının 1000 birimdeki saf altın miktarını gösterir. Yani, 1000 mi
 
 Has Değeri = 33Gr\*0,583 = 19,24Gr Has altın&#x20;
 
-
+Detaylı Hesaplama için; [Kuyumcu Hesaplama Araçları](https://sarraf.pro/hesaplama-araclari) sayfamızı ziyaret edebilirsiniz.
 
 <details>
 
