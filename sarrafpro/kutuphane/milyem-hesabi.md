@@ -2,6 +2,17 @@
 description: >-
   Kuyumcularda "milyem" hesabı, altının saflık derecesini ifade eden bir ölçü
   birimidir.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Milyem Hesabı

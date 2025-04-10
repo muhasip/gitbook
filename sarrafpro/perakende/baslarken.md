@@ -1,11 +1,7 @@
 ---
-description: Diğer yazılımlar ile entegrasyon sağlayan genel kapsamlı özelliktir.
-icon: webhook
-coverY: 0
+description: Kuyumcu Perakende Programı
+icon: circle-info
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -18,5 +14,5 @@ layout:
     visible: false
 ---
 
-# Konnektör
+# Başlarken
 

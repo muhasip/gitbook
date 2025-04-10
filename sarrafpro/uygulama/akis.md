@@ -1,7 +1,11 @@
 ---
 description: Kuyumcuların Yapay zekasının büyüsü ile tanışın!
 icon: store
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

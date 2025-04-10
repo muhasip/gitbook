@@ -1,11 +1,8 @@
 ---
-description: Diğer yazılımlar ile entegrasyon sağlayan genel kapsamlı özelliktir.
-icon: webhook
-coverY: 0
+description: >-
+  Oda, Dernek veya Resmi oluşumlar haricinde SarrafPro içerisinde özel topluluk
+  oluşturabilirsiniz.
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -18,5 +15,5 @@ layout:
     visible: false
 ---
 
-# Konnektör
+# Loncalar
 

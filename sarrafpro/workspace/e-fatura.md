@@ -1,11 +1,6 @@
 ---
-description: Diğer yazılımlar ile entegrasyon sağlayan genel kapsamlı özelliktir.
-icon: webhook
-coverY: 0
+icon: file-invoice
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -18,5 +13,5 @@ layout:
     visible: false
 ---
 
-# Konnektör
+# E-Fatura
 

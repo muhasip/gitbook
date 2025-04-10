@@ -3,7 +3,11 @@ description: >-
   Sistemsel olarak gerekli tüm özelliklerin yönetildiği ve kapsamlı
   konfigürasyonların yapıldığı, admin yetkisi ile yönetilen sistem ayarları.
 icon: gear
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -16,7 +20,7 @@ layout:
     visible: false
 ---
 
-# Ayarlar
+# Admin
 
 ### Genel Ayarlar
 
