@@ -1,25 +1,25 @@
 # Table of contents
 
-* [Başlarken](README.md)
+* [Kuyumcu Zekası!](README.md)
 
-## Modüller
+## Uygulama
 
-* [Akış](moduller/akis.md)
-* [Otomasyon](moduller/otomasyon/README.md)
-  * [Manuel Ekstre](moduller/otomasyon/manuel-ekstre.md)
-* [Pos İşlem](moduller/pos-islem.md)
-* [Gider Pusulası](moduller/gider-pusulasi/README.md)
-  * [Manuel İşlemler](moduller/gider-pusulasi/manuel-islemler.md)
-  * [Rapor ve Yazdırma İşlemleri](moduller/gider-pusulasi/rapor-ve-yazdirma-islemleri.md)
-* [Mahsup](moduller/mahsup/README.md)
-  * [Pusula Yazılım](moduller/mahsup/pusula-yazilim.md)
-  * [AIFASOFT ERPGOLD](moduller/mahsup/aifasoft-erpgold.md)
-* [Ayarlar](moduller/ayarlar.md)
+* [Akış](uygulama/akis.md)
+* [Otomasyon](uygulama/otomasyon/README.md)
+  * [Faturalandırma](uygulama/otomasyon/faturalandirma/README.md)
+    * [Manuel Yükleme](uygulama/otomasyon/faturalandirma/manuel-yukleme.md)
+    * [Pos İşlem](uygulama/otomasyon/faturalandirma/pos-islem.md)
+  * [Gider Pusulası](uygulama/otomasyon/gider-pusulasi.md)
+* [Konnektör](uygulama/konnektor/README.md)
+  * [Entegrasyonlar](uygulama/konnektor/entegrasyonlar/README.md)
+    * [Pusula Yazılım](uygulama/konnektor/entegrasyonlar/pusula-yazilim.md)
+    * [AIFASOFT ERPGOLD](uygulama/konnektor/entegrasyonlar/aifasoft-erpgold.md)
+* [Denetim](uygulama/denetim.md)
+* [Ayarlar](uygulama/ayarlar.md)
 
-## Uygulamalar
+## Genel
 
-* [E-Fatura](https://destek.muhasip.tr/moduller/e-fatura)
-* [E-Banka](https://destek.muhasip.tr/moduller/e-banka)
+* [Topluluk](genel/topluluk.md)
 
 ## Kütüphane
 

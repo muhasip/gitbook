@@ -1,5 +1,5 @@
 ---
-icon: hand-wave
+icon: brain-circuit
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
@@ -18,5 +18,5 @@ layout:
     visible: true
 ---
 
-# Başlarken
+# Kuyumcu Zekası!
 

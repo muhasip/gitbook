@@ -1,3 +1,21 @@
+---
+description: >-
+  Sistemsel olarak gerekli tüm özelliklerin yönetildiği ve kapsamlı
+  konfigürasyonların yapıldığı, admin yetkisi ile yönetilen sistem ayarları.
+icon: gear
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # Ayarlar
 
 ### Genel Ayarlar

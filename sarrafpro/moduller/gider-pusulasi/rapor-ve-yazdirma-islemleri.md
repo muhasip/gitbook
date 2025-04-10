@@ -1,2 +1,0 @@
-# Rapor ve Yazdırma İşlemleri
-

@@ -1,6 +1,0 @@
----
-icon: fire-flame
----
-
-# Akış
-
