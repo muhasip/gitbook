@@ -17,3 +17,18 @@ layout:
 
 # Faturalandırma
 
+
+
+
+
+
+
+
+
+{% content-ref url="pos-islem.md" %}
+[pos-islem.md](pos-islem.md)
+{% endcontent-ref %}
+
+{% content-ref url="manuel-yukleme.md" %}
+[manuel-yukleme.md](manuel-yukleme.md)
+{% endcontent-ref %}

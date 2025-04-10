@@ -1,5 +1,6 @@
 ---
 description: Banka hareketleri haricindeki hareketleri aktarabileceğiniz bir özelliktir.
+hidden: true
 layout:
   title:
     visible: true
