@@ -1,4 +1,5 @@
 ---
+icon: circle-info
 layout:
   title:
     visible: true
