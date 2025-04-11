@@ -2,23 +2,23 @@
 
 * [Kuyumcu Zekası!](README.md)
 
-## Uygulama
+## application
 
-* [Akış](uygulama/akis.md)
-* [Otomasyon](uygulama/otomasyon/README.md)
-  * [Faturalandırma](uygulama/otomasyon/faturalandirma/README.md)
-    * [Manuel Yükleme](uygulama/otomasyon/faturalandirma/manuel-yukleme.md)
-    * [Pos İşlem](uygulama/otomasyon/faturalandirma/pos-islem.md)
-  * [Gider Pusulası](uygulama/otomasyon/gider-pusulasi.md)
-* [Konnektör](uygulama/konnektor/README.md)
-  * [Entegrasyonlar](uygulama/konnektor/entegrasyonlar/README.md)
-    * [Pusula Yazılım](uygulama/konnektor/entegrasyonlar/pusula-yazilim.md)
-    * [AIFASOFT ERPGOLD](uygulama/konnektor/entegrasyonlar/aifasoft-erpgold.md)
-* [Denetim](uygulama/denetim.md)
-* [Admin](uygulama/admin/README.md)
-  * [Entegrasyonlar](uygulama/admin/entegrasyonlar.md)
-  * [Ayarlar](uygulama/admin/ayarlar.md)
-  * [Şube Yönetimi](uygulama/admin/sube-yonetimi.md)
+* [Akış](application/flow.md)
+* [Otomasyon](application/automation/README.md)
+  * [Faturalandırma](application/otomasyon/faturalandirma/README.md)
+    * [Manuel Yükleme](application/otomasyon/faturalandirma/manuel-yukleme.md)
+    * [Pos İşlem](application/otomasyon/faturalandirma/pos-islem.md)
+  * [Gider Pusulası](application/otomasyon/gider-pusulasi.md)
+* [Konnektör](application/konnektor/README.md)
+  * [Entegrasyonlar](application/konnektor/entegrasyonlar/README.md)
+    * [Pusula Yazılım](application/konnektor/entegrasyonlar/pusula-yazilim.md)
+    * [AIFASOFT ERPGOLD](application/konnektor/entegrasyonlar/aifasoft-erpgold.md)
+* [Denetim](application/denetim.md)
+* [Admin](application/admin/README.md)
+  * [Entegrasyonlar](application/admin/entegrasyonlar.md)
+  * [Ayarlar](application/admin/ayarlar.md)
+  * [Şube Yönetimi](application/admin/sube-yonetimi.md)
 
 ## Ön Muhasebe
 
