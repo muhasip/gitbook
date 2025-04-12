@@ -53,4 +53,6 @@
 
 ## Kütüphane
 
-* [Milyem Hesabı](kutuphane/milyem-hesabi.md)
+* [Kısayollar](kutuphane/kisayollar.md)
+* [Kuyumcu Hesap Makinası](kutuphane/kuyumcu-hesap-makinasi/README.md)
+  * [Milyem Hesabı](kutuphane/kuyumcu-hesap-makinasi/milyem-hesabi.md)
