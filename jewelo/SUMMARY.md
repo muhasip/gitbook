@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Jewelo AI](README.md)
+* [Jewelo AI Guide](README.md)
