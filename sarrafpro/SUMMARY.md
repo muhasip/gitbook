@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Kuyumcu Zekası!](README.md)
+* [Sarraf Pro](README.md)
   * [Sarraf 101](readme/sarraf-101.md)
   * [Modüller](readme/moduller.md)
   * [İş Paylaşımı](readme/is-paylasimi.md)

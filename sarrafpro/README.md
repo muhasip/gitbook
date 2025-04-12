@@ -3,8 +3,9 @@ description: >-
   Sarraf Pro, kuyumcu esnafının günlük işlerini dijitalleştirerek zaman
   kazanmasını sağlayan bir yazılım platformudur.
 icon: brain-circuit
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
+cover: >-
+  https://images.unsplash.com/photo-1556740714-a8395b3bf30f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MXwxfHNlYXJjaHw4fHxtb25leXxlbnwwfHx8fDE3NDQ0OTYyNTB8MA&ixlib=rb-4.0.3&q=85
+coverY: -60
 layout:
   cover:
     visible: true
@@ -21,7 +22,7 @@ layout:
     visible: false
 ---
 
-# Kuyumcu Zekası!
+# Sarraf Pro
 
 {% stepper %}
 {% step %}
