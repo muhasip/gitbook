@@ -22,31 +22,31 @@ layout:
     visible: false
 ---
 
-# Sarraf Pro
+# Kuyumcu Zekası
 
 {% stepper %}
 {% step %}
 ### Giriş
 
-[Uygulamanın genel işleyişini anlayın.](readme/sarraf-101.md)
+[Uygulamanın genel işleyişini anlayın.](sarraf-pro/sarraf-101.md)
 {% endstep %}
 
 {% step %}
 ### Modüller
 
-[Modüller ve aksiyonlarını tanıyın](readme/moduller.md)
+[Modüller ve aksiyonlarını tanıyın](sarraf-pro/moduller.md)
 {% endstep %}
 
 {% step %}
 ### İş Paylaşımı
 
-[Verimli bir kullanım için yetkilendirme ve iş paylaşımını anlayın.](readme/is-paylasimi.md)
+[Verimli bir kullanım için yetkilendirme ve iş paylaşımını anlayın.](sarraf-pro/is-paylasimi.md)
 {% endstep %}
 
 {% step %}
 ### Bankalar
 
-[Bankaların nasıl çalıştığını öğrenin.](readme/bankalar.md)
+[Bankaların nasıl çalıştığını öğrenin.](sarraf-pro/bankalar.md)
 {% endstep %}
 
 {% step %}
@@ -58,12 +58,12 @@ layout:
 {% step %}
 ### Gider Pusulası
 
-[Gider pusulası tasarımını ve mantığını anlayın.](readme/gider-pusulasi.md)
+[Gider pusulası tasarımını ve mantığını anlayın.](sarraf-pro/gider-pusulasi.md)
 {% endstep %}
 
 {% step %}
 ### Sarraf Sözlüğü
 
-[Uygulamada kullandığımız terimleri öğrenin.](readme/sarraf-sozlugu.md)
+[Uygulamada kullandığımız terimleri öğrenin.](sarraf-pro/sarraf-sozlugu.md)
 {% endstep %}
 {% endstepper %}

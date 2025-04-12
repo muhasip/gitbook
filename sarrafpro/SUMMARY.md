@@ -1,13 +1,14 @@
 # Table of contents
 
-* [Sarraf Pro](README.md)
-  * [Sarraf 101](readme/sarraf-101.md)
-  * [Modüller](readme/moduller.md)
-  * [İş Paylaşımı](readme/is-paylasimi.md)
-  * [Bankalar](readme/bankalar.md)
-  * [E-Fatura](readme/e-fatura.md)
-  * [Gider Pusulası](readme/gider-pusulasi.md)
-  * [Sarraf Sözlüğü](readme/sarraf-sozlugu.md)
+* [Kuyumcu Zekası](README.md)
+* [Sarraf Pro](sarraf-pro/README.md)
+  * [Sarraf 101](sarraf-pro/sarraf-101.md)
+  * [Modüller](sarraf-pro/moduller.md)
+  * [İş Paylaşımı](sarraf-pro/is-paylasimi.md)
+  * [Bankalar](sarraf-pro/bankalar.md)
+  * [E-Fatura](sarraf-pro/e-fatura.md)
+  * [Gider Pusulası](sarraf-pro/gider-pusulasi.md)
+  * [Sarraf Sözlüğü](sarraf-pro/sarraf-sozlugu.md)
 
 ## Uygulama
 
