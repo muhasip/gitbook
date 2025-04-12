@@ -20,6 +20,12 @@ layout:
 
 # Akış
 
+Bu ekranda tek seferde aşağıdaki verileri göreceksiniz.
+
+{% content-ref url="../workspace/gunluk.md" %}
+[gunluk.md](../workspace/gunluk.md)
+{% endcontent-ref %}
+
 
 
 {% hint style="info" %}

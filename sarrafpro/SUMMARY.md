@@ -42,6 +42,7 @@
 
 ## Workspace
 
+* [Günlük](workspace/gunluk.md)
 * [Bankalar](workspace/bankalar.md)
 * [E-Fatura](workspace/e-fatura.md)
 * [Topluluk](workspace/topluluk/README.md)
