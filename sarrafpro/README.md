@@ -18,7 +18,7 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Kuyumcu Zekası!
@@ -33,36 +33,36 @@ layout:
 {% step %}
 ### Modüller
 
-Modüller ve aksiyonlarını tanıyın
+[Modüller ve aksiyonlarını tanıyın](readme/moduller.md)
 {% endstep %}
 
 {% step %}
 ### İş Paylaşımı
 
-Verimli bir kullanım için yetkilendirme ve iş paylaşımını anlayın.
+[Verimli bir kullanım için yetkilendirme ve iş paylaşımını anlayın.](readme/is-paylasimi.md)
 {% endstep %}
 
 {% step %}
 ### Bankalar
 
-Bankaların nasıl çalıştığını öğrenin.
+[Bankaların nasıl çalıştığını öğrenin.](readme/bankalar.md)
 {% endstep %}
 
 {% step %}
 ### E-Fatura
 
-Nasıl fatura keseceğinizi öğrenin.
+[Nasıl fatura keseceğinizi öğrenin.](workspace/e-fatura.md)
 {% endstep %}
 
 {% step %}
 ### Gider Pusulası
 
-Gider pusulası tasarımını ve mantığını anlayın.
+[Gider pusulası tasarımını ve mantığını anlayın.](readme/gider-pusulasi.md)
 {% endstep %}
 
 {% step %}
 ### Sarraf Sözlüğü
 
-Uygulamada kullandığımız terimleri öğrenin.
+[Uygulamada kullandığımız terimleri öğrenin.](readme/sarraf-sozlugu.md)
 {% endstep %}
 {% endstepper %}
