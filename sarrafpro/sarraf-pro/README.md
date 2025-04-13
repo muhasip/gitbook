@@ -26,44 +26,44 @@ layout:
 
 {% stepper %}
 {% step %}
-### Giriş
+#### Giriş
 
-[Uygulamanın genel işleyişini anlayın.](sarraf-pro/sarraf-101.md)
+[Uygulamanın genel işleyişini anlayın.](sarraf-101.md)
 {% endstep %}
 
 {% step %}
-### Modüller
+#### Modüller
 
-[Modüller ve aksiyonlarını tanıyın](sarraf-pro/moduller.md)
+[Modüller ve aksiyonlarını tanıyın](moduller.md)
 {% endstep %}
 
 {% step %}
-### İş Paylaşımı
+#### İş Paylaşımı
 
-[Verimli bir kullanım için yetkilendirme ve iş paylaşımını anlayın.](sarraf-pro/is-paylasimi.md)
+[Verimli bir kullanım için yetkilendirme ve iş paylaşımını anlayın.](is-paylasimi.md)
 {% endstep %}
 
 {% step %}
-### Bankalar
+#### Bankalar
 
-[Bankaların nasıl çalıştığını öğrenin.](sarraf-pro/bankalar.md)
+[Bankaların nasıl çalıştığını öğrenin.](bankalar.md)
 {% endstep %}
 
 {% step %}
-### E-Fatura
+#### E-Fatura
 
-[Nasıl fatura keseceğinizi öğrenin.](workspace/e-fatura.md)
+[Nasıl fatura keseceğinizi öğrenin.](e-fatura.md)
 {% endstep %}
 
 {% step %}
-### Gider Pusulası
+#### Gider Pusulası
 
-[Gider pusulası tasarımını ve mantığını anlayın.](sarraf-pro/gider-pusulasi.md)
+[Gider pusulası tasarımını ve mantığını anlayın.](gider-pusulasi.md)
 {% endstep %}
 
 {% step %}
-### Sarraf Sözlüğü
+#### Sarraf Sözlüğü
 
-[Uygulamada kullandığımız terimleri öğrenin.](sarraf-pro/sarraf-sozlugu.md)
+[Uygulamada kullandığımız terimleri öğrenin.](sarraf-sozlugu.md)
 {% endstep %}
 {% endstepper %}
