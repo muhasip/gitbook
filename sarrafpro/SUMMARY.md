@@ -13,16 +13,19 @@
 ## Uygulama
 
 * [Akış](uygulama/akis.md)
+* [Gider Pusulası](uygulama/gider-pusulasi/README.md)
+  * [Banka Hareketleri](uygulama/gider-pusulasi/banka-hareketleri.md)
+  * [Manuel Gider Pusulası](uygulama/gider-pusulasi/manuel-gider-pusulasi.md)
 * [Otomasyon](uygulama/otomasyon/README.md)
   * [Faturalandırma](uygulama/otomasyon/faturalandirma/README.md)
     * [Manuel Yükleme](uygulama/otomasyon/faturalandirma/manuel-yukleme.md)
     * [Pos İşlem](uygulama/otomasyon/faturalandirma/pos-islem.md)
-  * [Gider Pusulası](uygulama/otomasyon/gider-pusulasi.md)
 * [Konnektör](uygulama/konnektor/README.md)
   * [Entegrasyonlar](uygulama/konnektor/entegrasyonlar/README.md)
     * [Pusula Yazılım](uygulama/konnektor/entegrasyonlar/pusula-yazilim.md)
     * [AIFASOFT ERPGOLD](uygulama/konnektor/entegrasyonlar/aifasoft-erpgold.md)
 * [Denetim](uygulama/denetim.md)
+* [Envanter](uygulama/stok-kartlari.md)
 * [Admin](uygulama/admin/README.md)
   * [Entegrasyonlar](uygulama/admin/entegrasyonlar.md)
   * [Ayarlar](uygulama/admin/ayarlar.md)
@@ -35,7 +38,6 @@
   * [Müşteriler](on-muhasebe/cari-kartlari/musteriler.md)
   * [Toptancılar](on-muhasebe/cari-kartlari/toptancilar.md)
   * [Atölyeler](on-muhasebe/cari-kartlari/atolyeler.md)
-* [Stok Kartları](on-muhasebe/stok-kartlari.md)
 
 ## Perakende
 
