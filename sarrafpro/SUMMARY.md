@@ -16,7 +16,7 @@
 * [Otomasyon](uygulama/otomasyon/README.md)
   * [Faturalandırma](uygulama/otomasyon/faturalandirma/README.md)
     * [Manuel Yükleme](uygulama/otomasyon/faturalandirma/manuel-yukleme.md)
-    * [Pos İşlem](uygulama/otomasyon/faturalandirma/pos-islem.md)
+  * [Pos Slip](uygulama/otomasyon/pos-islem.md)
 * [Gider Pusulası](uygulama/gider-pusulasi/README.md)
   * [Banka Hareketleri](uygulama/gider-pusulasi/banka-hareketleri.md)
   * [Manuel Gider Pusulası](uygulama/gider-pusulasi/manuel-gider-pusulasi.md)

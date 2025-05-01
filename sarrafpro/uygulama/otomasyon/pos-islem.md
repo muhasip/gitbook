@@ -2,7 +2,6 @@
 description: >-
   Fiziksel veya Sanal POS hareketlerinin faturalandırma işlemlerine
   hazırlanacağı bir özelliktir.
-hidden: true
 layout:
   title:
     visible: true
@@ -16,5 +15,5 @@ layout:
     visible: false
 ---
 
-# Pos İşlem
+# Pos Slip
 
