@@ -65,11 +65,11 @@ TC Kimlik ile banka üzerindeki hareket Loglanarak sonraki işlemler için 2. a�
 {% endstepper %}
 
 {% hint style="danger" %}
-TC Kimlik No sisteminizde veya [topluluk](../../workspace/topluluk/ "mention") taki Tanıma sisteminde kayıtlı ise ve Kimlik Kartı geçerli ise süreç 3.aşamadan başlayarak hızlı bir şekilde devam eder.
+TC Kimlik No sisteminizde veya [topluluk](../workspace/topluluk/ "mention") taki Tanıma sisteminde kayıtlı ise ve Kimlik Kartı geçerli ise süreç 3.aşamadan başlayarak hızlı bir şekilde devam eder.
 {% endhint %}
 
 
 
 {% hint style="info" %}
-[musteriler.md](../../on-muhasebe/cari-kartlari/musteriler.md "mention") modülü alt yapısını kullanmaktadır.
+[musteriler.md](../on-muhasebe/cari-kartlari/musteriler.md "mention") modülü alt yapısını kullanmaktadır.
 {% endhint %}

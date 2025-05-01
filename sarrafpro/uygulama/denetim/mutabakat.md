@@ -1,5 +1,7 @@
 ---
-icon: abacus
+description: >-
+  Banka ile giden hareketlerin gider pusulası ve faturalarını kontrol
+  edebilirsiniz.
 layout:
   title:
     visible: true
@@ -13,5 +15,5 @@ layout:
     visible: false
 ---
 
-# Kuyumcu Hesap Makinası
+# Mutabakat
 

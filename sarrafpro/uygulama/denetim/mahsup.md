@@ -1,5 +1,7 @@
 ---
-icon: abacus
+description: >-
+  Banka ile gelen hareketleri defterinize veya programınızdaki kontrolleri
+  sağlamak için kullanılabilir.
 layout:
   title:
     visible: true
@@ -13,5 +15,5 @@ layout:
     visible: false
 ---
 
-# Kuyumcu Hesap Makinası
+# Mahsup
 
