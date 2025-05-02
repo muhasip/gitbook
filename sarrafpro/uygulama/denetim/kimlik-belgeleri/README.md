@@ -1,8 +1,5 @@
 ---
-description: >-
-  Fiziksel veya Sanal POS hareketlerinin faturalandırma işlemlerine
-  hazırlanacağı bir özelliktir.
-icon: receipt
+icon: address-card
 coverY: 0
 layout:
   cover:
@@ -20,5 +17,5 @@ layout:
     visible: false
 ---
 
-# Pos Slip
+# Kimlik Belgeleri
 

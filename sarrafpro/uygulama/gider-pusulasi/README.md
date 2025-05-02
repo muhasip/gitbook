@@ -4,7 +4,11 @@ description: >-
   ziynet ya da hurda altınlar için Gider Pusulalarını oluşturabileceğiniz bir
   özelliktir.
 icon: receipt
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

@@ -2,7 +2,12 @@
 description: >-
   Banka, Sanal POS veya Fiziksel POS üzerinden yapılan satışları E-Fatura
   entegrasyonu ile resmi belgeye dönüştüren özelliktir.
+icon: file-certificate
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

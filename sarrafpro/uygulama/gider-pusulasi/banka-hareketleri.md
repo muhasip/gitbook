@@ -4,7 +4,11 @@ description: >-
   onaylayabilirsiniz.
 hidden: true
 icon: subtitles
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

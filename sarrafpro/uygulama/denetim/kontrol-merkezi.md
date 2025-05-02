@@ -1,8 +1,5 @@
 ---
-description: >-
-  Fiziksel veya Sanal POS hareketlerinin faturalandırma işlemlerine
-  hazırlanacağı bir özelliktir.
-icon: receipt
+icon: check-double
 coverY: 0
 layout:
   cover:
@@ -20,5 +17,12 @@ layout:
     visible: false
 ---
 
-# Pos Slip
+# Kontrol Merkezi
+
+{% hint style="info" %}
+Mükerrer Hareket Kontrolü
+
+1. Aynı gün içinde birden fazla hareket
+2. Aynı kişiden aynı tutarda hareket
+{% endhint %}
 
