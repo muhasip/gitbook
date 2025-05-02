@@ -36,6 +36,7 @@
   * [Entegrasyonlar](uygulama/admin/entegrasyonlar.md)
   * [Ayarlar](uygulama/admin/ayarlar.md)
   * [Şube Yönetimi](uygulama/admin/sube-yonetimi.md)
+  * [Fatura Ayarları](uygulama/admin/fatura-ayarlari.md)
 
 ## Ön Muhasebe
 
