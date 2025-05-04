@@ -1,6 +1,4 @@
 ---
-description: Banka Hesap Takibi Nasıl Yapılır?
-hidden: true
 coverY: 0
 layout:
   cover:
@@ -18,5 +16,5 @@ layout:
     visible: false
 ---
 
-# Banka Hesap Takibi Nasıl Yapılır?
+# Kuyumcular için Yapay Zeka
 

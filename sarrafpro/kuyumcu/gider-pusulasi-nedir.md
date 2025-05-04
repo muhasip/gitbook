@@ -1,5 +1,5 @@
 ---
-hidden: true
+description: Kuyumcular için gider pusulası nasıl oluşturulur ve nedir?
 coverY: 0
 layout:
   cover:
@@ -17,5 +17,5 @@ layout:
     visible: false
 ---
 
-# Kuyumculukta İş Paylaşımı
+# Gider Pusulası Nedir?
 

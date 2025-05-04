@@ -1,7 +1,10 @@
 ---
-description: Kuyumcular Faturayı nasıl ve hangi hesaplamalar ile oluşturmalıdır?
-hidden: true
+description: Banka Hesap Takibi Nasıl Yapılır?
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -14,5 +17,5 @@ layout:
     visible: false
 ---
 
-# Kuyumcular için E-Fatura
+# Banka Hesap Takibi Nasıl Yapılır?
 

@@ -13,7 +13,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -24,3 +24,4 @@ layout:
 
 # Kuyumcu 4.0
 
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="kuyumcular-icin-yapay-zeka.md">kuyumcular-icin-yapay-zeka.md</a></td></tr></tbody></table>

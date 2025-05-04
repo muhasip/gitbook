@@ -1,5 +1,5 @@
 ---
-hidden: true
+description: Kuyumcular Faturayı nasıl ve hangi hesaplamalar ile oluşturmalıdır?
 coverY: 0
 layout:
   cover:
@@ -17,5 +17,5 @@ layout:
     visible: false
 ---
 
-# Kuyumcular için Yapay Zeka
+# Kuyumcular için E-Fatura
 
