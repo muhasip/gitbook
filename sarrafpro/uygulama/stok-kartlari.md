@@ -1,5 +1,8 @@
 ---
-icon: gem
+description: >-
+  Kuyumculuk sektöründeki hesaplamar için özel olarak AR-GE süreci ile
+  geliştirilmiştir.
+icon: pallet-boxes
 coverY: 0
 layout:
   cover:
