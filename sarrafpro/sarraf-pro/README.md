@@ -4,8 +4,8 @@ description: >-
   kazanmasını sağlayan bir yazılım platformudur.
 icon: gem
 cover: >-
-  https://images.unsplash.com/photo-1556740714-a8395b3bf30f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MXwxfHNlYXJjaHw4fHxtb25leXxlbnwwfHx8fDE3NDQ0OTYyNTB8MA&ixlib=rb-4.0.3&q=85
-coverY: -60
+  https://images.unsplash.com/photo-1438762398043-ac196c2fa1e7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxnb2xkfGVufDB8fHx8MTc0NjM5MDAxNHww&ixlib=rb-4.0.3&q=85
+coverY: 147
 layout:
   cover:
     visible: true
@@ -22,7 +22,7 @@ layout:
     visible: false
 ---
 
-# Sarraf Pro
+# Kuyumcu 4.0
 
 {% stepper %}
 {% step %}

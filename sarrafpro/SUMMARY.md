@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Kuyumcu Zekası](README.md)
-* [Sarraf Pro](sarraf-pro/README.md)
+* [Sarraf Pro](README.md)
+* [Kuyumcu 4.0](sarraf-pro/README.md)
   * [Sarraf 101](sarraf-pro/sarraf-101.md)
-  * [Modüller](sarraf-pro/moduller.md)
+  * [Kuyumcu Zekası](sarraf-pro/moduller.md)
   * [İş Paylaşımı](sarraf-pro/is-paylasimi.md)
   * [Bankalar](sarraf-pro/bankalar.md)
   * [E-Fatura](sarraf-pro/e-fatura.md)

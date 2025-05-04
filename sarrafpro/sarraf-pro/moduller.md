@@ -1,2 +1,6 @@
-# Modüller
+---
+coverY: 0
+---
+
+# Kuyumcu Zekası
 

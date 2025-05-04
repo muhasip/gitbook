@@ -4,8 +4,8 @@ description: >-
   kazanmasını sağlayan bir yazılım platformudur.
 icon: brain-circuit
 cover: >-
-  https://images.unsplash.com/photo-1556740714-a8395b3bf30f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MXwxfHNlYXJjaHw4fHxtb25leXxlbnwwfHx8fDE3NDQ0OTYyNTB8MA&ixlib=rb-4.0.3&q=85
-coverY: -60
+  https://images.unsplash.com/photo-1488229297570-58520851e868?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnb2xkJTIwYnJhaW58ZW58MHx8fHwxNzQ2MzkwMDY4fDA&ixlib=rb-4.0.3&q=85
+coverY: 0
 layout:
   cover:
     visible: true
@@ -22,7 +22,7 @@ layout:
     visible: false
 ---
 
-# Kuyumcu Zekası
+# Sarraf Pro
 
 {% embed url="https://youtu.be/FHBCFRpHdMg?si=5LA4S_G2v2B8ZDOm" %}
 Istanbul Jewelry Show Videosu
