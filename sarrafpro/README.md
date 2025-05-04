@@ -24,6 +24,10 @@ layout:
 
 # Sarraf Pro
 
-{% embed url="https://youtu.be/FHBCFRpHdMg?si=5LA4S_G2v2B8ZDOm" %}
-Istanbul Jewelry Show Videosu
-{% endembed %}
+## Sarraf Pro Kimler için uygundur?
+
+Rafineri, Toptan Kuyumcular, Çok Şubeli Kuyumcular ve Şubesiz Kuyumcular için kullanılmaktadır.
+
+
+
+Ayrıca Backhub ekibi olarak gelir elde ettiğimiz her sektörde olduğu gibi Kuyumculuk sektöründede sektöre saygı anlamında geliştirdiğimiz Sarraf.vip Projemiz ile dernekler için ücretsiz hizmetler sunmaktadır.
