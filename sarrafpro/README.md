@@ -24,46 +24,6 @@ layout:
 
 # Kuyumcu Zekası
 
-{% stepper %}
-{% step %}
-### Giriş
-
-[Uygulamanın genel işleyişini anlayın.](sarraf-pro/sarraf-101.md)
-{% endstep %}
-
-{% step %}
-### Modüller
-
-[Modüller ve aksiyonlarını tanıyın](sarraf-pro/moduller.md)
-{% endstep %}
-
-{% step %}
-### İş Paylaşımı
-
-[Verimli bir kullanım için yetkilendirme ve iş paylaşımını anlayın.](sarraf-pro/is-paylasimi.md)
-{% endstep %}
-
-{% step %}
-### Bankalar
-
-[Bankaların nasıl çalıştığını öğrenin.](sarraf-pro/bankalar.md)
-{% endstep %}
-
-{% step %}
-### E-Fatura
-
-[Nasıl fatura keseceğinizi öğrenin.](workspace/e-fatura.md)
-{% endstep %}
-
-{% step %}
-### Gider Pusulası
-
-[Gider pusulası tasarımını ve mantığını anlayın.](sarraf-pro/gider-pusulasi.md)
-{% endstep %}
-
-{% step %}
-### Sarraf Sözlüğü
-
-[Uygulamada kullandığımız terimleri öğrenin.](sarraf-pro/sarraf-sozlugu.md)
-{% endstep %}
-{% endstepper %}
+{% embed url="https://youtu.be/FHBCFRpHdMg?si=5LA4S_G2v2B8ZDOm" %}
+Istanbul Jewelry Show Videosu
+{% endembed %}
