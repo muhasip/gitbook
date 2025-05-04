@@ -4,8 +4,8 @@ description: >-
   kazanmasını sağlayan bir yazılım platformudur.
 icon: gem
 cover: >-
-  https://images.unsplash.com/photo-1438762398043-ac196c2fa1e7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxnb2xkfGVufDB8fHx8MTc0NjM5MDAxNHww&ixlib=rb-4.0.3&q=85
-coverY: 147
+  https://images.unsplash.com/photo-1580582202907-d01fd0bd4c87?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxqZXdlbHJ5JTIwc3RvcmV8ZW58MHx8fHwxNzQ2Mzk2MDcyfDA&ixlib=rb-4.0.3&q=85
+coverY: -398
 layout:
   cover:
     visible: true
