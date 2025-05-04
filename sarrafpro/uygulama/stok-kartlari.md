@@ -19,3 +19,8 @@ layout:
 
 # Envanter
 
+Envanter tanımları ile [Stok Modülü](../on-muhasebe/stok.md) eş zamanlı çalışmaktadır.
+
+Envanter olarak eklenen kayıtlar Spesiyal olarak tanımlanır ve bir çok [Kuyumcu Hesabını](../kutuphane/kuyumcu-hesap-makinasi/) yapabilir, [Varyantlı Fatura Otomasyonların](otomasyon/)da kullanılabilmektedir.
+
+&#x20;
