@@ -1,2 +1,0 @@
-# Gider Pusulası
-

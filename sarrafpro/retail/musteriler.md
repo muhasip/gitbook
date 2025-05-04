@@ -17,5 +17,5 @@ layout:
 # Müşteriler
 
 {% hint style="info" %}
-[musteriler.md](../on-muhasebe/cari-kartlari/musteriler.md "mention") modülü alt yapısını kullanmaktadır.
+[musteriler.md](../accounting/cari-kartlari/musteriler.md "mention") modülü alt yapısını kullanmaktadır.
 {% endhint %}

@@ -1,59 +1,58 @@
 # Table of contents
 
 * [Sarraf Pro](README.md)
-* [Kuyumcu 4.0](sarraf-pro/README.md)
-  * [Sarraf 101](sarraf-pro/sarraf-101.md)
-  * [Kuyumcu Zekası](sarraf-pro/moduller.md)
-  * [İş Paylaşımı](sarraf-pro/is-paylasimi.md)
-  * [Bankalar](sarraf-pro/bankalar.md)
-  * [E-Fatura](sarraf-pro/e-fatura.md)
-  * [Gider Pusulası](sarraf-pro/gider-pusulasi.md)
-  * [Sarraf Sözlüğü](sarraf-pro/sarraf-sozlugu.md)
+* [Sarraf 101](sarraf-101.md)
+* [Kuyumcu 4.0](kuyumcu/README.md)
+  * [Kuyumcular için Yapay Zeka](kuyumcu/moduller.md)
+  * [Kuyumculukta İş Paylaşımı](kuyumcu/is-paylasimi.md)
+  * [Banka Hesap Takibi Nasıl Yapılır?](kuyumcu/bankalar.md)
+  * [Kuyumcular için E-Fatura](kuyumcu/e-fatura.md)
+  * [Gider Pusulası Nedir?](kuyumcu/gider-pusulasi.md)
 
-## Uygulama
+## Uygulama <a href="#app" id="app"></a>
 
-* [Akış](uygulama/akis.md)
-* [Otomasyon](uygulama/otomasyon.md)
-* [Pos Slip](uygulama/pos-islem.md)
-* [Gider Pusulası](uygulama/gider-pusulasi/README.md)
-  * [Banka Hareketleri](uygulama/gider-pusulasi/banka-hareketleri.md)
-  * [Manuel Gider Pusulası](uygulama/gider-pusulasi/manuel-gider-pusulasi.md)
-* [Envanter](uygulama/stok-kartlari.md)
-* [Denetim](uygulama/denetim.md)
-  * [Kontrol Merkezi](uygulama/denetim/kontrol-merkezi.md)
-  * [Kimlik Belgeleri](uygulama/denetim/kimlik-belgeleri/README.md)
-    * [Kimlik Tanıma Sistemi](uygulama/denetim/kimlik-belgeleri/kimlik-tanima-sistemi/README.md)
-      * [🔐 Kimlik Saklama Güvenliği](uygulama/denetim/kimlik-belgeleri/kimlik-tanima-sistemi/kimlik-saklama-guvenligi.md)
-  * [Mahsup](uygulama/denetim/mahsup.md)
-* [Konnektör](uygulama/konnektor/README.md)
-  * [Entegrasyonlar](uygulama/konnektor/entegrasyonlar/README.md)
-    * [Pusula Yazılım](uygulama/konnektor/entegrasyonlar/pusula-yazilim.md)
-    * [AIFASOFT ERPGOLD](uygulama/konnektor/entegrasyonlar/aifasoft-erpgold.md)
-* [Mutabakat](uygulama/mutabakat.md)
-* [Admin](uygulama/admin/README.md)
-  * [Entegrasyonlar](uygulama/admin/entegrasyonlar.md)
-  * [Ayarlar](uygulama/admin/ayarlar.md)
-  * [Şube Yönetimi](uygulama/admin/sube-yonetimi.md)
-  * [Fatura Ayarları](uygulama/admin/fatura-ayarlari.md)
+* [Akış](app/akis.md)
+* [Otomasyon](app/otomasyon.md)
+* [Pos Slip](app/pos-islem.md)
+* [Gider Pusulası](app/gider-pusulasi/README.md)
+  * [Banka Hareketleri](app/gider-pusulasi/banka-hareketleri.md)
+  * [Manuel Gider Pusulası](app/gider-pusulasi/manuel-gider-pusulasi.md)
+* [Envanter](app/envanter.md)
+* [Denetim](app/denetim/README.md)
+  * [Kontrol Merkezi](app/denetim/kontrol-merkezi.md)
+  * [Kimlik Belgeleri](app/denetim/kimlik-belgeleri/README.md)
+    * [Kimlik Tanıma Sistemi](app/denetim/kimlik-belgeleri/kimlik-tanima-sistemi/README.md)
+      * [🔐 Kimlik Saklama Güvenliği](app/denetim/kimlik-belgeleri/kimlik-tanima-sistemi/kimlik-saklama-guvenligi.md)
+  * [Mahsup](app/denetim/mahsup.md)
+* [Konnektör](app/konnektor/README.md)
+  * [Entegrasyonlar](app/konnektor/entegrasyonlar/README.md)
+    * [Pusula Yazılım](app/konnektor/entegrasyonlar/pusula-yazilim.md)
+    * [AIFASOFT ERPGOLD](app/konnektor/entegrasyonlar/aifasoft-erpgold.md)
+* [Mutabakat](app/mutabakat.md)
+* [Admin](app/admin/README.md)
+  * [Entegrasyonlar](app/admin/entegrasyonlar.md)
+  * [Ayarlar](app/admin/ayarlar.md)
+  * [Şube Yönetimi](app/admin/sube-yonetimi.md)
+  * [Fatura Ayarları](app/admin/fatura-ayarlari.md)
 
-## Ön Muhasebe
+## Ön Muhasebe <a href="#accounting" id="accounting"></a>
 
-* [Başlarken](on-muhasebe/baslarken.md)
-* [Cari Kartları](on-muhasebe/cari-kartlari/README.md)
-  * [Müşteriler](on-muhasebe/cari-kartlari/musteriler.md)
-  * [Toptancılar](on-muhasebe/cari-kartlari/toptancilar.md)
-  * [Atölyeler](on-muhasebe/cari-kartlari/atolyeler.md)
-* [Satışlar](on-muhasebe/satislar.md)
-* [Alışlar](on-muhasebe/alislar.md)
-* [Çalışanlar](on-muhasebe/calisanlar.md)
-* [Stok](on-muhasebe/stok.md)
+* [Başlarken](accounting/baslarken.md)
+* [Cari Kartları](accounting/cari-kartlari/README.md)
+  * [Müşteriler](accounting/cari-kartlari/musteriler.md)
+  * [Toptancılar](accounting/cari-kartlari/toptancilar.md)
+  * [Atölyeler](accounting/cari-kartlari/atolyeler.md)
+* [Satışlar](accounting/satislar.md)
+* [Alışlar](accounting/alislar.md)
+* [Çalışanlar](accounting/calisanlar.md)
+* [Stok](accounting/stok.md)
 
-## Perakende
+## Perakende <a href="#retail" id="retail"></a>
 
-* [Başlarken](perakende/baslarken.md)
-* [Müşteriler](perakende/musteriler.md)
-* [Satışlar](perakende/satislar.md)
-* [Siparişler](perakende/siparisler.md)
+* [Başlarken](retail/baslarken.md)
+* [Müşteriler](retail/musteriler.md)
+* [Satışlar](retail/satislar.md)
+* [Siparişler](retail/siparisler.md)
 
 ***
 
@@ -70,8 +69,8 @@
 * [WhatsApp Entegrasyonu](workspace/whatsapp-entegrasyonu/README.md)
   * [WhatsApp Hesabı](workspace/whatsapp-entegrasyonu/whatsapp-hesabi.md)
 
-## Kütüphane
+## Kütüphane <a href="#library" id="library"></a>
 
-* [Kısayollar](kutuphane/kisayollar.md)
-* [Kuyumcu Hesap Makinası](kutuphane/kuyumcu-hesap-makinasi/README.md)
-  * [Milyem Hesabı](kutuphane/kuyumcu-hesap-makinasi/milyem-hesabi.md)
+* [Kısayollar](library/kisayollar.md)
+* [Kuyumcu Hesap Makinası](library/kuyumcu-hesap-makinasi/README.md)
+  * [Milyem Hesabı](library/kuyumcu-hesap-makinasi/milyem-hesabi.md)

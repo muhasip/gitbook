@@ -30,8 +30,8 @@ layout:
 Kuyumculuk sektörü için özel olarak Altın ve Para Birimleri alt yapısı ile çalışmaktadır.
 {% endhint %}
 
-Envanter tanımları ile [Stok Modülü](../on-muhasebe/stok.md) ile tanımlanan ürünlerde Envanter olarak işaretlenmesi gerekmektedir.
+Envanter tanımları ile [Stok Modülü](../accounting/stok.md) ile tanımlanan ürünlerde Envanter olarak işaretlenmesi gerekmektedir.
 
-Envanter olarak eklenen kayıtlar Spesiyal olarak tanımlanır ve bir çok [Kuyumcu Hesabını](../kutuphane/kuyumcu-hesap-makinasi/) yapabilir, [Varyantlı Fatura Otomasyonların](otomasyon.md)da kullanılabilmektedir.
+Envanter olarak eklenen kayıtlar Spesiyal olarak tanımlanır ve bir çok [Kuyumcu Hesabını](../library/kuyumcu-hesap-makinasi/) yapabilir, [Varyantlı Fatura Otomasyonların](otomasyon.md)da kullanılabilmektedir.
 
 &#x20;
