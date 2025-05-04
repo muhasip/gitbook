@@ -45,6 +45,9 @@
   * [Müşteriler](on-muhasebe/cari-kartlari/musteriler.md)
   * [Toptancılar](on-muhasebe/cari-kartlari/toptancilar.md)
   * [Atölyeler](on-muhasebe/cari-kartlari/atolyeler.md)
+* [Satışlar](on-muhasebe/satislar.md)
+* [Alışlar](on-muhasebe/alislar.md)
+* [Çalışanlar](on-muhasebe/calisanlar.md)
 * [Stok](on-muhasebe/stok.md)
 
 ## Perakende
