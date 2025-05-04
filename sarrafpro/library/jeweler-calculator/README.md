@@ -1,5 +1,5 @@
 ---
-icon: abacus
+icon: square-root-variable
 layout:
   title:
     visible: true

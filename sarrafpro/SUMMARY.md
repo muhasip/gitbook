@@ -72,5 +72,6 @@
 ## Kütüphane <a href="#library" id="library"></a>
 
 * [Kısayollar](library/kisayollar.md)
-* [Kuyumcu Hesap Makinası](library/kuyumcu-hesap-makinasi/README.md)
-  * [Milyem Hesabı](library/kuyumcu-hesap-makinasi/milyem-hesabi.md)
+* [Kuyumcu Hesap Makinası](library/jeweler-calculator/README.md)
+  * [Milyem Hesabı](library/jeweler-calculator/milyem-hesabi.md)
+  * [Milyem Nedir?](library/jeweler-calculator/milyem-nedir.md)
