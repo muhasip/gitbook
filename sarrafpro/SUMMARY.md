@@ -13,10 +13,8 @@
 ## Uygulama
 
 * [Akış](uygulama/akis.md)
-* [Otomasyon](uygulama/otomasyon/README.md)
-  * [Faturalandırma](uygulama/otomasyon/faturalandirma/README.md)
-    * [Manuel Yükleme](uygulama/otomasyon/faturalandirma/manuel-yukleme.md)
-  * [Pos Slip](uygulama/otomasyon/pos-islem.md)
+* [Otomasyon](uygulama/otomasyon.md)
+* [Pos Slip](uygulama/pos-islem.md)
 * [Gider Pusulası](uygulama/gider-pusulasi/README.md)
   * [Banka Hareketleri](uygulama/gider-pusulasi/banka-hareketleri.md)
   * [Manuel Gider Pusulası](uygulama/gider-pusulasi/manuel-gider-pusulasi.md)
