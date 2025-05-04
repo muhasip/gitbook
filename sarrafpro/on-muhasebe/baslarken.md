@@ -20,9 +20,9 @@ layout:
 
 # Başlarken
 
-Ön Muhasebe modülü, [Muhasip](https://app.gitbook.com/s/T47EAFwlXbTfbzBjLAXg/on-muhasebe) alt yapısı ile çalışmaktadır.
+Ön Muhasebe modülü, [Muhasip](https://app.gitbook.com/o/RVhlo5iTD0OTMksQNkKl/s/GmmhzfgB6AQcfJ6OPdCo/) alt yapısı ile çalışmaktadır.
 
-Özelleştirmeler haricinde Muhasip Ön Muhasebe Programı ile aynı özelliklere sahiptir.
+Özelleştirmeler haricinde [Muhasip Ön Muhasebe Programı](https://muhasip.tr) ile aynı özelliklere sahiptir.
 
 
 
