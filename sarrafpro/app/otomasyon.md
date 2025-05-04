@@ -24,3 +24,6 @@ layout:
 
 # Otomasyon
 
+{% hint style="info" %}
+Has Altın Birim fiyatlarını&#x20;
+{% endhint %}

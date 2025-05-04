@@ -24,6 +24,12 @@ layout:
 
 # Envanter
 
+Ürünleri HAS Altın veya Para birimlerine bağlayarak güncel varlıklarınızı takip edebilirsiniz.
+
+
+
+## Genel Bilgi
+
 {% hint style="warning" %}
 **Stok modülü ile aynı mantıkta çalışmamaktadır.**
 
