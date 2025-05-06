@@ -42,10 +42,7 @@
   * [Müşteriler](accounting/cari-kartlari/musteriler.md)
   * [Toptancılar](accounting/cari-kartlari/toptancilar.md)
   * [Atölyeler](accounting/cari-kartlari/atolyeler.md)
-* [Satışlar](accounting/satislar.md)
-* [Alışlar](accounting/alislar.md)
 * [Çalışanlar](accounting/calisanlar.md)
-* [Stok](accounting/stok.md)
 
 ## Perakende <a href="#retail" id="retail"></a>
 
