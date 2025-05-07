@@ -37,7 +37,6 @@
 
 ## Ön Muhasebe <a href="#accounting" id="accounting"></a>
 
-* [Başlarken](accounting/baslarken.md)
 * [Cari Kartları](accounting/cari-kartlari/README.md)
   * [Müşteriler](accounting/cari-kartlari/musteriler.md)
   * [Toptancılar](accounting/cari-kartlari/toptancilar.md)
@@ -53,7 +52,8 @@
 
 ***
 
-* [Tanımlar](tanimlar.md)
+* [Tanımlar](tanimlar/README.md)
+  * [Page 1](tanimlar/page-1.md)
 
 ## Workspace
 

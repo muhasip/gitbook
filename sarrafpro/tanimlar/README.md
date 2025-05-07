@@ -1,4 +1,5 @@
 ---
+description: Perakende Ekran Tanımları
 icon: folder-gear
 layout:
   title:
