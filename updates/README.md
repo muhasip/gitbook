@@ -31,9 +31,7 @@ Bu başlıkta 1 Ocak sonrasında yapılan ve yayınlamaya uygun güncellemeleri 
 [muhasip](guncellemeler/muhasip/)
 {% endcontent-ref %}
 
-{% content-ref url="guncellemeler/sarraf.md" %}
-[sarraf.md](guncellemeler/sarraf.md)
-{% endcontent-ref %}
+{% embed url="https://kilavuz.sarraf.pro/" %}
 
 {% content-ref url="guncellemeler/lonca/" %}
 [lonca](guncellemeler/lonca/)
