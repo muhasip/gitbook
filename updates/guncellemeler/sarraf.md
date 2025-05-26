@@ -21,3 +21,4 @@ layout:
 
 # 💎 Sarraf
 
+Güncel gelişmeleri [https://kilavuz.sarraf.pro/](https://kilavuz.sarraf.pro/) adresinden takip edebilirsiniz.

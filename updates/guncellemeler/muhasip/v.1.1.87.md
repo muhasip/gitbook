@@ -1,5 +1,16 @@
 ---
 description: Workspace V.1.1.67 Versiyonunu kapsar.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # ✅ V.1.1.87

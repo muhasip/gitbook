@@ -2,6 +2,20 @@
 description: BKK ve Cumhurbaşkanı Kararı ile Malvarlıkları Dondurulanlar Sorgulamaları
 cover: ../../.gitbook/assets/Ekran Resmi 2025-03-04 00.58.55.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # ✅ Masak Sorgu Güncellemesi
