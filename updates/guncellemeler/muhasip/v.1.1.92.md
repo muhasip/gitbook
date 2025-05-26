@@ -20,11 +20,11 @@ Geliştirme listesi;
 * [x] Tahsilat ve Ödemelerde Onay Kodu&#x20;
   * [x] Kasa türüne bağımsız olarak işlenebilir
   * [x] Müşavir ekranında Onay Kodu olan tahsilatlar Kredi Kartı ödemesi olarak listelenir
-* [ ] Kredi kartı türündeki kasalardan yapılan işlemler için geliştirmeler
-  * [ ] Kasa Bakiyelerini etkilemez
-  * [ ] Borç bakiyesinde gösterilir
-  * [ ] Sadece Kasa transferi ile kapatılır
-*   [ ] Sıralı Satış  ve Alış oluşturma (Bilgi)[^1]
+* [x] Kredi kartı türündeki kasalardan yapılan işlemler için geliştirmeler
+  * [x] Kasa Bakiyelerini etkilemez
+  * [x] Borç bakiyesinde gösterilir
+  * [x] Sadece Kasa transferi ile kapatılır
+* [ ] Sıralı Satış  ve Alış oluşturma (Bilgi)[^1]
 
 
 
