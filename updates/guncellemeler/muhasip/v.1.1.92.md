@@ -13,7 +13,13 @@ layout:
     visible: false
 ---
 
-# 🕐 V.1.1.92
+# ✅ V.1.1.92
+
+
+
+{% hint style="success" %}
+Bu güncellemeyi 27 Mayıs 2025 tarihinde yayımlanmıştır.
+{% endhint %}
 
 Geliştirme listesi;
 
@@ -24,7 +30,8 @@ Geliştirme listesi;
   * [x] Kasa Bakiyelerini etkilemez
   * [x] Borç bakiyesinde gösterilir
   * [x] Sadece Kasa transferi ile kapatılır
-* [ ] Sıralı Satış  ve Alış oluşturma (Bilgi)[^1]
+* [ ] ~~Sıralı Satış  ve Alış oluşturma~~ [~~(Bilgi)~~](#user-content-fn-1)[^1]
+* [x] İçe aktarılan faturalar için Stok Eşleştirme özelliği
 
 
 

@@ -2,7 +2,7 @@
 
 * [🌏 Güncellemeler](README.md)
   * [🖨️ Muhasip](guncellemeler/muhasip/README.md)
-    * [🕐 V.1.1.92](guncellemeler/muhasip/v.1.1.92.md)
+    * [✅ V.1.1.92](guncellemeler/muhasip/v.1.1.92.md)
     * [✅ V.1.1.87](guncellemeler/muhasip/v.1.1.87.md)
     * [✅ V.1.1.81](guncellemeler/muhasip/v.1.1.81.md)
     * [✅ V.1.1.80](guncellemeler/muhasip/v.1.1.80.md)
