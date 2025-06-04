@@ -60,7 +60,8 @@
 
 ## Modüller
 
-* [Sanal Pos](moduller/sanal-pos.md)
+* [Sanal Pos](moduller/sanal-pos/README.md)
+  * [Sektörel Banka Taksit Limitleri](moduller/sanal-pos/sektorel-banka-taksit-limitleri.md)
 * [E-Banka](moduller/e-banka/README.md)
   * [Banka Hesap Hareketleri](moduller/e-banka/banka-hesap-hareketleri/README.md)
     * [E-Banka Filtre](moduller/e-banka/banka-hesap-hareketleri/e-banka-filtre.md)
