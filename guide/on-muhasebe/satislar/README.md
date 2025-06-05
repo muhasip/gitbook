@@ -16,5 +16,5 @@ layout:
     visible: false
 ---
 
-# Satışlar
+# 📤 Satışlar
 

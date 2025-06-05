@@ -16,7 +16,7 @@ layout:
     visible: false
 ---
 
-# Finans
+# 💸 Finans
 
 
 

@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# Cariler
+# 🌏 Cariler
 
 Müşteri ve Tedarikçilerini Cariler modülünde takip edebilirsiniz.
 
