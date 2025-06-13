@@ -19,7 +19,7 @@ layout:
     visible: false
 ---
 
-# E-Banka
+# 💸 E-Banka
 
 Muhasip üzerinden entegrasyon gerçekleştirdiğiniz bankanızdan gelen ve giden ödemeleri kontrol edebilir, otomatik olarak mahsuplaştırabilirsiniz.&#x20;
 

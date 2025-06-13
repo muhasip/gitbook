@@ -16,7 +16,7 @@ layout:
     visible: false
 ---
 
-# Hesap Bilgileri
+# ⚙️ Hesap Bilgileri
 
 Muhasip'e kaydolduğunuz işletme bilgilerinizi güncellemek, logonuzu eklemek ya da değiştirmek gibi işlemleri gerçekleştirmek, ücretsiz paketinizi Kobi paketine yükseltmek ve diğer işlemler için kullanabilirsiniz.
 

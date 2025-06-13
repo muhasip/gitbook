@@ -2,7 +2,7 @@
 description: Sanal Pos Entegrasyonu
 ---
 
-# Sanal Pos
+# 💳 Sanal Pos
 
 {% content-ref url="sektorel-banka-taksit-limitleri.md" %}
 [sektorel-banka-taksit-limitleri.md](sektorel-banka-taksit-limitleri.md)

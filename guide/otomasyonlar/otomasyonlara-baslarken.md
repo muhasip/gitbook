@@ -17,7 +17,7 @@ layout:
     visible: false
 ---
 
-# Otomasyonlara Başlarken
+# ℹ️ Otomasyonlara Başlarken
 
 {% hint style="danger" %}
 Bu özellik beta ve AR-GE aşamasındadır.

@@ -61,9 +61,9 @@
 
 ## Modüller
 
-* [Sanal Pos](moduller/sanal-pos/README.md)
+* [💳 Sanal Pos](moduller/sanal-pos/README.md)
   * [Sektörel Banka Taksit Limitleri](moduller/sanal-pos/sektorel-banka-taksit-limitleri.md)
-* [E-Banka](moduller/e-banka/README.md)
+* [💸 E-Banka](moduller/e-banka/README.md)
   * [Banka Hesap Hareketleri](moduller/e-banka/banka-hesap-hareketleri/README.md)
     * [E-Banka Filtre](moduller/e-banka/banka-hesap-hareketleri/e-banka-filtre.md)
     * [Fatura Otomasyonu](moduller/e-banka/banka-hesap-hareketleri/fatura-otomasyonu.md)
@@ -71,19 +71,20 @@
     * [Başvuru Süreci](moduller/e-banka/banka-entegrasyonu/muhasip-ile-banka-hesap-entegrasyonu-ve-suereci.md)
     * [Hesap Entegrasyonu](moduller/e-banka/banka-entegrasyonu/hesap-entegrasyonu.md)
   * [Banka Formları](moduller/e-banka/banka-formlari.md)
-* [E-Fatura](moduller/e-fatura.md)
-* [GİB E-Arşiv](moduller/gib-e-arsiv.md)
-* [Kısa Mesaj](moduller/kisa-mesaj.md)
+* [🧾 E-Fatura](moduller/e-fatura.md)
+* [🏛️ GİB E-Arşiv](moduller/gib-e-arsiv.md)
+* [💬 Kısa Mesaj](moduller/kisa-mesaj.md)
 
 ## Otomasyonlar
 
-* [Otomasyonlara Başlarken](otomasyonlar/otomasyonlara-baslarken.md)
-* [Tetikleyici](otomasyonlar/tetikleyici.md)
-* [İş Akışı](otomasyonlar/is-akisi.md)
+* [ℹ️ Otomasyonlara Başlarken](otomasyonlar/otomasyonlara-baslarken.md)
+* [▶️ Tetikleyici](otomasyonlar/tetikleyici.md)
+* [🌟 İş Akışı](otomasyonlar/is-akisi.md)
+* [📁 Excel Aktarım Modülü](otomasyonlar/excel-aktarim-modulu.md)
 
 ## Sistem Ayarları
 
-* [Hesap Bilgileri](sistem-ayarlari/hesap-bilgileri/README.md)
+* [⚙️ Hesap Bilgileri](sistem-ayarlari/hesap-bilgileri/README.md)
   * [Müşavir Ofisiniz](sistem-ayarlari/hesap-bilgileri/muesavir-ofisiniz.md)
   * [Destek İzni Açma](sistem-ayarlari/hesap-bilgileri/destek-izni-acma.md)
 * [Tanımlamalar](sistem-ayarlari/tanimlamalar.md)

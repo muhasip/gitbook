@@ -20,7 +20,7 @@ layout:
     visible: false
 ---
 
-# Tetikleyici
+# ▶️ Tetikleyici
 
 ### Kullanılabilir tetikleyici listesi
 
