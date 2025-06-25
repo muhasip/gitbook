@@ -1,0 +1,43 @@
+# Table of contents
+
+## Uygulama
+
+* [Akış](README.md)
+
+***
+
+* [Tezgah](tezgah/README.md)
+  * [Müşteriler](tezgah/musteriler.md)
+  * [Alış ve Satış İşlemleri](tezgah/alis-ve-satis-islemleri.md)
+  * [Sipariş Takip](tezgah/siparis-takip.md)
+* [Resmileştirme](resmilestirme/README.md)
+  * [E-Fatura](resmilestirme/e-fatura.md)
+  * [Gider Pusulası](resmilestirme/gider-pusulasi.md)
+  * [Mutabakat](resmilestirme/mutabakat.md)
+* [Borsa](borsa/README.md)
+  * [Fiyat Listesi](borsa/fiyat-listesi.md)
+  * [Fiyat Ekranları](borsa/fiyat-ekranlari.md)
+* [Envanter](envanter/README.md)
+  * [Ziynet Kartları](envanter/ziynet-kartlari.md)
+  * [Doviz İşlemleri](envanter/doviz-islemleri.md)
+  * [Üretim Reçeteleri](envanter/uretim-receteleri.md)
+* [Denetim](denetim/README.md)
+  * [Yaptırım Sorguları](denetim/yaptirim-sorgulari.md)
+* [Muhasebe](muhasebe/README.md)
+  * [Cariler](muhasebe/cariler.md)
+  * [Kasalar](muhasebe/kasalar.md)
+  * [Hareketler](muhasebe/hareketler/README.md)
+    * [Satış İşlemleri](muhasebe/hareketler/satis-islemleri.md)
+    * [Alış İşlemleri](muhasebe/hareketler/alis-islemleri.md)
+* [Entegrasyonlar](entegrasyonlar/README.md)
+  * [E-Fatura Entegrasyonu](entegrasyonlar/e-fatura-entegrasyonu.md)
+  * [WhatsApp Entegrasyonu](entegrasyonlar/whatsapp-entegrasyonu.md)
+  * [Banka Entegrasyonları](entegrasyonlar/banka-entegrasyonlari.md)
+  * [Konnektör](entegrasyonlar/konnektor.md)
+* [Konsol](konsol/README.md)
+  * [Uygulama Ayarları](konsol/uygulama-ayarlari.md)
+  * [Entegrasyon Ayarları](konsol/entegrasyon-ayarlari.md)
+  * [Resmileştirme Ayarları](konsol/resmilestirme-ayarlari.md)
+  * [Kullanıcılar](konsol/kullanicilar/README.md)
+    * [Yetkilendirmeler](konsol/kullanicilar/yetkilendirmeler.md)
+  * [Şubeler](konsol/subeler.md)

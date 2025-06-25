@@ -1,0 +1,2 @@
+# Entegrasyon Ayarları
+

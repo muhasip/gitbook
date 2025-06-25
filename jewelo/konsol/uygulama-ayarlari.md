@@ -1,0 +1,2 @@
+# Uygulama Ayarları
+
