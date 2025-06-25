@@ -23,6 +23,7 @@
   * [Üretim Reçeteleri](envanter/uretim-receteleri.md)
 * [Denetim](denetim/README.md)
   * [Yaptırım Sorguları](denetim/yaptirim-sorgulari.md)
+  * [Kimlik Kartları](denetim/kimlik-kartlari.md)
 * [Muhasebe](muhasebe/README.md)
   * [Cariler](muhasebe/cariler.md)
   * [Kasalar](muhasebe/kasalar.md)
