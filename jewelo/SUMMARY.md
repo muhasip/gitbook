@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Başlarken](README.md)
+
 ## Uygulama
 
-* [Akış](README.md)
+* [Akış](<README (1).md>)
 
 ***
 
