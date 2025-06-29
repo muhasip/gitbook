@@ -5,7 +5,7 @@ description: Geliştirmenin kullanıma yansıyan katkısı
 # ✅ V.1.2.01
 
 {% hint style="success" %}
-Bu güncellemeyi 29 Haziran 2025 tarihinde yayımlanmıştır.
+Bu güncellemeyi 30 Haziran 2025 tarihinde yayımlanmıştır.
 {% endhint %}
 
 E-Fatura Senkronizasyon Geliştirmeleri
