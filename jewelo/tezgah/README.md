@@ -5,3 +5,4 @@ icon: layer-plus
 
 # Tezgah
 
+Offline Çalışabiliyor

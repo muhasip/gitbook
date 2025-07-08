@@ -1,5 +1,5 @@
 ---
-icon: certificate
+icon: trophy-star
 ---
 
 # Konnektör

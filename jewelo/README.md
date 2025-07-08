@@ -21,3 +21,9 @@ Tanımlar
 <i class="fa-certificate">:certificate:</i> Enterprise (JW)
 
 <i class="fa-layer-plus">:layer-plus:</i> Modül (Harici Satın Alınır)
+
+| Paket                                                       | Lisans Ödemesi | Yıllık |
+| ----------------------------------------------------------- | -------------- | ------ |
+| <i class="fa-gem">:gem:</i> Sarraf (PY)                     | -              | 999$   |
+| <i class="fa-trophy-star">:trophy-star:</i> Premium (SP)    | $3.500         | $500   |
+| <i class="fa-certificate">:certificate:</i> Enterprise (JW) | $6.000         | $1.000 |
