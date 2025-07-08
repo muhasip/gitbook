@@ -1,6 +1,6 @@
 ---
 description: Toptan veya perakende satış ve alış işlemleri
-icon: trophy-star
+icon: layer-plus
 ---
 
 # Tezgah

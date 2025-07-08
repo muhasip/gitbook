@@ -1,5 +1,5 @@
 ---
-icon: ditto
+icon: gem
 ---
 
 # Muhasebe

@@ -1,5 +1,5 @@
 ---
-icon: gem
+icon: nfc-symbol
 ---
 
 # Resmileştirme

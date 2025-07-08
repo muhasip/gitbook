@@ -19,3 +19,5 @@ Tanımlar
 <i class="fa-trophy-star">:trophy-star:</i> Premium (SP)&#x20;
 
 <i class="fa-certificate">:certificate:</i> Enterprise (JW)
+
+<i class="fa-layer-plus">:layer-plus:</i> Modül (Harici Satın Alınır)

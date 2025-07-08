@@ -1,3 +1,7 @@
+---
+icon: certificate
+---
+
 # Konnektör
 
 AIFASOFT ERP Konnektör

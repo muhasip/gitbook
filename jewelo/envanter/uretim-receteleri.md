@@ -1,3 +1,7 @@
+---
+icon: layer-plus
+---
+
 # Üretim Reçeteleri
 
 Türler(Nevi);

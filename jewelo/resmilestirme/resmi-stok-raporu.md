@@ -1,5 +1,5 @@
 ---
-icon: trophy-star
+icon: certificate
 ---
 
 # Resmi Stok Raporu

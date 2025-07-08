@@ -1,3 +1,7 @@
+---
+icon: trophy-star
+---
+
 # Mutabakat
 
 1\. Gönderilen paraların alıcı vergi mükellefi ise 7 gün içinde faturası denetlenir.

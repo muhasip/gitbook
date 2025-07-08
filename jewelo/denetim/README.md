@@ -1,5 +1,5 @@
 ---
-icon: diamond
+icon: trophy-star
 ---
 
 # Denetim

@@ -1,3 +1,7 @@
+---
+icon: certificate
+---
+
 # Şubeler
 
 {% hint style="info" %}

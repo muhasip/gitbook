@@ -1,3 +1,7 @@
+---
+icon: trophy-star
+---
+
 # Gider Pusulası
 
 Sarraf Pro, işletmenizin gider pusulalarını hızlı ve doğru şekilde oluşturmanızı sağlar.
