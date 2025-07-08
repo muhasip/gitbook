@@ -4,9 +4,9 @@ Cari, Ürün, Etiket ve kullanıcı bazlı günlük raporlamalar.
 
 Türler;
 
-* banka
-* kredi kartı
-* nakit
+* banka : 102
+* kredi kartı : 103
+* nakit: 100
 
 Para birimi,&#x20;
 

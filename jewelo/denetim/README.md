@@ -1,2 +1,6 @@
+---
+icon: diamond
+---
+
 # Denetim
 

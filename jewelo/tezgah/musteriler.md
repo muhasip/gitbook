@@ -13,3 +13,4 @@ Geçmiş ticaret kayıtları tutulur.
 Müşteri veya müşteri hareketleri bir Cari ye tanınmlanabilir. (toptancılar için muhim bir özellik)
 
 \
+Muhasebe sisteminde 120 üst kodu ile eklenir.

@@ -10,3 +10,12 @@ Web tabanlı ve offline çalışabilir.
 
 {% endhint %}
 
+Tanımlar
+
+***
+
+<i class="fa-gem">:gem:</i> Sarraf (PY)
+
+<i class="fa-trophy-star">:trophy-star:</i> Premium (SP)&#x20;
+
+<i class="fa-certificate">:certificate:</i> Enterprise (JW)

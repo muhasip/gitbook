@@ -1,3 +1,7 @@
+---
+icon: gem
+---
+
 # Akış
 
 **Bankaya Gelen Hareketler ve Fiyat Listelerinin Dinamik Yönetimi için Özelleştirilebilir Dashboard**

@@ -3,11 +3,16 @@
 Müşteri Türleri;
 
 * Diğer
-* Toptancı
-* Kuyumcu
-* Tedarikçi
-* Müşteri
-* Atölye
+* Toptancı : 320.\*
+* Kuyumcu : 320.\*
+* Tedarikçi : 320.\*
+* Müşteri : 120.\*/320.\*
+* Atölye : 320.\*
+* &#x20;<mark style="color:red;">Kodları ayarlanabilir</mark>
+
+Bakiye Doviz Birimi
+
+* USD, HAS vb
 
 Müşteriye özel Para birimi, E-Fatura etiketi, faturalarda veya dekontlarada aranacak isimler,
 
@@ -15,16 +20,7 @@ Gruplandırma (Birden fazla VKN veya Cari Kartını tek ekranda görme)
 
 Etiket
 
-***
 
-**Müşteri Türleri:**
-
-* Diğer
-* Toptancı
-* Kuyumcu
-* Tedarikçi
-* Müşteri
-* Atölye
 
 ***
 
