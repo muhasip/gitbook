@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Başlarken](README.md)
+* [Jewelo 101](jewelo-101.md)
 
 ## Uygulama
 
@@ -22,8 +23,8 @@
   * [Fiyat Ekranları](borsa/fiyat-ekranlari.md)
 * [Envanter](envanter/README.md)
   * [Pozisyon Raporu](envanter/pozisyon-raporu.md)
-  * [Ziynet Kartları](envanter/ziynet-kartlari.md)
-  * [Doviz İşlemleri](envanter/doviz-islemleri.md)
+  * [Stok Kartları](envanter/stok-kartlari.md)
+  * [Kur İşlemleri](envanter/kur-islemleri.md)
   * [Üretim Modülü](envanter/uretim-modulu/README.md)
     * [Üretim Reçeteleri](envanter/uretim-modulu/uretim-receteleri.md)
 * [Denetim](denetim/README.md)
