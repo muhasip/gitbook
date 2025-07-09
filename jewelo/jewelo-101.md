@@ -4,12 +4,12 @@
 {% step %}
 ### Kur Tanımları
 
-Sistem genelinde kullanılacak kurları ve kaynaklarını [kur-ayarlari.md](konsol/kur-ayarlari.md "mention") sayfasındaki talimatlar ile tanımlayınız.
+Sistem genelinde kullanılacak kurları ve kaynaklarını [kur-ayarlari.md](admin/kur-ayarlari.md "mention") sayfasındaki talimatlar ile tanımlayınız.
 {% endstep %}
 
 {% step %}
 ### Stok Tanımlama
 
-[kur-ayarlari.md](konsol/kur-ayarlari.md "mention") üzerinden tanımladığınız birimlere göre stoklarınızı tanımlayabilirsiniz.
+[kur-ayarlari.md](admin/kur-ayarlari.md "mention") üzerinden tanımladığınız birimlere göre stoklarınızı tanımlayabilirsiniz.
 {% endstep %}
 {% endstepper %}

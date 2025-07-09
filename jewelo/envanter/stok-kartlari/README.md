@@ -4,7 +4,7 @@ description: Ziynet
 
 # Stok Kartları
 
-[kur-ayarlari.md](../../konsol/kur-ayarlari.md "mention") ekranında tanımlanan kurlara göre stoklar tanımlanabilir.
+[kur-ayarlari.md](../../admin/kur-ayarlari.md "mention") ekranında tanımlanan kurlara göre stoklar tanımlanabilir.
 
 
 
