@@ -14,11 +14,11 @@ Tanımlar
 
 ***
 
-<i class="fa-gem">:gem:</i> Sarraf (PY)
+<i class="fa-gem">:gem:</i> Sarraf (PY) \[Cheap]
 
-<i class="fa-trophy-star">:trophy-star:</i> Premium (SP)&#x20;
+<i class="fa-trophy-star">:trophy-star:</i> Premium (SP) \[Base]
 
-<i class="fa-certificate">:certificate:</i> Enterprise (JW)
+<i class="fa-certificate">:certificate:</i> Enterprise (JW) \[Enterprise]
 
 <i class="fa-layer-plus">:layer-plus:</i> Modül (Harici Satın Alınır)
 
