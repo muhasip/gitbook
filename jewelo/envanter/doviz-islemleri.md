@@ -1,4 +1,4 @@
-# Doviz İşlemleri
+# Kur İşlemleri
 
 Kaynaklardan gelen dovizlerin default olarak durumları ve marjları belirlenir.\
 Burada belirlenen marjlar ve durumlar sistem genelinde default olarak tanımlanmaktadır.
