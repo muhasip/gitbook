@@ -43,7 +43,7 @@
   * [Konnektör](entegrasyonlar/konnektor.md)
 * [Admin](admin/README.md)
   * [Uygulama Ayarları](admin/uygulama-ayarlari.md)
-  * [Kur Ayarları](admin/kur-ayarlari.md)
+  * [Kur Kaynakları](admin/kur-kaynaklari.md)
   * [Entegrasyon Ayarları](admin/entegrasyon-ayarlari/README.md)
     * [E-Fatura](admin/entegrasyon-ayarlari/e-fatura.md)
   * [Resmileştirme Ayarları](admin/resmilestirme-ayarlari/README.md)
