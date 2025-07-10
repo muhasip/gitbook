@@ -10,6 +10,7 @@ Sistem genelinde kullanılacak kurları ve kaynaklarını [kur-ayarlari.md](admi
 {% step %}
 ### Stok Tanımlama
 
-[kur-ayarlari.md](admin/kur-ayarlari.md "mention") üzerinden tanımladığınız birimlere göre stoklarınızı tanımlayabilirsiniz.
+[kur-ayarlari.md](admin/kur-ayarlari.md "mention") üzerinden tanımladığınız birimlere göre [stok-kartlari](envanter/stok-kartlari/ "mention") tanımlayabilirsiniz.
 {% endstep %}
 {% endstepper %}
+
