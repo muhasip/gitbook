@@ -24,7 +24,7 @@
 * [Envanter](envanter/README.md)
   * [Pozisyon Raporu](envanter/pozisyon-raporu.md)
   * [Stok Kartları](envanter/stok-kartlari/README.md)
-    * [Stok Kategorileri](envanter/stok-kartlari/stok-kategorileri.md)
+    * [Tedarikçiler](envanter/stok-kartlari/tedarikciler.md)
   * [Üretim Modülü](envanter/uretim-modulu/README.md)
     * [Üretim Reçeteleri](envanter/uretim-modulu/uretim-receteleri.md)
 * [Denetim](denetim/README.md)
