@@ -24,6 +24,6 @@ Kuyumculuk sektörü için özel olarak Altın ve Para Birimleri alt yapısı il
 
 Envanter tanımları ile [Stok Modülü](broken-reference) ile tanımlanan ürünlerde Envanter olarak işaretlenmesi gerekmektedir.
 
-Envanter olarak eklenen kayıtlar Spesiyal olarak tanımlanır ve bir çok [Kuyumcu Hesabını](../library/jeweler-calculator/) yapabilir, [Varyantlı Fatura Otomasyonların](resmilestirme/otomasyon.md)da kullanılabilmektedir.
+Envanter olarak eklenen kayıtlar Spesiyal olarak tanımlanır ve bir çok [Kuyumcu Hesabını](../jeweler-calculator/) yapabilir, [Varyantlı Fatura Otomasyonların](resmilestirme/otomasyon.md)da kullanılabilmektedir.
 
 &#x20;

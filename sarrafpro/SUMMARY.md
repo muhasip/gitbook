@@ -48,10 +48,7 @@
   * [Ayarlar](admin/ayarlar.md)
   * [Şube Yönetimi](admin/sube-yonetimi.md)
   * [Fatura Ayarları](admin/fatura-ayarlari.md)
-
-## Kütüphane <a href="#library" id="library"></a>
-
-* [Kısayollar](library/kisayollar.md)
-* [Kuyumcu Hesap Makinası](library/jeweler-calculator/README.md)
-  * [Milyem Hesabı](library/jeweler-calculator/milyem-hesabi.md)
-  * [Milyem Nedir?](library/jeweler-calculator/milyem-nedir.md)
+* [Kısayollar](kisayollar.md)
+* [Kuyumcu Hesap Makinası](jeweler-calculator/README.md)
+  * [Milyem Hesabı](jeweler-calculator/milyem-hesabi.md)
+  * [Milyem Nedir?](jeweler-calculator/milyem-nedir.md)
