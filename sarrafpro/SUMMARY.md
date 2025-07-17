@@ -30,11 +30,6 @@
     * [Pusula Yazılım](app/konnektor/entegrasyonlar/pusula-yazilim.md)
     * [AIFASOFT ERPGOLD](app/konnektor/entegrasyonlar/aifasoft-erpgold.md)
 * [Mahsup](app/mahsup.md)
-* [Admin](app/admin/README.md)
-  * [Entegrasyonlar](app/admin/entegrasyonlar.md)
-  * [Ayarlar](app/admin/ayarlar.md)
-  * [Şube Yönetimi](app/admin/sube-yonetimi.md)
-  * [Fatura Ayarları](app/admin/fatura-ayarlari.md)
 
 ## Uygulamalar
 
@@ -45,6 +40,14 @@
   * [Loncalar](uygulamalar/topluluk/loncalar.md)
 * [WhatsApp Entegrasyonu](uygulamalar/whatsapp-entegrasyonu/README.md)
   * [WhatsApp Hesabı](uygulamalar/whatsapp-entegrasyonu/whatsapp-hesabi.md)
+
+***
+
+* [Sistem Ayarları](admin/README.md)
+  * [Entegrasyonlar](admin/entegrasyonlar.md)
+  * [Ayarlar](admin/ayarlar.md)
+  * [Şube Yönetimi](admin/sube-yonetimi.md)
+  * [Fatura Ayarları](admin/fatura-ayarlari.md)
 
 ## Kütüphane <a href="#library" id="library"></a>
 
