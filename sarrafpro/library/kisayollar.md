@@ -3,17 +3,6 @@ description: >-
   Benzersiz bir deneyim için hazırladığımız kısayolları tamamını buradan
   deneyimleyebilirsiniz.
 icon: keyboard-down
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Kısayollar
@@ -32,4 +21,4 @@ Talep oluşturmadan önce lütfen yetkilerinizi kontrol ediniz.
 
 Kısayol Listesi
 
-* <kbd>G</kbd> Hızlı [Günlük](../workspace/gunluk.md) oluşturma&#x20;
+* <kbd>G</kbd> Hızlı [Günlük](broken-reference) oluşturma&#x20;

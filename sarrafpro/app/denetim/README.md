@@ -6,20 +6,6 @@ icon: fingerprint
 cover: >-
   https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxidXNzaW5lc3xlbnwwfHx8fDE3NDYzOTYxMTB8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Denetim
@@ -67,11 +53,11 @@ TC Kimlik ile banka üzerindeki hareket Loglanarak sonraki işlemler için 2. a�
 {% endstepper %}
 
 {% hint style="danger" %}
-TC Kimlik No sisteminizde veya [topluluk](../../workspace/topluluk/ "mention") taki Tanıma sisteminde kayıtlı ise ve Kimlik Kartı geçerli ise süreç 3.aşamadan başlayarak hızlı bir şekilde devam eder.
+TC Kimlik No sisteminizde veya [topluluk](../../uygulamalar/topluluk/ "mention") taki Tanıma sisteminde kayıtlı ise ve Kimlik Kartı geçerli ise süreç 3.aşamadan başlayarak hızlı bir şekilde devam eder.
 {% endhint %}
 
 
 
 {% hint style="info" %}
-[musteriler.md](../../accounting/cari-kartlari/musteriler.md "mention") modülü alt yapısını kullanmaktadır.
+[Broken link](broken-reference "mention") modülü alt yapısını kullanmaktadır.
 {% endhint %}
