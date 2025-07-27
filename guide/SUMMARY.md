@@ -58,6 +58,8 @@
 * [🚚 Stok](on-muhasebe/stok/README.md)
   * [Yeni Hizmet/Ürün Ekleme](on-muhasebe/stok/yeni-hizmet-ueruen-ekleme.md)
   * [Stok İşlemleri](on-muhasebe/stok/stok-islemleri.md)
+  * [Depo Yönetimi](on-muhasebe/stok/depo-yonetimi.md)
+  * [Etiket Yazdırma](on-muhasebe/stok/etiket-yazdirma.md)
 
 ## Modüller
 
