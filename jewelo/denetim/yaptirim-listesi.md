@@ -1,4 +1,8 @@
-# Yaptırım Sorguları
+---
+description: Masak, Ofac vb gibi kaynaklardan veri sorgusu ve kayıtları.
+---
+
+# Yaptırım Listesi
 
 Masak, Ofac vb gibi kaynaklardan veri sorgusu ve kayıtları.
 
