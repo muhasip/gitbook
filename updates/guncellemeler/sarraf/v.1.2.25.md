@@ -1,16 +1,5 @@
 ---
 description: TÜRK PARASININ KIYMETİNİ KORUMA HAKKINDA KANUN Güncellemesi
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # ✅ v.1.2.25

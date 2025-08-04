@@ -1,21 +1,8 @@
 ---
 description: Workspace V.1.1.70 Versiyonunu kapsar.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # ✅ V.1.1.92
-
-
 
 {% hint style="success" %}
 Bu güncellemeyi 27 Mayıs 2025 tarihinde yayımlanmıştır.

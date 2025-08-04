@@ -2,20 +2,6 @@
 cover: >-
   https://images.unsplash.com/photo-1534939244238-b03f73a4aa67?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxpc3RhbmJ1bHxlbnwwfHx8fDE3MjEzMjg3NjZ8MA&ixlib=rb-4.0.3&q=85
 coverY: 81.77941176470588
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # ✅ Versiyon 1.0.92

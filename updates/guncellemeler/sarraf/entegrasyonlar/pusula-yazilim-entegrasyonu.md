@@ -2,20 +2,6 @@
 description: SarrafPro ile Pusula Kuyumcu Yazılımı entegrasyonu
 cover: ../../../.gitbook/assets/Ekran Resmi 2025-03-04 00.58.01.png
 coverY: 325.0612244897959
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Pusula Yazılım Entegrasyonu

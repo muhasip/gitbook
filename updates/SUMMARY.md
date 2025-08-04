@@ -1,7 +1,8 @@
 # Table of contents
 
 * [🌏 Güncellemeler](README.md)
-  * [🚀 Dev.Team](guncellemeler/dev.team.md)
+  * [🚀 Dev.Team](guncellemeler/dev.team/README.md)
+    * [▶️ DEV.1](guncellemeler/dev.team/dev.1.md)
   * [🖨️ Muhasip](guncellemeler/muhasip/README.md)
     * [✅ V.1.2.02](guncellemeler/muhasip/v.1.2.02.md)
     * [✅ V.1.2.01](guncellemeler/muhasip/v.1.2.01.md)
