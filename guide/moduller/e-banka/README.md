@@ -3,20 +3,6 @@ description: Banka Hesap Entegrasyonları
 cover: >-
   https://images.unsplash.com/photo-1468779036391-52341f60b55d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxmb2xkZXJzfGVufDB8fHx8MTcxMjU4MjA3Nnww&ixlib=rb-4.0.3&q=85
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # 💸 E-Banka

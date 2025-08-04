@@ -1,20 +1,6 @@
 ---
 description: Banka hesap entegrasyon formları ve diğer bilgiler
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Banka Formları

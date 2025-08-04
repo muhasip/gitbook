@@ -3,20 +3,6 @@ description: >-
   Banka hesaplarınızdaki hareketleri takip edebilir ve filtreler
   oluşturabilirsiniz.
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Banka Hesap Hareketleri

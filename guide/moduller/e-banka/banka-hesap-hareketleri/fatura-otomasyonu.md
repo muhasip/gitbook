@@ -1,27 +1,13 @@
 ---
 description: Bankadan gelen ödemeleri otomatik faturalandırabilirsiniz.
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Fatura Otomasyonu
 
 
 
-<table><thead><tr><th>Değer</th><th>Açıklama</th><th data-hidden></th></tr></thead><tbody><tr><td>Ad Soyad,İl, İlçe, Adres</td><td>Banka entegrasyonunda veya açıklamada bulunamazsa E-Fatura entegrasyonuna yazılacak değer.</td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-1">E-Fatura Tanımları</a></td><td>Gönderici E-Fatura alıcısı ise </td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-2">E-Arşiv</a></td><td>Gönderici E-Fatura alıcısı değilse</td><td></td></tr><tr><td>Çalışma Saati</td><td>Otomasyonun çalışma saati </td><td></td></tr><tr><td>Fatura Kalemleri > Oran</td><td>Oran % üzerinden KDV dahil olarak hesaplanmaktadır.</td><td></td></tr><tr><td>Fatura Kalemleri > Miktar</td><td>Birim Fiyatı, Kaleme düşen tutar/ Miktar olarak işlenir.</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Değer</th><th>Açıklama</th><th data-hidden></th></tr></thead><tbody><tr><td>Ad Soyad,İl, İlçe, Adres</td><td>Banka entegrasyonunda veya açıklamada bulunamazsa E-Fatura entegrasyonuna yazılacak değer.</td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-1">E-Fatura Tanımları</a></td><td>Gönderici E-Fatura alıcısı ise </td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-1">E-Arşiv</a></td><td>Gönderici E-Fatura alıcısı değilse</td><td></td></tr><tr><td>Çalışma Saati</td><td>Otomasyonun çalışma saati </td><td></td></tr><tr><td>Fatura Kalemleri > Oran</td><td>Oran % üzerinden KDV dahil olarak hesaplanmaktadır.</td><td></td></tr><tr><td>Fatura Kalemleri > Miktar</td><td>Birim Fiyatı, Kaleme düşen tutar/ Miktar olarak işlenir.</td><td></td></tr></tbody></table>
 
 <figure><img src="../../../.gitbook/assets/Ekran Resmi 2024-04-08 16.03.17.png" alt=""><figcaption><p>Banka E-Fatura Otomasyon Formu</p></figcaption></figure>
 
@@ -57,5 +43,3 @@ Günlük gelen ve işlenmeyen ödemeler aşağıdaki saatlerden herhangi birini 
 
 
 [^1]: Seri numarası tarih bazlı olduğu için otomasyona özel olmalı
-
-[^2]: Seri numarası tarih bazlı olduğu için otomasyona özel olmalı

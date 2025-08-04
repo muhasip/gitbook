@@ -2,20 +2,6 @@
 cover: >-
   https://images.unsplash.com/photo-1457904375453-3e1fc2fc76f4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8YWNjb3VudGluZ3xlbnwwfHx8fDE3NDIxNTI1MDB8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
 # Muhasip'e Genel Bakış

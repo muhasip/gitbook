@@ -2,20 +2,6 @@
 cover: >-
   https://images.unsplash.com/photo-1534685785745-60a2cea0ec34?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxzdW1taXR8ZW58MHx8fHwxNzA1MTk1MTc3fDA&ixlib=rb-4.0.3&q=85
 coverY: -76.78082191780823
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Nasıl Başlamalıyım?
