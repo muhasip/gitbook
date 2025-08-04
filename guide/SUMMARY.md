@@ -27,6 +27,7 @@
     * [Fatura Yazdırma](on-muhasebe/fatura-islemleri/fatura-yazdirma.md)
     * [Fatura İptal](on-muhasebe/fatura-islemleri/fatura-iptal.md)
     * [E-fatura/ E-arşiv Fatura İptal ve Düzenleme](on-muhasebe/fatura-islemleri/e-fatura-e-arsiv-fatura-iptal-ve-duezenleme.md)
+    * [Tekrarlı Fatura](on-muhasebe/satislar/satis-faturasi-islemleri/tekrarli-fatura.md)
 * [📥 Alışlar](on-muhasebe/alislar/README.md)
   * [Alış Listesi](on-muhasebe/alislar/alis-listesi/README.md)
     * [Alış Faturalarını Aktarma ve Yazdırma](on-muhasebe/alislar/alis-listesi/alis-faturalarini-aktarma-ve-yazdirma.md)
