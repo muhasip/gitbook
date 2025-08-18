@@ -23,5 +23,5 @@ Ayrıca [Backhub](https://backhub.tr/) ekibi olarak gelir elde ettiğimiz her se
 {% hint style="info" %}
 Güncel Versiyon: <code class="expression">space.vars.VERSION</code>
 
-Güncellemeleri [buraya tıklayarak](guncellemeler.md) takip edebilirsiniz.
+Güncellemeleri [buraya tıklayarak](guncellemeler/) takip edebilirsiniz.
 {% endhint %}
