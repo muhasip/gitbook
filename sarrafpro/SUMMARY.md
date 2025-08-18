@@ -52,3 +52,4 @@
 * [Kuyumcu Hesap Makinası](jeweler-calculator/README.md)
   * [Milyem Hesabı](jeweler-calculator/milyem-hesabi.md)
   * [Milyem Nedir?](jeweler-calculator/milyem-nedir.md)
+* [Güncellemeler](guncellemeler.md)

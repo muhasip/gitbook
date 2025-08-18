@@ -17,3 +17,11 @@ Rafineri, Toptan Kuyumcular, Çok Şubeli Kuyumcular ve Şubesiz Kuyumcular içi
 
 
 Ayrıca [Backhub](https://backhub.tr/) ekibi olarak gelir elde ettiğimiz her sektörde olduğu gibi Kuyumculuk sektöründede sektöre saygı anlamında geliştirdiğimiz Sarraf.vip Projemiz ile dernekler için ücretsiz hizmetler sunmaktadır.
+
+
+
+{% hint style="info" %}
+Güncel Versiyon: <code class="expression">space.vars.VERSION</code>
+
+Güncellemeleri [buraya tıklayarak](guncellemeler.md) takip edebilirsiniz.
+{% endhint %}
