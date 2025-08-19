@@ -10,7 +10,7 @@
   * [Kuyumcular için E-Fatura](kuyumcu/kuyumcular-icin-e-fatura.md)
   * [Kuyumcu Gider Pusulası](kuyumcu/kuyumcu-gider-pusulasi.md)
 
-## Uygulama <a href="#app" id="app"></a>
+## Kılavuz <a href="#app" id="app"></a>
 
 * [Dashboard](app/dashboard.md)
 * [Banka Akış](app/akis.md)
@@ -32,27 +32,28 @@
     * [Pusula Yazılım](app/konnektor/entegrasyonlar/pusula-yazilim.md)
     * [AIFASOFT ERPGOLD](app/konnektor/entegrasyonlar/aifasoft-erpgold.md)
 * [Mahsup](app/mahsup.md)
+* [Uygulamalar](app/uygulamalar/README.md)
+  * [Bankalar](app/uygulamalar/bankalar.md)
+  * [E-Fatura](app/uygulamalar/e-fatura.md)
+  * [Topluluk](app/uygulamalar/topluluk/README.md)
+    * [Dernekler](app/uygulamalar/topluluk/dernekler.md)
+    * [Loncalar](app/uygulamalar/topluluk/loncalar.md)
+  * [WhatsApp Entegrasyonu](app/uygulamalar/whatsapp-entegrasyonu/README.md)
+    * [WhatsApp Hesabı](app/uygulamalar/whatsapp-entegrasyonu/whatsapp-hesabi.md)
+* [Sistem Ayarları](app/admin/README.md)
+  * [Entegrasyonlar](app/admin/entegrasyonlar.md)
+  * [Ayarlar](app/admin/ayarlar.md)
+  * [Şube Yönetimi](app/admin/sube-yonetimi.md)
+  * [Fatura Ayarları](app/admin/fatura-ayarlari.md)
 
-## Uygulamalar
+## Faydalı Bilgiler
 
-* [Bankalar](uygulamalar/bankalar.md)
-* [E-Fatura](uygulamalar/e-fatura.md)
-* [Topluluk](uygulamalar/topluluk/README.md)
-  * [Dernekler](uygulamalar/topluluk/dernekler.md)
-  * [Loncalar](uygulamalar/topluluk/loncalar.md)
-* [WhatsApp Entegrasyonu](uygulamalar/whatsapp-entegrasyonu/README.md)
-  * [WhatsApp Hesabı](uygulamalar/whatsapp-entegrasyonu/whatsapp-hesabi.md)
+* [Kısayollar](faydali-bilgiler/kisayollar.md)
+* [Kuyumcu Hesap Makinası](faydali-bilgiler/jeweler-calculator/README.md)
+  * [Milyem Hesabı](faydali-bilgiler/jeweler-calculator/milyem-hesabi.md)
+  * [Milyem Nedir?](faydali-bilgiler/jeweler-calculator/milyem-nedir.md)
 
 ***
 
-* [Sistem Ayarları](admin/README.md)
-  * [Entegrasyonlar](admin/entegrasyonlar.md)
-  * [Ayarlar](admin/ayarlar.md)
-  * [Şube Yönetimi](admin/sube-yonetimi.md)
-  * [Fatura Ayarları](admin/fatura-ayarlari.md)
-* [Kısayollar](kisayollar.md)
-* [Kuyumcu Hesap Makinası](jeweler-calculator/README.md)
-  * [Milyem Hesabı](jeweler-calculator/milyem-hesabi.md)
-  * [Milyem Nedir?](jeweler-calculator/milyem-nedir.md)
 * [Güncellemeler](guncellemeler/README.md)
   * [V.1.2.68](guncellemeler/v.1.2.68.md)

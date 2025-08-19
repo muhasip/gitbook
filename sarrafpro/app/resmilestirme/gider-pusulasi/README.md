@@ -7,6 +7,23 @@ icon: receipt
 cover: >-
   https://images.unsplash.com/photo-1725886297109-360eb6f9d768?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MXwxfHNlYXJjaHwxfHxpbnZvaWNlfGVufDB8fHx8MTc0NjM5NTkyNHww&ixlib=rb-4.0.3&q=85
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
 ---
 
 # Gider Pusulası

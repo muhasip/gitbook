@@ -1,11 +1,7 @@
 ---
-icon: nfc-symbol
-coverY: 0
+icon: square-root-variable
 layout:
   width: default
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -20,5 +16,5 @@ layout:
     visible: false
 ---
 
-# Entegrasyonlar
+# Kuyumcu Hesap Makinası
 

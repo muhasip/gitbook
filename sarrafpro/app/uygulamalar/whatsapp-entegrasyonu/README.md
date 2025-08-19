@@ -20,5 +20,5 @@ Sarraf Pro WhatsApp hesabı haricinde kendi hesaplarınızı entegre edebilirsin
 * Güncel kur bilgileri sorgulama
 * Güncel hareket bilgileri sorgulama
 * Son hareket bilgileri sorgulama
-* TC Kimlik ile Müşteri ve [Denetim](../../app/denetim/) sorgulama
+* TC Kimlik ile Müşteri ve [Denetim](../../denetim/) sorgulama
 

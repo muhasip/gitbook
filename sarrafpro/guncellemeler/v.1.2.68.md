@@ -1,6 +1,20 @@
 ---
 hidden: true
 icon: check-double
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: false
 ---
 
 # V.1.2.68
