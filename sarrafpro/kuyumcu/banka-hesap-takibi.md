@@ -1,8 +1,7 @@
 ---
 description: Kuyumculukta finansal süreçleri güvenli ve hızlı yönetmenin yolu
 icon: rectangles-mixed
-cover: >-
-  https://images.unsplash.com/photo-1710149459994-480e2b5c3b16?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxhdG18ZW58MHx8fHwxNzU1NTYxMzkyfDA&ixlib=rb-4.1.0&q=85
+cover: https://images.pexels.com/photos/6771607/pexels-photo-6771607.jpeg
 coverY: 0
 ---
 

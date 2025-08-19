@@ -1,9 +1,8 @@
 ---
 description: Dijitalleşen dünyada kuyumculuk mesleğinde verimliliği artırmanın yeni yolu
 icon: code-branch
-cover: >-
-  https://images.unsplash.com/photo-1518370265276-f22b706aeac8?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxqZXdlbGxlcnl8ZW58MHx8fHwxNzU1NTYxNDUwfDA&ixlib=rb-4.1.0&q=85
-coverY: 0
+cover: https://images.pexels.com/photos/700971/pexels-photo-700971.jpeg
+coverY: -656.1244064245809
 ---
 
 # Kuyumculukta İş Paylaşımı

@@ -1,9 +1,8 @@
 ---
 description: 'Altın ve kıymetli maden ticaretinde dijital dönüşümün yeni adı: Kuyumcu 4.0'
 icon: sparkles
-cover: >-
-  https://images.unsplash.com/photo-1721314787850-5745fdfb06b4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlfGVufDB8fHx8MTc1NTU2MDkyNnww&ixlib=rb-4.1.0&q=85
-coverY: 0
+cover: https://images.pexels.com/photos/8438979/pexels-photo-8438979.jpeg
+coverY: 546.7360858938548
 layout:
   width: default
   cover:
