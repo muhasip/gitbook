@@ -4,9 +4,9 @@
 * [Kuyumcu 4.0](kuyumcu/README.md)
   * [Kuyumcular için Yapay Zeka](kuyumcu/kuyumcular-icin-yapay-zeka.md)
   * [Kuyumculukta İş Paylaşımı](kuyumcu/kuyumculukta-is-paylasimi.md)
-  * [Banka Hesap Takibi Nasıl Yapılır?](kuyumcu/banka-hesap-takibi-nasil-yapilir.md)
+  * [Banka Hesap Takibi](kuyumcu/banka-hesap-takibi.md)
   * [Kuyumcular için E-Fatura](kuyumcu/kuyumcular-icin-e-fatura.md)
-  * [Gider Pusulası Nedir?](kuyumcu/gider-pusulasi-nedir.md)
+  * [Kuyumcu Gider Pusulası](kuyumcu/kuyumcu-gider-pusulasi.md)
 
 ## Uygulama <a href="#app" id="app"></a>
 
