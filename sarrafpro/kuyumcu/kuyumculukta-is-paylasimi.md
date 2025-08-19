@@ -61,3 +61,13 @@ Sarraf Pro, bu süreci **dijital ortamda merkezi bir panel** üzerinden yönetme
 * **Şeffaflık:** Hangi işin kimde olduğu net şekilde görünür.
 * **Hız:** Görevler unutulmaz, kaybolmaz; her şey dijitalde kayıtlıdır.
 * **Uyum:** MASAK ve diğer regülasyonlarla ilgili görevler belirlenen kişilere otomatik atanabilir.
+
+### Geleneksel Yöntem vs. Sarraf Pro İş Paylaşımı
+
+| Özellik       | Geleneksel Kuyumculuk   | Sarraf Pro (İş Paylaşımı)          |
+| ------------- | ----------------------- | ---------------------------------- |
+| Görev Atama   | Sözlü talimat, defter   | Dijital panelden tek tıkla         |
+| İş Takibi     | Kaybolma/unutulma riski | Anlık takip ve bildirim            |
+| Yetkilendirme | Belirsiz erişimler      | Kullanıcı bazlı yetki kontrolü     |
+| Şeffaflık     | Eksik kayıtlar          | Tüm geçmiş kayıtlı ve erişilebilir |
+| Raporlama     | Zaman alıcı             | Otomatik raporlama                 |

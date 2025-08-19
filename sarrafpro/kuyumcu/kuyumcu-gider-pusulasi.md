@@ -51,3 +51,13 @@ Kuyumculuk sektöründe alım-satım süreçlerinde sadece fatura değil, **gide
 * Gider pusulaları da tıpkı faturalar gibi denetime hazırdır.
 * Sarraf Pro kullanıcıları bugüne kadar **binlerce denetimi sorunsuz geçmiştir**.
 * Şeffaf, hatasız ve yasal uyumlu süreç yönetimi sağlanır.
+
+### Geleneksel Yöntem vs. Sarraf Pro Gider Pusulası
+
+| Özellik               | Geleneksel Yöntem    | Sarraf Pro                     |
+| --------------------- | -------------------- | ------------------------------ |
+| E-Gider Pusulası      | Henüz yok            | Dijital mantıkla işleme alınır |
+| Düzenleme Süreci      | Manuel, hataya açık  | Otomatik yönlendirme, hatasız  |
+| Uyum                  | Kullanıcıya bağlı    | Maliye standartlarına uyumlu   |
+| Denetimlerde Hazırlık | Evrak arşivi gerekir | Dijital arşiv, anında erişim   |
+| Güvenlik              | Basit koruma         | Kriptolu veri saklama          |

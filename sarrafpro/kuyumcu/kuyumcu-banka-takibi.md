@@ -66,3 +66,14 @@ Sarraf Pro, kuyumcular için banka hesap takibini basit, güvenli ve anlık hale
 * **Hızlı:** Banka hareketleri anlık olarak görüntülenir.
 * **Sınırsız:** Kullanıcı veya ekran kısıtlaması yoktur.
 * **Kapsamlı:** Tüm Türkiye bankalarıyla tam entegrasyon.
+*
+
+### Geleneksel Yöntem vs. Sarraf Pro Banka Hesap Takibi
+
+| Özellik                | Geleneksel Yöntem     | Sarraf Pro                                  |
+| ---------------------- | --------------------- | ------------------------------------------- |
+| Banka Entegrasyonu     | Tek tek giriş yapılır | Türkiye’deki tüm bankalarla tam entegrasyon |
+| Veri Akışı             | Gecikmeli             | Anlık                                       |
+| Kullanıcı/Ekran Limiti | Çoğu yazılımda mevcut | Sınırsız                                    |
+| Güvenlik               | Basit şifreleme       | SSL uçtan uca kriptolu                      |
+| Denetim Hazırlığı      | Zor ve manuel         | Tek tıkla raporlama                         |

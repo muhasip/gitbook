@@ -58,3 +58,14 @@ Kuyumculuk sektörü artık sadece vitrin ve atölyeden ibaret değil. Finansal 
 * **Yasal uyum sağlar:** MASAK, belediye ve global regülasyonlara tam entegrasyon.
 * **Zaman kazandırır:** Otomatik faturalama ve raporlama.
 
+###
+
+### Geleneksel Yöntem vs. Sarraf Pro Yapay Zeka
+
+| Özellik                       | Geleneksel Kuyumculuk     | Sarraf Pro (Yapay Zeka)                 |
+| ----------------------------- | ------------------------- | --------------------------------------- |
+| Banka Hareketi Kontrolü       | Manuel kontrol, gecikmeli | Anlık ve otomatik                       |
+| Yasaklı/Riskli Kelime Tespiti | Kullanıcı dikkatine bağlı | Yapay zeka ile otomatik analiz          |
+| Yaptırım Sorguları            | Sınırlı, manuel           | Türkiye + global listelerle tam kontrol |
+| Faturalandırma                | Elle, hata riski yüksek   | Otomatik, hatasız                       |
+| Denetimlerde Güvence          | Evrak toplama zorunlu     | Tek tıkla raporlama                     |
