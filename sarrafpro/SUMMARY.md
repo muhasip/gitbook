@@ -4,7 +4,9 @@
 * [Kuyumcu 4.0](kuyumcu/README.md)
   * [Kuyumcular için Yapay Zeka](kuyumcu/kuyumcular-icin-yapay-zeka.md)
   * [Kuyumculukta İş Paylaşımı](kuyumcu/kuyumculukta-is-paylasimi.md)
-  * [Banka Hesap Takibi](kuyumcu/banka-hesap-takibi.md)
+  * [Kuyumcularda Uyum Süreci](kuyumcu/kuyumcularda-uyum-sureci.md)
+  * [Kimlik Tespit Sistemi](kuyumcu/kimlik-tespit-sistemi.md)
+  * [Kuyumcu Banka Takibi](kuyumcu/kuyumcu-banka-takibi.md)
   * [Kuyumcular için E-Fatura](kuyumcu/kuyumcular-icin-e-fatura.md)
   * [Kuyumcu Gider Pusulası](kuyumcu/kuyumcu-gider-pusulasi.md)
 

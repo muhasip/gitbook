@@ -3,6 +3,23 @@ description: Dijitalleşen dünyada kuyumculuk mesleğinde verimliliği artırma
 icon: code-branch
 cover: https://images.pexels.com/photos/700971/pexels-photo-700971.jpeg
 coverY: -656.1244064245809
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
 ---
 
 # Kuyumculukta İş Paylaşımı

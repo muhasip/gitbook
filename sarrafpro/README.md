@@ -2,7 +2,7 @@
 description: >-
   Sarraf Pro, kuyumcu esnafının günlük işlerini dijitalleştirerek zaman
   kazanmasını sağlayan bir yazılım platformudur.
-icon: brain-circuit
+icon: sparkles
 cover: >-
   https://images.unsplash.com/photo-1488229297570-58520851e868?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnb2xkJTIwYnJhaW58ZW58MHx8fHwxNzQ2MzkwMDY4fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -17,6 +17,16 @@ Rafineri, Toptan Kuyumcular, Çok Şubeli Kuyumcular ve Şubesiz Kuyumcular içi
 
 
 Ayrıca [Backhub](https://backhub.tr/) ekibi olarak gelir elde ettiğimiz her sektörde olduğu gibi Kuyumculuk sektöründede sektöre saygı anlamında geliştirdiğimiz Sarraf.vip Projemiz ile dernekler için ücretsiz hizmetler sunmaktadır.
+
+
+
+{% hint style="success" %}
+Bugün paranızın kaynağını doğru bilmek, yarın işinizi ayakta tutmanın tek yoludur.
+{% endhint %}
+
+> Sarraf Pro’nun [**Uyum Süreci** ](kuyumcu/kuyumcularda-uyum-sureci.md)sayesinde içiniz rahat, paranız güvende.\
+> Çünkü biz yalnızca yazılım geliştirmiyoruz;\
+> **işinizi, emeğinizi ve geleceğinizi koruyoruz.**
 
 
 

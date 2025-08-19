@@ -1,9 +1,25 @@
 ---
 description: Dijitalleşen finans dünyasında kuyumcular için kolay, hızlı ve yasal çözümler
 icon: file-signature
-cover: >-
-  https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxpbnZvaWNlfGVufDB8fHx8MTc1NTU2MTUwOHww&ixlib=rb-4.1.0&q=85
+cover: https://images.pexels.com/photos/6964138/pexels-photo-6964138.jpeg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
 ---
 
 # Kuyumcular için E-Fatura

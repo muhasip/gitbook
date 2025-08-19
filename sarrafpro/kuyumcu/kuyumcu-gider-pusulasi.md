@@ -3,9 +3,25 @@ description: >-
   E-fatura gibi dijital çözümler olsa da gider pusulası hâlâ kağıt üzerinde
   yürütülen bir süreç
 icon: shredder
-cover: >-
-  https://images.unsplash.com/photo-1705073703601-eed67020c5ee?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxzY3JhcCUyMGdvbGR8ZW58MHx8fHwxNzU1NTYyMTA2fDA&ixlib=rb-4.1.0&q=85
-coverY: 0
+cover: https://images.pexels.com/photos/3488259/pexels-photo-3488259.jpeg
+coverY: -349.70238095238096
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
 ---
 
 # Kuyumcu Gider Pusulası

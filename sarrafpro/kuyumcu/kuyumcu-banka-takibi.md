@@ -1,11 +1,28 @@
 ---
 description: Kuyumculukta finansal süreçleri güvenli ve hızlı yönetmenin yolu
 icon: rectangles-mixed
-cover: https://images.pexels.com/photos/6771607/pexels-photo-6771607.jpeg
-coverY: 0
+cover: https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg
+coverY: 154.74603174603175
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
 ---
 
-# Banka Hesap Takibi
+# Kuyumcu Banka Takibi
 
 Sarraf Pro, kuyumcular için banka hesap takibini basit, güvenli ve anlık hale getirir. Türkiye’deki tüm bankalarla entegre çalışan sistemimiz sayesinde, farklı hesaplarınızdaki hareketleri tek bir panelden takip edebilir ve hiçbir detayı kaçırmazsınız.
 
