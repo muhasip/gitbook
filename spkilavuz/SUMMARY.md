@@ -2,8 +2,8 @@
 
 ## Kaynaklar
 
-* [Masak](README.md)
-  * [Kuyumculukta KDV İstisnaları ve Özel Matrah Uygulamaları](kaynaklar/masak/kuyumculukta-kdv-istisnalari-ve-ozel-matrah-uygulamalari/README.md)
-    * [Kuyumculuk Sektöründe MASAK Yükümlülükleri ve Kara Para Aklama ile Mücadele](kaynaklar/masak/kuyumculukta-kdv-istisnalari-ve-ozel-matrah-uygulamalari/kuyumculuk-sektorunde-masak-yukumlulukleri-ve-kara-para-aklama-ile-mucadele.md)
-  * [Müşterini Tanı: Suç Gelirleriyle Mücadele Rehberi](kaynaklar/masak/musterini-tani-suc-gelirleriyle-mucadele-rehberi.md)
-* [Vergi](kaynaklar/vergi.md)
+* [Uyum](README.md)
+  * [MASAK 2026](kaynaklar/uyum/masak-2026.md)
+  * [Müşterini Tanı](kaynaklar/uyum/musterini-tani.md)
+* [Vergi](kaynaklar/vergi/README.md)
+  * [İstisna ve Özel Matrah](kaynaklar/vergi/istisna-ve-ozel-matrah.md)

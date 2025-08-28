@@ -1,6 +1,13 @@
-# Kuyumculuk Sektöründe MASAK Yükümlülükleri ve Kara Para Aklama ile Mücadele
+---
+description: >-
+  5549 sayılı Kanun ve MASAK Genel Tebliğleri, kuyumculara (kıymetli maden, taş
+  veya mücevher alım satımı yapanlar ile bu işlemlere aracılık edenler) suç
+  gelirlerinin aklanması ve terörizmin finansmanıy
+---
 
-5549 sayılı Kanun ve MASAK Genel Tebliğleri, kuyumculara (kıymetli maden, taş veya mücevher alım satımı yapanlar ile bu işlemlere aracılık edenler) suç gelirlerinin aklanması ve terörizmin finansmanıyla mücadele kapsamında çeşitli önemli yükümlülükler getirmektedir.  [<kbd>Kaynak</kbd>](#user-content-fn-1)[^1]
+# MASAK 2026
+
+[<kbd>Kaynak</kbd>](#user-content-fn-1)[^1]
 
 
 
