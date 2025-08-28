@@ -7,3 +7,4 @@
   * [Müşterini Tanı](kaynaklar/uyum/musterini-tani.md)
 * [Vergi](kaynaklar/vergi/README.md)
   * [İstisna ve Özel Matrah](kaynaklar/vergi/istisna-ve-ozel-matrah.md)
+* [Tester](kaynaklar/tester.md)
