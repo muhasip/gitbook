@@ -4,7 +4,7 @@
 
 ## Kaynaklar
 
-* [Uyum](<README (1).md>)
+* [Uyum](kaynaklar/uyum/README.md)
   * [MASAK 2026](kaynaklar/uyum/masak-2026.md)
   * [Müşterini Tanı](kaynaklar/uyum/musterini-tani.md)
 * [Vergi](kaynaklar/vergi/README.md)
