@@ -17,6 +17,7 @@
 * [Mutabakat](moduller/mutabakat.md)
 * [Envanter](moduller/envanter.md)
 * [Denetim](moduller/denetim/README.md)
+  * [Denetim Merkezi](moduller/denetim/denetim-merkezi.md)
   * [Kişi Yönetimi](moduller/denetim/kisi-yonetimi.md)
   * [Kimlik Yönetimi](moduller/denetim/kimlik-yonetimi.md)
   * [Müşteri Tanı](moduller/denetim/musteri-tani.md)
