@@ -22,7 +22,8 @@
   * [Müşteri Tanı](moduller/denetim/musteri-tani.md)
   * [Yaptırım Listeleri](moduller/denetim/yaptirim-listeleri.md)
 * [Konnektör](moduller/konnektor.md)
-* [Konfigürasyon](moduller/konfigurasyon.md)
+* [Konfigürasyon](moduller/konfigurasyon/README.md)
+  * [Page 1](moduller/konfigurasyon/page-1.md)
 
 ## Ön Muhasebe
 
