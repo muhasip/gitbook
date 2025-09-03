@@ -23,7 +23,14 @@
   * [Yaptırım Listeleri](moduller/denetim/yaptirim-listeleri.md)
 * [Konnektör](moduller/konnektor.md)
 * [Konfigürasyon](moduller/konfigurasyon/README.md)
-  * [Page 1](moduller/konfigurasyon/page-1.md)
+  * [E-Belge Tanımları](moduller/konfigurasyon/e-belge-tanimlari.md)
+  * [Banka Akış Ekran Ayarları](moduller/konfigurasyon/banka-akis-ekran-ayarlari.md)
+  * [Fatura Otomasyon Ayarları](moduller/konfigurasyon/fatura-otomasyon-ayarlari.md)
+  * [Fatura Şablon Tanımları](moduller/konfigurasyon/fatura-sablon-tanimlari.md)
+  * [Gelen Hareket Kuralları](moduller/konfigurasyon/gelen-hareket-kurallari.md)
+  * [Gider Pusulası Ayarları](moduller/konfigurasyon/gider-pusulasi-ayarlari.md)
+  * [Denetim Ayarları](moduller/konfigurasyon/denetim-ayarlari.md)
+  * [Konnektör Ayarları](moduller/konfigurasyon/konnektor-ayarlari.md)
 
 ## Ön Muhasebe
 

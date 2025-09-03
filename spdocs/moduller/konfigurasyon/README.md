@@ -1,18 +1,11 @@
 # Konfigürasyon
 
-## Modüller
-
-* Hızlı Fatura
-* Ön Muhasebe
-* Kimlik Tespit Modülü
+Modüller burada olacak altında diğer yan menü linklier;
 
 
 
-## Banka Akış Ekran Ayarları
 
-* Bakiye Durumu
-* Görev Kutusu
 
-## Fatura Otomasyon Ayarları
-
-* Tanımsız müşteri bilgisi
+{% content-ref url="banka-akis-ekran-ayarlari.md" %}
+[banka-akis-ekran-ayarlari.md](banka-akis-ekran-ayarlari.md)
+{% endcontent-ref %}
