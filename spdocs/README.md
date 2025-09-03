@@ -1,14 +1,30 @@
 ---
 description: SarrafPro Kullanım Kılavuzu
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
 ---
 
 # Başlarken
 
-## SarrafPro’ya hoş geldiniz! 🎉
+## SarrafPro Kullanım Kılavuzu
 
-Bu kılavuz, kuyumculuk sektörüne özel geliştirilmiş **finans, stok ve uyum yönetim platformumuzun** tüm özelliklerini kolayca öğrenmeniz için hazırlandı.
+SarrafPro’ya hoş geldiniz! 🎉
 
-Sarraf.pro ile:
+Bu kılavuz, [kuyumculuk sektörüne](https://sarraf.pro/) özel geliştirilmiş **finans, stok ve uyum yönetim platformumuzun** tüm özelliklerini kolayca öğrenmeniz için hazırlandı.
+
+### SarrafPro ile Neler Yapabilirsiniz?
 
 * 💳 **Banka hareketlerinizi** anlık olarak takip edebilir, gelen/giden tüm işlemleri kaydedebilirsiniz.
 * 📑 **e-Fatura ve gider pusulası** işlemlerini pratik şekilde düzenleyebilirsiniz.
@@ -16,7 +32,7 @@ Sarraf.pro ile:
 * 💱 **Anlık kur takibi** sayesinde güncel fiyatları görebilir, alış/satış işlemlerinde hız kazanabilirsiniz.
 * ✅ **MASAK uyum araçları** ile müşteri tanı (KYC), risk kontrolü ve raporlamalarınızı kolayca yapabilirsiniz.
 
-Bu kullanım kılavuzunda bulabilecekleriniz:
+### Bu Kılavuzda Bulacaklarınız
 
 * 📌 **Başlarken:** İlk kurulum, giriş ve kullanıcı ayarları
 * 📌 **Finansal İşlemler:** Banka entegrasyonu, e-fatura, gider pusulası
@@ -26,4 +42,6 @@ Bu kullanım kılavuzunda bulabilecekleriniz:
 * 📌 **Raporlama & Analiz:** Günlük, aylık ve yıllık raporlar
 * 📌 **Destek & İletişim:** Karşılaştığınız sorunlarda yardım alabileceğiniz kanallar
 
-> Sarraf.pro, kuyumculuk sektöründe **finansal işlemler, stok yönetimi ve yasal uyum** süreçlerini tek bir platformda birleştirerek size **güven, hız ve verimlilik** sağlar.
+***
+
+> SarrafPro, kuyumculuk sektöründe **finansal işlemler, stok yönetimi ve yasal uyum** süreçlerini tek bir platformda birleştirerek size **güven, hız ve verimlilik** sağlar.
