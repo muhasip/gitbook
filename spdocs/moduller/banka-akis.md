@@ -19,7 +19,7 @@ layout:
 
 Lütfen önce [Banka Akış Ekran Ayarları](konfigurasyon/banka-akis-ekran-ayarlari.md)'nı kontrol ediniz.\
 \
-AMAÇ : Anlık banka takibi, müşteri tanıma özelliği ile güvenli finans, risksiz işlem.\
+**Amaç :** Anlık banka takibi, müşteri tanıma özelliği ile güvenli finans, risksiz işlem.\
 \
 Banka Akış Ekranı ile banka entegrasyonları sayesinde tüm banka hesaplarınızın güncel bakiyelerini anlık olarak görüntüleyebilir ve farklı bankalardaki hesaplarınızı tek bir noktadan kolayca ANLIK takip edebilirsiniz. İster her banka için ayrı ayrı, ister tüm bankalarınızın toplam bakiyesi üzerinden detaylı bir finansal görünüm elde edebilirsiniz.
 
