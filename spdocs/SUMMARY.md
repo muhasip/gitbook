@@ -6,6 +6,7 @@
 
 * [Banka Akış](moduller/banka-akis.md)
 * [Otomasyon](moduller/otomasyon/README.md)
+  * [Fatura Otomasyonu](moduller/otomasyon/fatura-otomasyonu.md)
   * [Manuel Ekstre Yükleme](moduller/otomasyon/manuel-ekstre-yukleme/README.md)
     * [Manuel Ekstre Raporu](moduller/otomasyon/manuel-ekstre-yukleme/manuel-ekstre-raporu.md)
 * [Hızlı Fatura](moduller/hizli-fatura/README.md)
