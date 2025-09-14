@@ -2,7 +2,7 @@
 description: >-
   Tüm süreçlerinizin sağlığını, performansını ve uyumluluğunu ölçen kurumsal
   kontrol noktası.
-icon: shield-check
+icon: code-pull-request-closed
 coverY: 0
 layout:
   width: default
