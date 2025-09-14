@@ -4,7 +4,7 @@ description: >-
   Sorgusudur. Peki, MASAK sorgusu nedir ve neden bu kadar önemlidir?
 coverY: 0
 layout:
-  width: default
+  width: wide
   cover:
     visible: true
     size: full
@@ -13,16 +13,16 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: true
+    visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: false
   metadata:
     visible: false
 ---
 
-# MASAK Sorgusu Nedir?
+# Masak Sorgusu
 
 ### MASAK Nedir?
 

@@ -1,7 +1,7 @@
 ---
 coverY: 0
 layout:
-  width: default
+  width: wide
   cover:
     visible: true
     size: full
@@ -10,16 +10,16 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: true
+    visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: false
   metadata:
     visible: false
 ---
 
-# PEP (Siyasi Olarak Nüfuzlu Kişi) Sorgusu Nedir?
+# PEP
 
 Finansal işlemlerde **şeffaflık ve güvenlik** son derece önemlidir. Özellikle yüksek meblağlı işlemlerde tarafların kimlikleri sadece yasal açıdan değil, aynı zamanda **politik bağlantılar** açısından da değerlendirilmelidir. İşte bu noktada devreye **PEP (Politically Exposed Person) Sorgusu** girer.
 

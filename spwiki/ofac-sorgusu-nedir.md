@@ -5,7 +5,7 @@ description: >-
   büyük önem taşır. Bu noktada devreye OFAC Sorgusu
 coverY: 0
 layout:
-  width: default
+  width: wide
   cover:
     visible: true
     size: full
@@ -14,7 +14,7 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: false
   pagination:
@@ -23,7 +23,7 @@ layout:
     visible: false
 ---
 
-# OFAC Sorgusu Nedir?
+# OFAC Sorgusu
 
 ### OFAC Nedir?
 

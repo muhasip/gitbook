@@ -3,6 +3,24 @@ description: >-
   Gram altın saflık derecesi nedir? 24 ayar, 22 ayar ve diğer altın ayarları
   arasındaki farkları öğrenin. Yatırım ve kullanım için en uygun gram altın
   seçeneklerini keşfedin.
+coverY: 0
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: false
 ---
 
 # Gram Altın Saflık Derecesi
@@ -32,7 +50,7 @@ Türkiye’de kuyumculuk sektöründe en yaygın kullanılan gram altın saflık
 
 ### Gram Altın Saflık Derecesi Hesaplama
 
-Altının milyem değeri üzerinden hesaplama yapılır:&#x20;
+Altının milyem değeri üzerinden hesaplama yapılır:
 
 ```
 Saflık Oranı (%) = (Milyem / 1000) x 100
@@ -41,4 +59,3 @@ Saflık Oranı (%) = (Milyem / 1000) x 100
 
 (916 / 1000) x 100 = %91,6
 ```
-
