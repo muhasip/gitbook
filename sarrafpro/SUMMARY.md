@@ -44,21 +44,3 @@
 * [Konfigürasyon](app/admin/README.md)
   * [Şube / Birim Yönetimi](app/admin/sube-yonetimi.md)
   * [Fatura Ayarları](app/admin/fatura-ayarlari.md)
-
-## Faydalı Bilgiler
-
-* [Kısayollar](faydali-bilgiler/kisayollar.md)
-* [Kuyumcu Hesap Makinası](faydali-bilgiler/jeweler-calculator/README.md)
-  * [Milyem Hesabı](faydali-bilgiler/jeweler-calculator/milyem-hesabi.md)
-  * [Milyem Nedir?](faydali-bilgiler/jeweler-calculator/milyem-nedir.md)
-* [Kuyumcu Sözlüğü](faydali-bilgiler/kuyumcu-sozlugu/README.md)
-  * [MASAK Sorgusu Nedir?](faydali-bilgiler/kuyumcu-sozlugu/masak-sorgusu-nedir.md)
-  * [Terör Listesi Sorgusu Nedir?](faydali-bilgiler/kuyumcu-sozlugu/teror-listesi-sorgusu-nedir.md)
-  * [PEP (Siyasi Olarak Nüfuzlu Kişi) Sorgusu Nedir?](faydali-bilgiler/kuyumcu-sozlugu/pep-siyasi-olarak-nufuzlu-kisi-sorgusu-nedir.md)
-  * [OFAC Sorgusu Nedir?](faydali-bilgiler/kuyumcu-sozlugu/ofac-sorgusu-nedir.md)
-
-***
-
-* [Güncellemeler](guncellemeler/README.md)
-  * [V.2.0.01](guncellemeler/v.2.0.01.md)
-  * [V.1.2.68](guncellemeler/v.1.2.68.md)

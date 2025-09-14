@@ -3,8 +3,7 @@ description: >-
   Sarraf Pro, kuyumcu esnafının günlük işlerini dijitalleştirerek zaman
   kazanmasını sağlayan bir yazılım platformudur.
 icon: sparkles
-cover: >-
-  https://images.unsplash.com/photo-1488229297570-58520851e868?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnb2xkJTIwYnJhaW58ZW58MHx8fHwxNzQ2MzkwMDY4fDA&ixlib=rb-4.0.3&q=85
+cover: .gitbook/assets/kilavuz.jpg
 coverY: 0
 ---
 
@@ -33,5 +32,5 @@ Bugün paranızın kaynağını doğru bilmek, yarın işinizi ayakta tutmanın 
 {% hint style="info" %}
 Güncel Versiyon: <code class="expression">space.vars.VERSION</code>
 
-Güncellemeleri [buraya tıklayarak](guncellemeler/) takip edebilirsiniz.
+Güncellemeleri [buraya tıklayarak](broken-reference) takip edebilirsiniz.
 {% endhint %}
