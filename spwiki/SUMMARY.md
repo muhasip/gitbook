@@ -5,5 +5,4 @@
 * [Masak Sorgusu](masak-sorgusu-nedir.md)
 * [OFAC Sorgusu](ofac-sorgusu-nedir.md)
 * [Terör Sorgusu](teror-listesi-sorgusu-nedir.md)
-* [PEP](pep-siyasi-olarak-nufuzlu-kisi-sorgusu-nedir.md)
-
+* [PEP Nedir?](pep-siyasi-olarak-nufuzlu-kisi-sorgusu-nedir.md)

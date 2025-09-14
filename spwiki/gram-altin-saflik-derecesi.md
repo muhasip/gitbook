@@ -18,9 +18,9 @@ layout:
   outline:
     visible: false
   pagination:
-    visible: false
+    visible: true
   metadata:
-    visible: false
+    visible: true
 ---
 
 # Gram Altın Saflık Derecesi

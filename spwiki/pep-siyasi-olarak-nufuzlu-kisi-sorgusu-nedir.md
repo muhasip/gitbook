@@ -14,12 +14,12 @@ layout:
   outline:
     visible: false
   pagination:
-    visible: false
+    visible: true
   metadata:
-    visible: false
+    visible: true
 ---
 
-# PEP
+# PEP Nedir?
 
 Finansal işlemlerde **şeffaflık ve güvenlik** son derece önemlidir. Özellikle yüksek meblağlı işlemlerde tarafların kimlikleri sadece yasal açıdan değil, aynı zamanda **politik bağlantılar** açısından da değerlendirilmelidir. İşte bu noktada devreye **PEP (Politically Exposed Person) Sorgusu** girer.
 
