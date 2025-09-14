@@ -75,22 +75,3 @@ layout:
     </tr>
   </tbody>
 
-{% content-ref url="gram-altin-saflik-derecesi.md" %}
-[gram-altin-saflik-derecesi.md](gram-altin-saflik-derecesi.md)
-{% endcontent-ref %}
-
-{% content-ref url="masak-sorgusu-nedir.md" %}
-[masak-sorgusu-nedir.md](masak-sorgusu-nedir.md)
-{% endcontent-ref %}
-
-{% content-ref url="ofac-sorgusu-nedir.md" %}
-[ofac-sorgusu-nedir.md](ofac-sorgusu-nedir.md)
-{% endcontent-ref %}
-
-{% content-ref url="pep-siyasi-olarak-nufuzlu-kisi-sorgusu-nedir.md" %}
-[pep-siyasi-olarak-nufuzlu-kisi-sorgusu-nedir.md](pep-siyasi-olarak-nufuzlu-kisi-sorgusu-nedir.md)
-{% endcontent-ref %}
-
-{% content-ref url="teror-listesi-sorgusu-nedir.md" %}
-[teror-listesi-sorgusu-nedir.md](teror-listesi-sorgusu-nedir.md)
-{% endcontent-ref %}
