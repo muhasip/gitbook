@@ -1,5 +1,5 @@
 ---
-icon: file-certificate
+icon: medal
 coverY: 0
 layout:
   width: default

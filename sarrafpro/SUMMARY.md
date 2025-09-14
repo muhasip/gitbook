@@ -15,7 +15,7 @@
 * [Operasyonel](app/operasyonel.md)
 * [Banka Akış](app/akis.md)
 * [Resmileştirme](app/resmilestirme/README.md)
-  * [Otomasyon](app/resmilestirme/otomasyon.md)
+  * [Fatura Otomasyonu](app/resmilestirme/otomasyon.md)
   * [Hızlı Fatura](app/resmilestirme/pos-islem.md)
   * [Gider Pusulası](app/resmilestirme/gider-pusulasi/README.md)
     * [Banka Hareketleri](app/resmilestirme/gider-pusulasi/banka-hareketleri.md)

@@ -1,10 +1,8 @@
 ---
 description: >-
-  Banka hareketlerinin işleneceği ve gerekli akışın sağlanacağı genel bir
-  modüldür.
-icon: atom-simple
-cover: >-
-  https://images.unsplash.com/44/fN6hZMWqRHuFET5YoApH_StBalmainCoffee.jpg?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxyZWNlaXB0fGVufDB8fHx8MTc0NjM5NTkxNHww&ixlib=rb-4.0.3&q=85
+  E-Banka ve E-Fatura Otomasyonu, işletmenizin banka hesaplarına gelen ödemeleri
+  otomatik olarak tanır ve fatura sürecini hızlandırır.
+icon: paper-plane
 coverY: 0
 layout:
   width: default
@@ -25,5 +23,24 @@ layout:
     visible: false
 ---
 
-# Otomasyon
+# Fatura Otomasyonu
 
+SarrafPro’nun **yapay zekâ destekli sistemi**, gelen hareketleri kurallara ve tanımlara göre analiz eder, doğru müşteri ve işlemle eşleştirir.
+
+### Öne Çıkan Özellikler
+
+* **Otomatik Tanıma:** Bankadan gelen ödemeler yapay zekâ tarafından incelenir, müşteri ve işlem ile eşleştirilir.
+* **Hızlı Faturalandırma:** Uyumlu bulunan işlemler tek tuşla faturalandırılmaya hazır hale getirilir.
+* **Kural Bazlı İşleyiş:** Önceden tanımlanan kurallar doğrultusunda işlemler güvenle ayrıştırılır.
+* **Mevzuat Uyumlu:** Tüm faturalandırma süreci Gelir İdaresi Başkanlığı (GİB) ve MASAK kurallarına tam uyumludur.
+* **Merkezi Takip:** Tüm banka hareketleri, faturalarıyla birlikte tek panelden yönetilir.
+
+***
+
+### Faydaları
+
+* **Manuel iş yükü ortadan kalkar**, fatura kesim süreci hızlanır.
+* Yapay zekâ sayesinde eşleştirme hataları minimuma iner.
+* Banka hareketleri ve faturalandırma süreci **tam şeffaflıkla** kontrol edilir.
+* İşletme, hem zaman hem iş gücü açısından **tasarruf sağlar**.
+* Resmi kayıtlar düzenli tutulur, denetim süreçleri kolaylaşır.
