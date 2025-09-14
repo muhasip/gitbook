@@ -1,28 +1,12 @@
 ---
 description: Sarraf Pro Güncellemeleri
 icon: clock-rotate-left
-cover: .gitbook/assets/hakkimizda.d29c4915.jpg
-coverY: -127.9353491902834
-layout:
-  width: wide
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
+cover: .gitbook/assets/Güncellemeler.jpg
+coverY: 0
+layout: editorial
 ---
 
-# Güncelleme Kayıtları
+# Güncellemler
 
 ## V.2.0.01
 
@@ -30,7 +14,7 @@ layout:
 
 {% columns %}
 {% column width="25%" %}
-<figure><img src=".gitbook/assets/Ad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Ad (1).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="75%" %}

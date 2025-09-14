@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Güncelleme Kayıtları](README.md)
+* [Güncellemler](README.md)
