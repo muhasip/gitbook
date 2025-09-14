@@ -2,7 +2,7 @@
 description: >-
   Kuyumculuk sektöründeki hesaplamar için özel olarak AR-GE süreci ile
   geliştirilmiştir.
-icon: pallet-boxes
+icon: sparkles
 cover: >-
   https://images.unsplash.com/photo-1612945578381-6481cdd73b0a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8amV3ZWxyeXN8ZW58MHx8fHwxNzQ2Mzk1ODk5fDA&ixlib=rb-4.0.3&q=85
 coverY: 0

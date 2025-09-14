@@ -14,7 +14,7 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
@@ -24,6 +24,8 @@ layout:
 ---
 
 # Güncellemeler
+
+
 
 {% content-ref url="v.1.2.68.md" %}
 [v.1.2.68.md](v.1.2.68.md)
