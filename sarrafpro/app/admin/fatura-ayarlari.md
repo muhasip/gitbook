@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Fatura Ayarları
 
 Altın fiyatlarını Borsa İstanbul son kapanış fiyatları veya Merkez Bankası hareket geldiği zamandaki kur fiyatlarına göre hesaplatabilirsiniz.

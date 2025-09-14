@@ -28,3 +28,9 @@ layout:
 # Mutabakat
 
 [konnektor](konnektor/ "mention") mantığı ile Excel tabanlı çalışan bir kontrol mekanizmasıdır.
+
+Belirlediğiniz kurallara göre kontrol ekranları oluşturabilirsiniz.
+
+Örnek şablonlar için [Müşteri Temsilciniz](#user-content-fn-1)[^1] ile iletişime geçebilirsiniz.
+
+[^1]: Müşteri Temsilcinizi; Sarraf Pro uygulamasında Destek bölümünde görebilirsiniz.

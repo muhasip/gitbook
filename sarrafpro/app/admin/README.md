@@ -1,6 +1,6 @@
 ---
 description: >-
-  Sistemsel olarak gerekli tüm özelliklerin yönetildiği ve kapsamlı
+  rSistemsel olarak gerekli tüm özelliklerin yönetildiği ve kapsamlı
   konfigürasyonların yapıldığı, admin yetkisi ile yönetilen sistem ayarları.
 icon: gear
 cover: >-
@@ -8,7 +8,7 @@ cover: >-
 coverY: 0
 ---
 
-# Admin
+# Konfigürasyon
 
 ### Genel Ayarlar
 
