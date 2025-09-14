@@ -1,8 +1,13 @@
 ---
 description: Sarraf Pro Güncellemeleri
 icon: clock-rotate-left
+cover: .gitbook/assets/hakkimizda.d29c4915.jpg
+coverY: -127.9353491902834
 layout:
   width: wide
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -18,6 +23,23 @@ layout:
 ---
 
 # Güncelleme Kayıtları
+
+## V.2.0.01
+
+14 Eylül 2025
+
+{% columns %}
+{% column width="25%" %}
+<figure><img src=".gitbook/assets/Ad.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column width="75%" %}
+Sarraf 4.0 Güncellemesi
+
+* 1 yıl içersinde aldığımız bütün geri dönüşleri derlediğimiz bir güncellemedir.
+* Güncelleme detayları uygulama içerisinde ve müşteri temisilciniz ile detaylı olarak paylaşışmıştır
+{% endcolumn %}
+{% endcolumns %}
 
 ## V.1.2.68
 
