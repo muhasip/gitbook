@@ -22,7 +22,3 @@
 * [Kuyumculuk Sektöründe MASAK Yükümlülükleri](blog/kuyumculuk-sektorunde-masak-yukumlulukleri.md)
 * [Kuyumculuk Sektörü MASAK Sıkılaştırılmış Tedbirler Rehberi](blog/kuyumculuk-sektoru-masak-sikilastirilmis-tedbirler-rehberi.md)
 * [Kuyumculukta KYC Artık Daha Sıkı](blog/kuyumculukta-kyc-artik-daha-siki.md)
-
-## Podcast
-
-* [Podcast](podcast/podcast.md)
