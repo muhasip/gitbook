@@ -3,7 +3,9 @@
 ## Künye
 
 * [Özet](README.md)
-* [Kaynak](kunye/kaynak.md)
+* [Sıkılaştırılmış Tedbirler Rehberi](kunye/sikilastirilmis-tedbirler-rehberi/README.md)
+  * [Masak Duyuru](https://docs.google.com/gview?url=https://raw.githubusercontent.com/muhasip/gitbook/main/masak/.gitbook/assets/SIKILASTIRILMIS-TEDBIRLER-REHBER.pdf)
+  * [PDF Dosyası](https://ms.hmb.gov.tr/uploads/sites/12/2025/09/SIKILASTIRILMIS-TEDBIRLER-REHBER-63e723d5abb0de9b.pdf)
 
 ## Raporlar
 
