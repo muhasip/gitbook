@@ -17,6 +17,4 @@ layout:
 
 # Kaynak
 
-
-
-{% file src="../.gitbook/assets/SIKILASTIRILMIS-TEDBIRLER-REHBER.pdf" %}
+{% embed url="https://docs.google.com/gview?url=https://raw.githubusercontent.com/muhasip/gitbook/main/masak/.gitbook/assets/SIKILASTIRILMIS-TEDBIRLER-REHBER.pdf" %}
