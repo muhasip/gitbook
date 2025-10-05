@@ -16,5 +16,7 @@
 
 ## Blog
 
-* [Türkiye'de Finansın Gizli Kuralları: Banka ve Kripto Hesabınızı Etkileyen 5 Şaşırtıcı Gerçek](blog/turkiyede-finansin-gizli-kurallari-banka-ve-kripto-hesabinizi-etkileyen-5-sasirtici-gercek.md)
-* [Kuyumculuk Sektöründe Yeni Dönem: MASAK Yükümlülükleri ve Sarraf.pro ile Sanctions.tr Entegrasyonu](blog/kuyumculuk-sektorunde-yeni-donem-masak-yukumlulukleri-ve-sarraf.pro-ile-sanctions.tr-entegrasyonu.md)
+* [Türkiye'de Finansın Gizli Kuralları](blog/turkiyede-finansin-gizli-kurallari.md)
+* [Kuyumculuk Sektöründe MASAK Yükümlülükleri](blog/kuyumculuk-sektorunde-masak-yukumlulukleri.md)
+* [Kuyumculuk Sektörü MASAK Sıkılaştırılmış Tedbirler Rehberi](blog/kuyumculuk-sektoru-masak-sikilastirilmis-tedbirler-rehberi.md)
+* [Kuyumculukta KYC Artık Daha Sıkı](blog/kuyumculukta-kyc-artik-daha-siki.md)

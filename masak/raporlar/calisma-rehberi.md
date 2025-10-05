@@ -2,6 +2,20 @@
 description: >-
   Suç Gelirlerinin Aklanması ve Terörün Finansmanının Önlenmesinde
   Sıkılaştırılmış Tedbirler Çalışma Rehberi
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
 ---
 
 # Çalışma Rehberi

@@ -1,5 +1,19 @@
 ---
 description: 'Yeni Finansal Teknolojiler ve Riskler: Neden "Sıkı Tedbirler" Gerekli?'
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
 ---
 
 # Konu Özeti

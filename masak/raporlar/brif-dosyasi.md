@@ -2,6 +2,20 @@
 description: >-
   Suç Gelirlerinin Aklanması ve Terörün Finansmanıyla Mücadelede Sıkılaştırılmış
   Tedbirler Rehberi: Temel Bulgular ve Yükümlülükler
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
 ---
 
 # Brif Dosyası

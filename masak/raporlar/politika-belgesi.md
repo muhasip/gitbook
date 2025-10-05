@@ -2,6 +2,20 @@
 description: >-
   Kripto Varlık Hizmet Sağlayıcıları İçin Sıkılaştırılmış Uyum Prosedürleri
   Kılavuzu
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
 ---
 
 # Politika Belgesi

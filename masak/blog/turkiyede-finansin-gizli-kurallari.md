@@ -1,4 +1,24 @@
-# Türkiye'de Finansın Gizli Kuralları: Banka ve Kripto Hesabınızı Etkileyen 5 Şaşırtıcı Gerçek
+---
+description: >-
+  Türkiye'de Finansın Gizli Kuralları: Banka ve Kripto Hesabınızı Etkileyen 5
+  Şaşırtıcı Gerçek
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
+---
+
+# Türkiye'de Finansın Gizli Kuralları
 
 ## Türkiye'de Finansın Gizli Kuralları: Banka ve Kripto Hesabınızı Etkileyen 5 Şaşırtıcı Gerçek
 

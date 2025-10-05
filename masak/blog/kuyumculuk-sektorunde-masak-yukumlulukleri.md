@@ -1,4 +1,24 @@
-# Kuyumculuk Sektöründe Yeni Dönem: MASAK Yükümlülükleri ve Sarraf.pro ile Sanctions.tr Entegrasyonu
+---
+description: >-
+  Kuyumculuk Sektöründe Yeni Dönem: MASAK Yükümlülükleri ve Sarraf.pro ile
+  Sanctions.tr Entegrasyonu
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
+---
+
+# Kuyumculuk Sektöründe MASAK Yükümlülükleri
 
 ## Kuyumculuk Sektöründe Yeni Dönem: MASAK Yükümlülükleri ve Sarraf.pro ile Sanctions.tr Entegrasyonu
 
