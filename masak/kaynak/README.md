@@ -1,5 +1,6 @@
 ---
 description: 'Müşteri Tanınması İlkesi Kapsamında: Sıkılaştırılmış Tedbirler Rehberi'
+hidden: true
 cover: ../.gitbook/assets/kaynaklar.jpg
 coverY: 0
 layout:
