@@ -1,7 +1,11 @@
 ---
 description: 'Yeni Finansal Teknolojiler ve Riskler: Neden "Sıkı Tedbirler" Gerekli?'
+coverY: 0
 layout:
-  width: wide
+  width: default
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

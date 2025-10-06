@@ -1,4 +1,6 @@
 ---
+hidden: true
+noIndex: true
 coverY: 0
 layout:
   width: default
@@ -8,7 +10,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: false
   outline:
