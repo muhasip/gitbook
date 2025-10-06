@@ -1,7 +1,12 @@
 ---
 description: 'Müşterini Tanı (KYC) İlkesi: Finansal Suçlarla Mücadelenin Temel Taşı'
+cover: ../.gitbook/assets/kilavuz.jpg
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -16,7 +21,7 @@ layout:
     visible: false
 ---
 
-# Kavram Açıklaması
+# Müşterini Tanı (KYC) İlkesi
 
 ## Müşterini Tanı (KYC) İlkesi: Finansal Suçlarla Mücadelenin Temel Taşı
 

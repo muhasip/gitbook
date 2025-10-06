@@ -1,5 +1,6 @@
 ---
 description: 'Sıkılaştırılmış Tedbirler Rehberi: Müşteri Tanıma ve Risk Yönetimi'
+cover: .gitbook/assets/ozet.jpg
 coverY: 0
 layout:
   width: default

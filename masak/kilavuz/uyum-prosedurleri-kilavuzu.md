@@ -2,8 +2,13 @@
 description: >-
   Kripto Varlık Hizmet Sağlayıcıları İçin Sıkılaştırılmış Uyum Prosedürleri
   Kılavuzu
+cover: ../.gitbook/assets/kilavuz.jpg
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -18,7 +23,7 @@ layout:
     visible: false
 ---
 
-# Uyum Prosedürü Kılavuzu
+# Uyum Prosedürleri Kılavuzu
 
 ## Kripto Varlık Hizmet Sağlayıcıları İçin Sıkılaştırılmış Uyum Prosedürleri Kılavuzu
 

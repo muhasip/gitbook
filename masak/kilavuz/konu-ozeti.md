@@ -1,5 +1,6 @@
 ---
 description: 'Yeni Finansal Teknolojiler ve Riskler: Neden "Sıkı Tedbirler" Gerekli?'
+cover: ../.gitbook/assets/kilavuz.jpg
 coverY: 0
 layout:
   width: wide

@@ -1,7 +1,12 @@
 ---
 description: 'Müşteri Tanınması İlkesi Kapsamında: Sıkılaştırılmış Tedbirler Rehberi'
+cover: ../.gitbook/assets/kaynaklar.jpg
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -16,7 +21,7 @@ layout:
     visible: false
 ---
 
-# Sıkılaştırılmış Tedbirler Rehberi
+# Kaynak
 
 ### İÇİNDEKİLER
 
