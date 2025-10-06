@@ -21,7 +21,15 @@ layout:
     visible: false
 ---
 
-# 🧠 Yapay Zekâ Destekli İçerik ve Sorumluluk Reddi
+# ⚠️ Yapay Zekâ Destekli İçerik ve Sorumluluk Reddi
+
+{% hint style="info" %}
+Kaynaklar
+
+Bu site 30 Eylül 2025 tarihli [MASAK](https://masak.hmb.gov.tr/) [**Sıkılaştırılmış Tedbirler Rehberi Güncellendi ve Yayımlandı**](blog/kuyumculuk-sektoru-masak-sikilastirilmis-tedbirler-rehberi.md)&#x20;
+
+duyurusu esasa alınarak Yapay Zeka Araçları ile hazırlanmıştır.
+{% endhint %}
 
 ### 1. Genel Bilgilendirme
 

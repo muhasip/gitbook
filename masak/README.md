@@ -26,7 +26,7 @@ Bu rehber, <mark style="background-color:$info;">**kara para aklama**</mark>**, 
 
 
 
-
+[https://uyum.sarraf.pro/yapay-zeka-destekli-icerik-ve-sorumluluk-reddi](https://uyum.sarraf.pro/yapay-zeka-destekli-icerik-ve-sorumluluk-reddi)
 
 {% hint style="info" %}
 Sorumluluk Beyanı
@@ -37,3 +37,4 @@ duyurusu esasa alınarak Yapay Zeka Araçları ile hazırlanmıştır.
 
 Yapay Zeka Araçlarımız yanlış bilgiler gösterebilir. Bu nedenle, içeriği ve blog yazılarını doğrulayın.
 {% endhint %}
+

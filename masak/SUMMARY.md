@@ -16,4 +16,4 @@
   * [Kuyumculuk Sektöründe MASAK Yükümlülükleri](blog/kuyumculuk-sektorunde-masak-yukumlulukleri.md)
   * [Kuyumculukta KYC Artık Daha Sıkı](blog/kuyumculukta-kyc-artik-daha-siki.md)
   * [Kuyumculuk Sektörü MASAK Sıkılaştırılmış Tedbirler Rehberi](blog/kuyumculuk-sektoru-masak-sikilastirilmis-tedbirler-rehberi.md)
-* [🧠 Yapay Zekâ Destekli İçerik ve Sorumluluk Reddi](yapay-zeka-destekli-icerik-ve-sorumluluk-reddi.md)
+* [⚠️ Yapay Zekâ Destekli İçerik ve Sorumluluk Reddi](yapay-zeka-destekli-icerik-ve-sorumluluk-reddi.md)
