@@ -2,8 +2,13 @@
 description: >-
   Kuyumculuk Sektöründe Yeni Dönem: MASAK Yükümlülükleri ve Sarraf.pro ile
   Sanctions.tr Entegrasyonu
+cover: ../.gitbook/assets/blog.jpg
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

@@ -1,4 +1,5 @@
 ---
+icon: feather-pointed
 cover: ../.gitbook/assets/blog.jpg
 coverY: 0
 layout:

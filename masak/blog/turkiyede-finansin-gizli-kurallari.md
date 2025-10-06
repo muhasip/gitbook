@@ -2,8 +2,13 @@
 description: >-
   Türkiye'de Finansın Gizli Kuralları: Banka ve Kripto Hesabınızı Etkileyen 5
   Şaşırtıcı Gerçek
+cover: ../.gitbook/assets/blog.jpg
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

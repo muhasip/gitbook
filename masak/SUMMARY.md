@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Özet](README.md)
-* [Kaynak](kaynak/README.md)
-  * [Masak Duyuru](https://docs.google.com/gview?url=https://raw.githubusercontent.com/muhasip/gitbook/main/masak/.gitbook/assets/SIKILASTIRILMIS-TEDBIRLER-REHBER.pdf)
-  * [PDF Dosyası](https://ms.hmb.gov.tr/uploads/sites/12/2025/09/SIKILASTIRILMIS-TEDBIRLER-REHBER-63e723d5abb0de9b.pdf)
 * [Kılavuz](kilavuz/README.md)
   * [Yeni Finansal Teknolojiler ve Riskler: Neden "Sıkı Tedbirler" Gerekli?](kilavuz/yeni-finansal-teknolojiler-ve-riskler-neden-siki-tedbirler-gerekli.md)
   * [Kripto Varlık Hizmet Sağlayıcıları İçin Sıkılaştırılmış Uyum Prosedürleri Kılavuzu](kilavuz/kripto-varlik-hizmet-saglayicilari-icin-sikilastirilmis-uyum-prosedurleri-kilavuzu.md)
@@ -16,3 +13,6 @@
   * [Kuyumculukta KYC Artık Daha Sıkı](blog/kuyumculukta-kyc-artik-daha-siki.md)
   * [Kuyumculuk Sektörü MASAK Sıkılaştırılmış Tedbirler Rehberi](blog/kuyumculuk-sektoru-masak-sikilastirilmis-tedbirler-rehberi.md)
 * [⚠️ Yapay Zekâ Destekli İçerik ve Sorumluluk Reddi](yapay-zeka-destekli-icerik-ve-sorumluluk-reddi.md)
+* [Kaynak](kaynak/README.md)
+  * [Masak Duyuru](https://docs.google.com/gview?url=https://raw.githubusercontent.com/muhasip/gitbook/main/masak/.gitbook/assets/SIKILASTIRILMIS-TEDBIRLER-REHBER.pdf)
+  * [PDF Dosyası](https://ms.hmb.gov.tr/uploads/sites/12/2025/09/SIKILASTIRILMIS-TEDBIRLER-REHBER-63e723d5abb0de9b.pdf)

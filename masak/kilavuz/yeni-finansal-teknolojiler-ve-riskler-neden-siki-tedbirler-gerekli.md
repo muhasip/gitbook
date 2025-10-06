@@ -8,11 +8,11 @@ layout:
     visible: true
     size: full
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: true
   pagination:
@@ -21,7 +21,7 @@ layout:
     visible: false
 ---
 
-# Konu Özeti
+# Yeni Finansal Teknolojiler ve Riskler: Neden "Sıkı Tedbirler" Gerekli?
 
 ## Yeni Finansal Teknolojiler ve Riskler: Neden "Sıkı Tedbirler" Gerekli?
 
