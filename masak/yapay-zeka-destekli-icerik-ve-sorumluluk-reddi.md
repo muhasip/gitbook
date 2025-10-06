@@ -1,9 +1,9 @@
 ---
 hidden: true
-noIndex: true
+cover: .gitbook/assets/sorumluluk.jpg
 coverY: 0
 layout:
-  width: default
+  width: wide
   cover:
     visible: true
     size: full

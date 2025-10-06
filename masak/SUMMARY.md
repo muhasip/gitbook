@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Özet](README.md)
+* [Sıkılaştırılmış Tedbirler Rehberi](README.md)
 * [Kılavuz](kilavuz/README.md)
   * [Yeni Finansal Teknolojiler ve Riskler: Neden "Sıkı Tedbirler" Gerekli?](kilavuz/yeni-finansal-teknolojiler-ve-riskler-neden-siki-tedbirler-gerekli.md)
   * [Kripto Varlık Hizmet Sağlayıcıları İçin Sıkılaştırılmış Uyum Prosedürleri Kılavuzu](kilavuz/kripto-varlik-hizmet-saglayicilari-icin-sikilastirilmis-uyum-prosedurleri-kilavuzu.md)
-  * [Müşterini Tanı (KYC) İlkesi](kilavuz/musterini-tani-kyc-ilkesi.md)
+  * [Müşterini Tanı (KYC) İlkesi: Finansal Suçlarla Mücadelenin Temel Taşı](kilavuz/musterini-tani-kyc-ilkesi-finansal-suclarla-mucadelenin-temel-tasi.md)
   * [Temel Bulgular ve Yükümlülükler](kilavuz/temel-bulgular-ve-yukumlulukler.md)
   * [Sıkılaştırılmış Tedbirler Çalışma Rehberi](kilavuz/sikilastirilmis-tedbirler-calisma-rehberi.md)
 * [Blog](blog/README.md)

@@ -10,9 +10,9 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: true
   pagination:
@@ -21,9 +21,7 @@ layout:
     visible: false
 ---
 
-# Müşterini Tanı (KYC) İlkesi
-
-## Müşterini Tanı (KYC) İlkesi: Finansal Suçlarla Mücadelenin Temel Taşı
+# Müşterini Tanı (KYC) İlkesi: Finansal Suçlarla Mücadelenin Temel Taşı
 
 #### Giriş: Finansal Sistemin Korunması
 

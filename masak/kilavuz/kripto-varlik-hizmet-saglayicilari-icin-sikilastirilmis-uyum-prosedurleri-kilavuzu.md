@@ -12,9 +12,9 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: true
   pagination:
@@ -23,9 +23,7 @@ layout:
     visible: false
 ---
 
-# Uyum Prosedürleri Kılavuzu
-
-## Kripto Varlık Hizmet Sağlayıcıları İçin Sıkılaştırılmış Uyum Prosedürleri Kılavuzu
+# Kripto Varlık Hizmet Sağlayıcıları İçin Sıkılaştırılmış Uyum Prosedürleri Kılavuzu
 
 ### 1.0 Giriş: Kripto Sektöründe Uyumun Stratejik Önemi
 
