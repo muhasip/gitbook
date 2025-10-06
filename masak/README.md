@@ -1,7 +1,11 @@
 ---
 description: 'Sıkılaştırılmış Tedbirler Rehberi: Müşteri Tanıma ve Risk Yönetimi'
+coverY: 0
 layout:
-  width: wide
+  width: default
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
