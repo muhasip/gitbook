@@ -29,7 +29,7 @@ layout:
 
 Bir kuyumcu olarak, vitrininizdeki her bir parça sadece bir ziynet eşyası değil, aynı zamanda potansiyel bir mali suç riskidir. Mali Suçları Araştırma Kurulu (MASAK) artık bu riski görmezden gelmenize izin vermiyor. Yayımlanan resmi rehberlerde, "kıymetli maden, taş veya mücevher alım satımı ve ticareti yapanlar", yani siz kuyumcular, açıkça "riskli sektörler" arasında tanımlanmaktadır. Bu durum, sektördeki her işletmenin yasal yükümlülüklerini eksiksiz anlamasını ve uygulamasını zorunlu kılmaktadır. Ancak bu yeni yükümlülüklerin karmaşıklığı, manuel olarak yönetilmesini hem zorlaştırmakta hem de ciddi hatalara açık hale getirmektedir.
 
-Bu yazının temel amacı, bu karmaşık yükümlülükleri anlaşılır adımlara bölmek ve Sarraf.pro ile Sanctions.tr gibi entegre dijital araçların tüm bu süreci nasıl basitleştirip güvence altına alabileceğini göstermektir. İşletmenizi yasal risklerden korurken operasyonel verimliliğinizi artırmanın yollarını keşfedeceğiz.
+Bu yazının temel amacı, bu karmaşık yükümlülükleri anlaşılır adımlara bölmek ve ([Sarraf.pro](https://sarraf.pro/)) ile Sanctions.tr gibi entegre dijital araçların tüm bu süreci nasıl basitleştirip güvence altına alabileceğini göstermektir. İşletmenizi yasal risklerden korurken operasyonel verimliliğinizi artırmanın yollarını keşfedeceğiz.
 
 Yazımız, uyumun temeli olan "Müşterini Tanı" ilkesinden başlayarak, yüksek riskli durumlarda devreye girmesi gereken "sıkılaştırılmış tedbirlere" ve tüm bu süreçlerin teknoloji ile nasıl hatasız ve etkin bir şekilde yönetileceğine dair pratik bir yol haritası sunmaktadır.
 
@@ -84,13 +84,13 @@ Bu kadar çok değişkeni manuel olarak takip etmek, doğru risk değerlendirmes
 
 ### 3. Dijital Çözüm: Sarraf.pro ve Sanctions.tr ile Uyum Süreçlerinizi Otomatize Edin
 
-Güncel AML/CFT düzenlemelerine uyum sağlamak, artık sadece bir yasal zorunluluk değil, aynı zamanda işletmenizin itibarını korumak ve iş sürekliliğini güvence altına almak için kritik bir unsurdur. Tamamen manuel yürütülen süreçler; insan hatası, yavaşlık, eksik kontroller ve en önemlisi gözden kaçan riskler gibi ciddi tehlikeler barındırır. Sarraf.pro ve Sanctions.tr gibi platformların teknolojik entegrasyonu, bu riskleri minimize ederek uyum süreçlerinizi otomatize eder ve sağlam bir güvence altına alır.
+Güncel AML/CFT düzenlemelerine uyum sağlamak, artık sadece bir yasal zorunluluk değil, aynı zamanda işletmenizin itibarını korumak ve iş sürekliliğini güvence altına almak için kritik bir unsurdur. Tamamen manuel yürütülen süreçler; insan hatası, yavaşlık, eksik kontroller ve en önemlisi gözden kaçan riskler gibi ciddi tehlikeler barındırır. ([Sarraf.pro](https://sarraf.pro/)) ve Sanctions.tr gibi platformların teknolojik entegrasyonu, bu riskleri minimize ederek uyum süreçlerinizi otomatize eder ve sağlam bir güvence altına alır.
 
 Bu iki sistemin sinerjisi, yasal yükümlülükleri pratik ve teknolojik çözümlere dönüştürür:
 
 <table data-header-hidden><thead><tr><th width="153.01953125">Yasal Yükümlülük (Problem)</th><th>Teknolojik Çözüm</th></tr></thead><tbody><tr><td>Müşteri Kimlik Tespiti ve Bilgi Yönetimi (KYC)</td><td>Sarraf.pro: Müşteri bilgilerini dijital olarak kaydeder, belgeleri güvenle saklar ve tüm müşteri profillerini tek bir merkezden yönetir. Bu sayede MASAK'ın bilgi toplama ve muhafaza yükümlülüğünü hatasız ve zahmetsizce yerine getirirsiniz.</td></tr><tr><td>Risk Değerlendirmesi ve Skorlama</td><td>Sarraf.pro: Müşterinin bilgileri, işlem hacmi ve ülke gibi faktörlere dayanarak otomatik bir risk skoru oluşturur. Bu sayede, hangi müşteriye standart, hangisine sıkılaştırılmış tedbir uygulamanız gerektiğini saniyeler içinde, varsayımlara dayanmadan görürsünüz.</td></tr><tr><td>Yaptırım Listeleri ve PEP Taraması</td><td>Sanctions.tr: Müşterilerinizi ulusal ve uluslararası tüm yaptırım listelerine ve Kamusal Nüfuz Sahibi Kişi (PEP) veri tabanlarına karşı anlık olarak tarar. Bu kritik kontrolü manuel olarak yapmanın imkansız olduğu bir dünyada size tam bir güvence sağlar.</td></tr><tr><td>Şüpheli İşlem İzleme</td><td>Sarraf.pro: Müşterinin oluşturulan mali "parmak izinden" sapan, olağandışı büyüklükteki veya karmaşık işlemleri otomatik olarak tespit eder ve sizin için anında uyarı mekanizmaları oluşturur.</td></tr><tr><td>Kayıtların Güvenli Saklanması ve Raporlama</td><td>Sarraf.pro &#x26; Sanctions.tr: Tüm müşteri bilgilerini, yapılan kontrolleri ve tarama sonuçlarını yasal sürelere uygun olarak güvenli bir şekilde muhafaza eder. Olası bir denetimde istenen tüm kayıtlara tek tıkla ulaşmanızı sağlar.</td></tr></tbody></table>
 
-Sarraf.pro ve Sanctions.tr entegrasyonu, yalnızca bir uyum aracı olmanın ötesinde, işletmenize zaman kazandıran, riskleri proaktif olarak yöneten ve en değerli varlığınız olan itibarınızı koruyan stratejik bir yatırımdır.
+([Sarraf.pro](https://sarraf.pro/)) ve Sanctions.tr entegrasyonu, yalnızca bir uyum aracı olmanın ötesinde, işletmenize zaman kazandıran, riskleri proaktif olarak yöneten ve en değerli varlığınız olan itibarınızı koruyan stratejik bir yatırımdır.
 
 ***
 
@@ -98,6 +98,6 @@ Sarraf.pro ve Sanctions.tr entegrasyonu, yalnızca bir uyum aracı olmanın öte
 
 Kuyumculuk sektörünün AML/CFT düzenlemeleri karşısında reaktif davranma lüksü kalmamıştır; artık proaktif ve sistemli olmak bir zorunluluktur. Uyum, bir defaya mahsus bir kontrol değil, MASAK'ın da belirttiği gibi "müşteri durumunun ve işlemlerin izlenmesi" ilkesi gereği sürekli ve dinamik bir süreçtir.
 
-Manuel yöntemlerin bu dinamik süreçte yetersiz ve son derece riskli olduğu açıktır. Sarraf.pro ve Sanctions.tr gibi entegre dijital çözümler ise kuyumculara hem karmaşık yasal gerekliliklere karşı tam güvence hem de değerli zamanlarını işlerine odaklamalarını sağlayacak operasyonel verimlilik sunmaktadır.
+Manuel yöntemlerin bu dinamik süreçte yetersiz ve son derece riskli olduğu açıktır. ([Sarraf.pro](https://sarraf.pro/)) ve Sanctions.tr gibi entegre dijital çözümler ise kuyumculara hem karmaşık yasal gerekliliklere karşı tam güvence hem de değerli zamanlarını işlerine odaklamalarını sağlayacak operasyonel verimlilik sunmaktadır.
 
 Bu yeni dönemde uyumu ertelemek, işletmenizin geleceğiyle kumar oynamaktır. Uyum teknolojilerine yatırım yapmak ise sadece bir masraf değil, en akıllıca iş sigortanızdır.

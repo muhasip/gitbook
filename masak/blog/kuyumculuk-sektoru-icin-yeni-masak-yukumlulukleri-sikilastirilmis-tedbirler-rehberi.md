@@ -49,7 +49,7 @@ Bir müşterinin risk profilini oluştururken dikkate alınması gereken temel f
 * Karmaşık veya görünürde ekonomik amacı olmayan işlemler
 * Kripto varlık işlemlerine katılım durumu
 
-Bu karmaşık risk değerlendirme süreçlerini otomatikleştirmek için geliştirilen SarrafPro (sarraf.pro) gibi yapay zekâ destekli platformlar, kuyumcuların müşteri risklerini doğru ve hızlı bir şekilde belirlemesine yardımcı olur. Bu faktörlere dayanarak bir müşterinin "yüksek riskli" kategorisine girdiğini belirlediğinizde, MASAK sizden standart prosedürlerin ötesine geçmenizi ve "sıkılaştırılmış tedbirler" olarak adlandırılan özel adımları atmanızı bekler.
+Bu karmaşık risk değerlendirme süreçlerini otomatikleştirmek için geliştirilen SarrafPro ([sarraf.pro](https://sarraf.pro/)) gibi yapay zekâ destekli platformlar, kuyumcuların müşteri risklerini doğru ve hızlı bir şekilde belirlemesine yardımcı olur. Bu faktörlere dayanarak bir müşterinin "yüksek riskli" kategorisine girdiğini belirlediğinizde, MASAK sizden standart prosedürlerin ötesine geçmenizi ve "sıkılaştırılmış tedbirler" olarak adlandırılan özel adımları atmanızı bekler.
 
 ### 3. Kuyumcular İçin Özel Dikkat Gerektiren Alanlar
 
@@ -67,7 +67,7 @@ Rehberde "Kamusal Nüfuz Sahibi Kişi" (PEP) olarak tanımlanan siyasi veya üst
 2. Kaynak Tespiti: İşleme konu mal varlığının ve fonların kaynağını belirlemek için makul tedbirler alınmalıdır.
 3. Sıkı Gözetim: İş ilişkisi, artırılmış kontrollerle sürekli ve sıkı bir gözetim altında tutulmalıdır.
 
-SarrafPro (sarraf.pro), müşterilerin PEP listelerinde olup olmadığını otomatik olarak kontrol ederek bu yasal zorunluluğun kolayca yerine getirilmesini sağlar.
+SarrafPro ([sarraf.pro](https://sarraf.pro/)), müşterilerin PEP listelerinde olup olmadığını otomatik olarak kontrol ederek bu yasal zorunluluğun kolayca yerine getirilmesini sağlar.
 
 **3.3. Kripto Varlıklarla İlgili Potansiyel Riskler**
 
@@ -83,7 +83,7 @@ Bir müşteri veya işlemin yüksek riskli olarak sınıflandırılması, teorik
 * Üst Yönetici Onayı Almak: İşlemin devamı için üst seviyedeki bir görevlinin onayını zorunlu kılmak.
 * Gözetimi Artırmak: İş ilişkisini daha sıkı kontrollerle izlemek.
 
-Tüm bu adımların manuel takibi hem zaman alıcı hem de hataya açıktır. SarrafPro (sarraf.pro), bu sıkılaştırılmış tedbir adımlarını dijitalleştirerek uyum sürecini yönetmeyi ve denetimlere hazır hale getirmeyi kolaylaştırır.
+Tüm bu adımların manuel takibi hem zaman alıcı hem de hataya açıktır. SarrafPro ([sarraf.pro](https://sarraf.pro/)), bu sıkılaştırılmış tedbir adımlarını dijitalleştirerek uyum sürecini yönetmeyi ve denetimlere hazır hale getirmeyi kolaylaştırır.
 
 ### 5. Tek Seferlik Değil, Sürekli Bir Süreç: İzleme ve Güncelleme
 
