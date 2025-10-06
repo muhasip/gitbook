@@ -86,4 +86,4 @@ Platformda yer alan herhangi bir içeriğin, **resmî beyan veya garanti** olara
 
 sarraf.pro, bu “Yapay Zekâ Destekli İçerik ve Sorumluluk Reddi” metnini,\
 yapay zekâ teknolojilerindeki veya yasal düzenlemelerdeki değişikliklere paralel olarak **önceden bildirim yapmaksızın** güncelleme hakkını saklı tutar.\
-Güncel versiyon her zaman sarraf.pro/sorumluluk-red adresinde yayımlanır.
+Güncel versiyon her zaman [https://uyum.sarraf.pro/yapay-zeka-destekli-icerik-ve-sorumluluk-reddi](https://uyum.sarraf.pro/yapay-zeka-destekli-icerik-ve-sorumluluk-reddi) adresinde yayımlanır.
