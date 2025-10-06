@@ -23,11 +23,9 @@ layout:
     visible: false
 ---
 
-# Kuyumculuk Sektöründe MASAK Yükümlülükleri
+# Kuyumculuk Sektöründe Yeni Dönem: MASAK Yükümlülükleri
 
-## Kuyumculuk Sektöründe Yeni Dönem: MASAK Yükümlülükleri ve Sarraf.pro ile Sanctions.tr Entegrasyonu
-
-#### Giriş: Neden Şimdi Harekete Geçmelisiniz?
+### Neden Şimdi Harekete Geçmelisiniz?
 
 Bir kuyumcu olarak, vitrininizdeki her bir parça sadece bir ziynet eşyası değil, aynı zamanda potansiyel bir mali suç riskidir. Mali Suçları Araştırma Kurulu (MASAK) artık bu riski görmezden gelmenize izin vermiyor. Yayımlanan resmi rehberlerde, "kıymetli maden, taş veya mücevher alım satımı ve ticareti yapanlar", yani siz kuyumcular, açıkça "riskli sektörler" arasında tanımlanmaktadır. Bu durum, sektördeki her işletmenin yasal yükümlülüklerini eksiksiz anlamasını ve uygulamasını zorunlu kılmaktadır. Ancak bu yeni yükümlülüklerin karmaşıklığı, manuel olarak yönetilmesini hem zorlaştırmakta hem de ciddi hatalara açık hale getirmektedir.
 
@@ -35,7 +33,7 @@ Bu yazının temel amacı, bu karmaşık yükümlülükleri anlaşılır adımla
 
 Yazımız, uyumun temeli olan "Müşterini Tanı" ilkesinden başlayarak, yüksek riskli durumlarda devreye girmesi gereken "sıkılaştırılmış tedbirlere" ve tüm bu süreçlerin teknoloji ile nasıl hatasız ve etkin bir şekilde yönetileceğine dair pratik bir yol haritası sunmaktadır.
 
-\--------------------------------------------------------------------------------
+***
 
 ### 1. Uyumun Temeli: "Müşterini Tanı" (KYC) Yükümlülüğü Kuyumcular İçin Ne Anlama Geliyor?
 
@@ -43,21 +41,24 @@ Yazımız, uyumun temeli olan "Müşterini Tanı" ilkesinden başlayarak, yükse
 
 Bir kuyumcunun farklı müşteri tipleri için uygulaması gereken temel kimlik tespiti adımları şunlardır:
 
-* Gerçek Kişi Müşterilerde:
-  * Temel Bilgiler: Müşterinin kimlik belgesinden (T.C. Kimlik Kartı, pasaport vb.) adı, soyadı, T.C. kimlik numarası, doğum yeri ve tarihi gibi temel bilgilerin alınması ve kaydedilmesi zorunludur.
-  * Meslek ve Gelir Bilgisi: Müşterinin mali profilini doğru anlamak için meslek ve gelir bilgisi kritik öneme sahiptir. Bu noktada yüzeysel bilgi almak yeterli değildir:
-    * Ücretli Çalışan ise: Bağlı bulunduğu sigorta kolu ve çalıştığı kurum hakkında bilgi alın.
-    * Serbest Meslek Sahibi veya Ticari Faaliyet Yürütüyorsa: İştigal ettiği iş kolu, sektörde ne kadar süredir faaliyette bulunduğu ve işinin yurtdışı bağlantısı olup olmadığı gibi detayları öğrenin.
-  * _Danışman Tavsiyesi:_ _Müşterinin sadece mesleğini sormakla yetinmeyin. "Bu sektörde ne kadar süredir faaliyet gösteriyorsunuz?", "İşinizin yurtdışı bağlantısı var mı?" gibi sorularla mali profilini derinleştirin. Bu, ileride yapacağı işlemlerin normal olup olmadığını anlamanız için size bir temel oluşturacaktır._
-  * İşlemin Amacı: Özellikle yüksek tutarlı işlemlerde, bu işlemin amacını ve işleme konu fonların kaynağını mutlaka sorun. Kaynak, "birikim, miras, taşınmaz satışı, şirket kar payı" gibi çeşitli nedenlere dayanabilir. Bu bilgi, işlemin meşruiyetini değerlendirmenize yardımcı olur.
-  * Yabancı Uyruklular: Müşteri yabancı uyruklu ise, standart bilgilere ek olarak uyruğu, Türkiye'de bulunma sebebi ve planladığı kalış süresi gibi ilave bilgilerin alınması gerekmektedir.
-* Tüzel Kişi Müşterilerde (Şirketler, Dernekler vb.):
-  * Kurumsal Kimlik Tespiti: Şirketin tam unvanı, faaliyet konusu, kuruluş tarihi, vergi numarası gibi bilgilerin ticaret sicil gazetesi, vergi levhası gibi resmi belgelerle teyit edilmesi gerekir.
-  * Gerçek Faydalanıcının Tespiti: Bu, en kritik adımlardan biridir. Bir şirketin %25'i aşan hissesine sahip olan gerçek kişi ortakların kimliğinin tespit edilmesi yasal bir zorunluluktur. Bu adımın amacı, tüzel kişiliğin arkasına gizlenmiş ve işlemden nihai olarak fayda sağlayan gerçek kişiyi anlamaktır.
+### Gerçek Kişi Müşterilerde:
+
+* Temel Bilgiler: Müşterinin kimlik belgesinden (T.C. Kimlik Kartı, pasaport vb.) adı, soyadı, T.C. kimlik numarası, doğum yeri ve tarihi gibi temel bilgilerin alınması ve kaydedilmesi zorunludur.
+* Meslek ve Gelir Bilgisi: Müşterinin mali profilini doğru anlamak için meslek ve gelir bilgisi kritik öneme sahiptir. Bu noktada yüzeysel bilgi almak yeterli değildir:
+  * Ücretli Çalışan ise: Bağlı bulunduğu sigorta kolu ve çalıştığı kurum hakkında bilgi alın.
+  * Serbest Meslek Sahibi veya Ticari Faaliyet Yürütüyorsa: İştigal ettiği iş kolu, sektörde ne kadar süredir faaliyette bulunduğu ve işinin yurtdışı bağlantısı olup olmadığı gibi detayları öğrenin.
+* _Danışman Tavsiyesi:_ _Müşterinin sadece mesleğini sormakla yetinmeyin. "Bu sektörde ne kadar süredir faaliyet gösteriyorsunuz?", "İşinizin yurtdışı bağlantısı var mı?" gibi sorularla mali profilini derinleştirin. Bu, ileride yapacağı işlemlerin normal olup olmadığını anlamanız için size bir temel oluşturacaktır._
+* İşlemin Amacı: Özellikle yüksek tutarlı işlemlerde, bu işlemin amacını ve işleme konu fonların kaynağını mutlaka sorun. Kaynak, "birikim, miras, taşınmaz satışı, şirket kar payı" gibi çeşitli nedenlere dayanabilir. Bu bilgi, işlemin meşruiyetini değerlendirmenize yardımcı olur.
+* Yabancı Uyruklular: Müşteri yabancı uyruklu ise, standart bilgilere ek olarak uyruğu, Türkiye'de bulunma sebebi ve planladığı kalış süresi gibi ilave bilgilerin alınması gerekmektedir.
+
+### Tüzel Kişi Müşterilerde (Şirketler, Dernekler vb.):
+
+* Kurumsal Kimlik Tespiti: Şirketin tam unvanı, faaliyet konusu, kuruluş tarihi, vergi numarası gibi bilgilerin ticaret sicil gazetesi, vergi levhası gibi resmi belgelerle teyit edilmesi gerekir.
+* Gerçek Faydalanıcının Tespiti: Bu, en kritik adımlardan biridir. Bir şirketin %25'i aşan hissesine sahip olan gerçek kişi ortakların kimliğinin tespit edilmesi yasal bir zorunluluktur. Bu adımın amacı, tüzel kişiliğin arkasına gizlenmiş ve işlemden nihai olarak fayda sağlayan gerçek kişiyi anlamaktır.
 
 Bu temel kimlik tespiti adımları, standart durumlar için bir başlangıç noktasıdır. Ancak bazı müşteriler ve işlemler, çok daha derinlemesine bir inceleme ve ek tedbirler gerektirir.
 
-\--------------------------------------------------------------------------------
+***
 
 ### 2. Risk Sinyalleri: Ne Zaman "Sıkılaştırılmış Tedbirler" Uygulanmalı?
 
@@ -79,7 +80,7 @@ Yüksek risk tespit edildiğinde atılması gereken pratik adımlar şunlardır:
 
 Bu kadar çok değişkeni manuel olarak takip etmek, doğru risk değerlendirmesi yapmak ve gerekli adımları zamanında atmak, önemli bir operasyonel yük ve yüksek bir hata payı içerir. İşte bu noktada teknoloji, en güvenilir çözüm ortağınız haline gelir.
 
-\--------------------------------------------------------------------------------
+***
 
 ### 3. Dijital Çözüm: Sarraf.pro ve Sanctions.tr ile Uyum Süreçlerinizi Otomatize Edin
 
@@ -87,17 +88,13 @@ Güncel AML/CFT düzenlemelerine uyum sağlamak, artık sadece bir yasal zorunlu
 
 Bu iki sistemin sinerjisi, yasal yükümlülükleri pratik ve teknolojik çözümlere dönüştürür:
 
-| Yasal Yükümlülük (Problem)                     | Teknolojik Çözüm (Sarraf.pro & Sanctions.tr)                                                                                                                                                                                                                           |
-| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Müşteri Kimlik Tespiti ve Bilgi Yönetimi (KYC) | Sarraf.pro: Müşteri bilgilerini dijital olarak kaydeder, belgeleri güvenle saklar ve tüm müşteri profillerini tek bir merkezden yönetir. Bu sayede MASAK'ın bilgi toplama ve muhafaza yükümlülüğünü hatasız ve zahmetsizce yerine getirirsiniz.                        |
-| Risk Değerlendirmesi ve Skorlama               | Sarraf.pro: Müşterinin bilgileri, işlem hacmi ve ülke gibi faktörlere dayanarak otomatik bir risk skoru oluşturur. Bu sayede, hangi müşteriye standart, hangisine sıkılaştırılmış tedbir uygulamanız gerektiğini saniyeler içinde, varsayımlara dayanmadan görürsünüz. |
-| Yaptırım Listeleri ve PEP Taraması             | Sanctions.tr: Müşterilerinizi ulusal ve uluslararası tüm yaptırım listelerine ve Kamusal Nüfuz Sahibi Kişi (PEP) veri tabanlarına karşı anlık olarak tarar. Bu kritik kontrolü manuel olarak yapmanın imkansız olduğu bir dünyada size tam bir güvence sağlar.         |
-| Şüpheli İşlem İzleme                           | Sarraf.pro: Müşterinin oluşturulan mali "parmak izinden" sapan, olağandışı büyüklükteki veya karmaşık işlemleri otomatik olarak tespit eder ve sizin için anında uyarı mekanizmaları oluşturur.                                                                        |
-| Kayıtların Güvenli Saklanması ve Raporlama     | Sarraf.pro & Sanctions.tr: Tüm müşteri bilgilerini, yapılan kontrolleri ve tarama sonuçlarını yasal sürelere uygun olarak güvenli bir şekilde muhafaza eder. Olası bir denetimde istenen tüm kayıtlara tek tıkla ulaşmanızı sağlar.                                    |
+<table data-header-hidden><thead><tr><th width="153.01953125">Yasal Yükümlülük (Problem)</th><th>Teknolojik Çözüm</th></tr></thead><tbody><tr><td>Müşteri Kimlik Tespiti ve Bilgi Yönetimi (KYC)</td><td>Sarraf.pro: Müşteri bilgilerini dijital olarak kaydeder, belgeleri güvenle saklar ve tüm müşteri profillerini tek bir merkezden yönetir. Bu sayede MASAK'ın bilgi toplama ve muhafaza yükümlülüğünü hatasız ve zahmetsizce yerine getirirsiniz.</td></tr><tr><td>Risk Değerlendirmesi ve Skorlama</td><td>Sarraf.pro: Müşterinin bilgileri, işlem hacmi ve ülke gibi faktörlere dayanarak otomatik bir risk skoru oluşturur. Bu sayede, hangi müşteriye standart, hangisine sıkılaştırılmış tedbir uygulamanız gerektiğini saniyeler içinde, varsayımlara dayanmadan görürsünüz.</td></tr><tr><td>Yaptırım Listeleri ve PEP Taraması</td><td>Sanctions.tr: Müşterilerinizi ulusal ve uluslararası tüm yaptırım listelerine ve Kamusal Nüfuz Sahibi Kişi (PEP) veri tabanlarına karşı anlık olarak tarar. Bu kritik kontrolü manuel olarak yapmanın imkansız olduğu bir dünyada size tam bir güvence sağlar.</td></tr><tr><td>Şüpheli İşlem İzleme</td><td>Sarraf.pro: Müşterinin oluşturulan mali "parmak izinden" sapan, olağandışı büyüklükteki veya karmaşık işlemleri otomatik olarak tespit eder ve sizin için anında uyarı mekanizmaları oluşturur.</td></tr><tr><td>Kayıtların Güvenli Saklanması ve Raporlama</td><td>Sarraf.pro &#x26; Sanctions.tr: Tüm müşteri bilgilerini, yapılan kontrolleri ve tarama sonuçlarını yasal sürelere uygun olarak güvenli bir şekilde muhafaza eder. Olası bir denetimde istenen tüm kayıtlara tek tıkla ulaşmanızı sağlar.</td></tr></tbody></table>
 
 Sarraf.pro ve Sanctions.tr entegrasyonu, yalnızca bir uyum aracı olmanın ötesinde, işletmenize zaman kazandıran, riskleri proaktif olarak yöneten ve en değerli varlığınız olan itibarınızı koruyan stratejik bir yatırımdır.
 
-#### Sonuç: Geleceğe Uyum Sağlamak
+***
+
+### Geleceğe Uyum Sağlamak
 
 Kuyumculuk sektörünün AML/CFT düzenlemeleri karşısında reaktif davranma lüksü kalmamıştır; artık proaktif ve sistemli olmak bir zorunluluktur. Uyum, bir defaya mahsus bir kontrol değil, MASAK'ın da belirttiği gibi "müşteri durumunun ve işlemlerin izlenmesi" ilkesi gereği sürekli ve dinamik bir süreçtir.
 

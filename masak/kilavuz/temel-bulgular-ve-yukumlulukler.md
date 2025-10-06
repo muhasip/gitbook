@@ -37,6 +37,8 @@ Uygulanması gereken temel sıkılaştırılmış tedbirler şunları içerir: m
 
 Belge, özellikle KVHS ve ödeme kuruluşları için getirilen özel yükümlülüklere dikkat çekmektedir. KVHS ile bankalar arasındaki ilişkilerde fon kaynağının tespiti ve işlemlerin sıkı gözetimi zorunlu kılınırken, KVHS'lerin kendi müşterileri için de fon kaynağı tespiti, işlem amacı sorgulaması ve sürekli gözetim gibi tedbirleri uygulaması gerekmektedir. Uzaktan kimlik tespiti süreçleri ve kripto varlık transferleri için de gecikme süreleri, işlem limitleri ve bilgi paylaşımı gibi özel kurallar getirilmiştir.
 
+***
+
 ### 1. Giriş ve Genel Çerçeve
 
 Teknolojinin ilerlemesi ve dijitalleşme, finansal sistemde yeni fırsatlar yaratırken aynı zamanda suç gelirlerinin aklanması, terörizmin ve kitle imha silahlarının yayılmasının finansmanı (AML/CFT) gibi riskleri de artırmıştır. Bu bağlamda, ulusal ve uluslararası otoriteler, finansal sistemin suçlular tarafından kullanılmasını engellemek amacıyla mevcut tedbirleri sıkılaştırma yoluna gitmiştir.
@@ -50,6 +52,8 @@ Teknolojinin ilerlemesi ve dijitalleşme, finansal sistemde yeni fırsatlar yara
 * Yükümlülükler: 5549 sayılı Kanun uyarınca finansal kuruluşlar ve diğer meslek grupları için getirilen zorunluluklardır. Bunlar arasında; müşterinin tanınması, şüpheli işlem bildirimi, eğitim, iç denetim, kontrol ve risk yönetimi sistemleri kurma gibi temel görevler bulunmaktadır.
 
 Bu yükümlülüklerin temelini, müşterinin kimliği ve faaliyetleri hakkında yeterli bilgiye sahip olmayı gerektiren "müşterinin tanınması ilkesi" oluşturur.
+
+***
 
 ### 2. Müşterinin Tanınması Yükümlülüğü ve Sıkılaştırılmış Tedbirler
 
@@ -73,6 +77,8 @@ Tespit edilen yüksek risk durumlarında uygulanması gereken temel tedbirler ş
 * İş ilişkisine girilmesini veya mevcut bir ilişkinin sürdürülmesini üst seviyedeki bir görevlinin onayına bağlamak.
 * Uygulanan kontrollerin sayı ve sıklığını artırarak iş ilişkisini sıkı gözetim altında tutmak.
 * Sürekli iş ilişkisi kurulurken ilk finansal hareketin, müşterinin tanınması esaslarının uygulandığı başka bir finansal kuruluştan yapılmasını zorunlu tutmak.
+
+***
 
 ### 3. Sıkılaştırılmış Tedbirlerin Uygulanacağı Özel Durumlar
 
@@ -109,6 +115,8 @@ Yükümlüler, risk temelli bir yaklaşımla müşteri, hizmet ve ülke bazında
 * Kâr amacı gütmeyen kuruluşların (özellikle dernekler) işlemleri.
 * Riskli ülkelerde yerleşik yabancı uyruklu müşterilerin işlemleri.
 
+***
+
 ### 4. Kripto Varlık Hizmet Sağlayıcıları (KVHS) ve Diğer Finansal Kuruluşlara Yönelik Özel Tedbirler
 
 #### 4.1. Finansal Kuruluşların KVHS ile İlişkileri
@@ -143,16 +151,15 @@ Yüksek riskli olarak belirledikleri müşteriler için ise üst düzey yönetic
 
 Bu kuruluşların üye işyerleri ile terminal aracılığıyla kurdukları iş ilişkileri de sıkılaştırılmış tedbirler kapsamındadır. Yüksek riskli işlemlerde öngörülen tüm tedbirlerin (ilave bilgi toplama, fon kaynağı tespiti, üst düzey yönetici onayı, sıkı gözetim vb.) uygulanması zorunludur.
 
+***
+
 ### 5. Müşterinin Tanınmasında Sıkılaştırılmış Tedbirlerin Uygulanması
 
 #### 5.1. Gerçek ve Tüzel Kişi Müşteriler İçin Bilgi Toplama
 
 Sıkılaştırılmış tedbirler kapsamında, müşterilerden standart kimlik bilgilerinin ötesinde detaylı bilgi talep edilmelidir.
 
-| Müşteri Türü                              | Toplanması Gereken İlave Bilgiler                                                                                                                                                                                                                                                                                                                                                |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Gerçek Kişiler                            | - Meslek, sigorta kolu, çalıştığı kurum, aylık gelir.\<br>- Serbest meslek sahibi ise; iştigal kolu, sektördeki deneyimi, yurtdışı bağlantısı, şirket ortaklığı durumu.\<br>- Fonların ve malvarlığının kaynağı (birikim, maaş, kira, miras vb.).\<br>- İşlemlerin amacı, beklenen işlem hacmi ve adedi.\<br>- Yurt dışı para transferi yapılıp yapılmayacağı ve ilgili ülkeler. |
-| Tüzel Kişiler (Şirket, Dernek, Vakıf vb.) | - Faaliyet konusu, faaliyet gösterdiği sektörler, kuruluş tarihi.\<br>- Dernek/vakıflar için kuruluş amacı ve faaliyet alanı.\<br>- Fonların ve malvarlığının kaynağı (ticari faaliyet, bağış, aidat vb.).\<br>- İşlemlerin amacı, beklenen işlem hacmi ve karşı taraflar.\<br>- Yurt dışı para transferi yapılıp yapılmayacağı ve ilgili ülkeler.                               |
+<table data-header-hidden><thead><tr><th width="186.015625">Müşteri Türü</th><th>Toplanması Gereken İlave Bilgiler</th></tr></thead><tbody><tr><td>Gerçek Kişiler</td><td><p>- Meslek, sigorta kolu, çalıştığı kurum, aylık gelir.</p><p>- Serbest meslek sahibi ise; iştigal kolu, sektördeki deneyimi, yurtdışı bağlantısı, şirket ortaklığı durumu.</p><p>- Fonların ve malvarlığının kaynağı (birikim, maaş, kira, miras vb.).</p><p>- İşlemlerin amacı, beklenen işlem hacmi ve adedi.</p><p>- Yurt dışı para transferi yapılıp yapılmayacağı ve ilgili ülkeler.</p></td></tr><tr><td>Tüzel Kişiler (Şirket, Dernek, Vakıf vb.)</td><td><p>- Faaliyet konusu, faaliyet gösterdiği sektörler, kuruluş tarihi.</p><p>- Dernek/vakıflar için kuruluş amacı ve faaliyet alanı.</p><p>- Fonların ve malvarlığının kaynağı (ticari faaliyet, bağış, aidat vb.).</p><p>- İşlemlerin amacı, beklenen işlem hacmi ve karşı taraflar.</p><p>- Yurt dışı para transferi yapılıp yapılmayacağı ve ilgili ülkeler.</p></td></tr></tbody></table>
 
 Bu bilgilerin uygun belgelerle teyit edilmesi ve belgelerin gerçekliğinden şüphe duyulması halinde ilgili kurumlardan doğrulama yapılması esastır.
 

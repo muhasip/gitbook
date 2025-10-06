@@ -21,11 +21,9 @@ layout:
     visible: false
 ---
 
-# Kuyumculukta KYC Artık Daha Sıkı
+# Kuyumculukta KYC Artık Daha Sıkı: MASAK’tan Yeni Kurallar
 
-## Kuyumculukta KYC Artık Daha Sıkı: MASAK’tan Yeni Kurallar
-
-#### Bölüm 1: Giriş - Finans Sektöründe Değişen Kurallar ve Sizin İşletmeniz
+### Bölüm 1:  Finans Sektöründe Değişen Kurallar ve Sizin İşletmeniz
 
 Teknolojik gelişmeler ve hızlanan dijitalleşme, finans sektörünü geri dönülmez bir şekilde dönüştürüyor. Kripto varlık hizmet sağlayıcıları gibi yeni oyuncuların sahneye çıkmasıyla oluşan bu dinamik ortam, yeni fırsatlar sunarken işletmenizi daha önce karşılaşmadığınız risklere de maruz bırakıyor. Bu değişime yanıt olarak, Mali Suçları Araştırma Kurulu (MASAK), suç gelirlerinin aklanması ve terörün finansmanıyla mücadele etmek için mevcut kuralları güncelleyen ve sıkılaştıran yeni bir rehber yayımladı. Bu düzenlemelerin tek amacı, mali sisteme olan güveni sarsılmaz kılmaktır.
 
@@ -35,7 +33,9 @@ Uyum süreçlerinin artan karmaşıklığı karşısında manuel kontroller yete
 
 Bu yazıda, öncelikle Müşterini Tanı (KYC) ilkesinin temellerini ve bu yeni dönemde neden her zamankinden daha kritik olduğunu ele alacağız.
 
-#### Bölüm 2: Müşterini Tanı (KYC) Yükümlülüğü Neden Önemli?
+***
+
+### Bölüm 2: Müşterini Tanı (KYC) Yükümlülüğü Neden Önemli?
 
 Müşterini Tanı (KYC) ilkesini yalnızca yasal bir formalite olarak görmeyin; bu ilke, işletmeniz için en güçlü koruma kalkanıdır. Temel amacı, finansal sistemin suçlular tarafından bir araç olarak kullanılmasını engellemektir. Suç gelirlerinin aklanması veya terörün finansmanı gibi faaliyetlerle anılmaktan korunmanız, müşterileriniz hakkında yeterli ve doğru bilgiye sahip olmanıza bağlıdır. Unutmayın, KYC diğer tüm uyum süreçlerinin üzerine inşa edildiği temeldir.
 
@@ -45,11 +45,15 @@ Yeni MASAK rehberi, bu yükümlülüğü "sıkılaştırılmış tedbirler" ile 
 
 Bir sonraki bölümde, bu sıkılaştırılmış tedbirlerin en kritik üç unsurunu ve işletmeniz için ne anlama geldiklerini detaylandıracağız.
 
-#### Bölüm 3: Yeni Rehberin Üç Temel Taşı: Anlamanız Gereken Kilit Kavramlar
+***
+
+### Bölüm 3: Yeni Rehberin Üç Temel Taşı: Anlamanız Gereken Kilit Kavramlar
 
 MASAK'ın yeni rehberini doğru bir şekilde uygulamak için üç temel kavramı kusursuzca anlamanız gerekir: Risk Temelli Yaklaşım, Gerçek Faydalanıcı ve Uzaktan Kimlik Tespiti. Bu kavramlara hakim olmanız, uyum sürecinizi doğru yönetmenin ve işletmenizi ciddi risklerden korumanın anahtarıdır.
 
 **3.1. Risk Temelli Yaklaşım: Her Müşteri Aynı Değildir**
+
+
 
 "Risk Temelli Yaklaşım", her müşteriyi ve her işlemi aynı standart kontrolden geçirmek yerine, onları risk seviyelerine göre sınıflandırmanız gerektiği anlamına gelir. MASAK, müşterilerinizi düşük, orta ve yüksek riskli olarak kategorize etmenizi ve yüksek riskli olarak tanımladığınız durumlarda çok daha sıkı tedbirler uygulamanızı zorunlu kılmaktadır.
 
@@ -88,7 +92,9 @@ Bu karmaşık ve çok adımlı doğrulama süreci, SarrafPro gibi platformlar ar
 
 Peki, bu temel kavramlar günlük operasyonlarınızda tam olarak ne anlama geliyor? Bir sonraki bölümde bu konuyu ele alacağız.
 
-#### Bölüm 4: İşletmeniz İçin Pratik Adımlar: Neler Yapmalısınız?
+***
+
+### Bölüm 4: İşletmeniz İçin Pratik Adımlar: Neler Yapmalısınız?
 
 Teorik bilgileri, işletmenizin günlük operasyonlarına yönelik somut adımlara dönüştürme zamanı geldi. Unutmayın, bu kurallara uyum sağlamak sadece bir yükümlülük değil, aynı zamanda işletmenizin geleceği ve itibarı için yapılmış en önemli yatırımdır. İşte MASAK rehberine göre yüksek riskli durumlarda atmanız gereken pratik adımlar:
 
@@ -103,7 +109,9 @@ Bu adımların tamamını her müşteri için manuel olarak takip etmek, operasy
 
 Uyum sağlamamanın getireceği idari para cezalarını ve onarılamaz itibar kaybını asla göz ardı etmeyin.
 
-#### Bölüm 5: Sonuç: Riski Yönetin, Güvende Kalın
+***
+
+### Bölüm 5: Riski Yönetin, Güvende Kalın
 
 MASAK'ın yeni rehberi, finansal suçlarla mücadelede yeni ve daha proaktif bir dönemi başlatıyor. Kuyumcular ve döviz büroları için getirilen bu sıkılaştırılmış kurallar, bir yük olarak değil, işletmenizi ve ülkemizin finansal sistemini yasa dışı faaliyetlere karşı koruyan temel bir mekanizma olarak görülmelidir. Proaktif olmak ve doğru teknolojik araçları kullanmak, bu yeni döneme uyum sağlamanın en akıllı yoludur.
 

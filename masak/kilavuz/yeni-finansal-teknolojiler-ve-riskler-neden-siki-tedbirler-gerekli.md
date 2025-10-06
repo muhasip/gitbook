@@ -23,13 +23,11 @@ layout:
 
 # Yeni Finansal Teknolojiler ve Riskler: Neden "Sıkı Tedbirler" Gerekli?
 
-#### Giriş
-
 Dijitalleşme, finansal işlemleri hepimiz için inanılmaz derecede kolaylaştırdı. Artık bir banka şubesine gitmeden para transfer edebiliyor, yatırım yapabiliyor ve yeni nesil finansal araçları kullanabiliyoruz. Ancak bu teknolojik ilerleme, yeni fırsatların yanı sıra suçluların da faydalanabileceği yeni riskleri beraberinde getirdi. Bu nedenle ulusal ve uluslararası otoriteler, finansal sistemin güvenliğini sağlamak ve yasa dışı faaliyetleri engellemek için "sıkılaştırılmış tedbirler" olarak adlandırılan bir dizi kural ve denetim mekanizması uygulama ihtiyacı duymuştur.
 
-\--------------------------------------------------------------------------------
+***
 
-#### 1. Finansal Suçların Anatomisi: Aklama ve Terör Finansmanı
+### 1. Finansal Suçların Anatomisi: Aklama ve Terör Finansmanı
 
 Finansal sistemin korunmasını amaçlayan bu tedbirler, temel olarak iki büyük suç türüyle mücadele etmeyi hedefler:
 
@@ -38,17 +36,17 @@ Finansal sistemin korunmasını amaçlayan bu tedbirler, temel olarak iki büyü
 
 Bu tehlikeli suçlarla mücadele edebilmek için finansal kuruluşlara getirilen en temel yükümlülük, tüm güvenlik süreçlerinin de temelini oluşturan "Müşterini Tanı" ilkesidir.
 
-\--------------------------------------------------------------------------------
+***
 
-#### 2. İlk Savunma Hattı: "Müşterini Tanı" Prensibi
+### 2. İlk Savunma Hattı: "Müşterini Tanı" Prensibi
 
 "Müşterini Tanı" (İngilizce: Know Your Customer - KYC), finansal kuruluşların müşterilerinin kim olduğunu doğrulamalarını zorunlu kılan yasal bir yükümlülüktür. Türkiye'de 5549 sayılı Kanun ile düzenlenen bu ilke, bir bankanın veya kripto varlık platformunun sizinle iş ilişkisi kurmadan önce kimliğinizi, adresinizi ve diğer temel bilgilerinizi teyit etmesini gerektirir. Bu süreç, finansal sisteme sahte veya anonim kimliklerle girilmesini engelleyerek ilk ve en önemli savunma hattını oluşturur.
 
 Ancak standart kimlik tespiti her zaman yeterli olmaz. Bazı durumlar ve müşteri profilleri, daha ileri ve detaylı önlemlerin alınmasını zorunlu kılar.
 
-\--------------------------------------------------------------------------------
+***
 
-#### 3. Risk Yükseldiğinde: "Sıkılaştırılmış Tedbirler" Ne Zaman Devreye Girer?
+### 3. Risk Yükseldiğinde: "Sıkılaştırılmış Tedbirler" Ne Zaman Devreye Girer?
 
 "Sıkılaştırılmış Tedbirler", riskin yüksek olarak değerlendirildiği durumlarda uygulanan ek ve daha detaylı güvenlik önlemleridir. Standart kimlik tespitinin ötesine geçerek müşteri, işlem ve fon kaynağı hakkında daha fazla bilgi toplanmasını içerir. Bu tedbirlerin uygulandığı dört ana durum şunlardır:
 
@@ -59,9 +57,9 @@ Ancak standart kimlik tespiti her zaman yeterli olmaz. Bazı durumlar ve müşte
 
 Şimdi, teknolojiyle doğrudan ilişkili olan kripto varlıklar ve uzaktan kimlik tespiti gibi modern alanlarda bu kuralların nasıl uygulandığına daha yakından bakalım.
 
-\--------------------------------------------------------------------------------
+***
 
-#### 4. Mercek Altında: Kripto Varlıklar ve Uzaktan Kimlik Tespiti
+### 4. Mercek Altında: Kripto Varlıklar ve Uzaktan Kimlik Tespiti
 
 Modern finansal teknolojiler, getirdikleri kolaylıkların yanı sıra özel riskler de barındırdığı için kendilerine özgü sıkılaştırılmış tedbirlere tabidir.
 
@@ -77,20 +75,15 @@ Türkiye'deki düzenlemelerle birlikte Kripto Varlık Hizmet Sağlayıcıları (
 
 Uzaktan kimlik tespiti, bir banka şubesine gitmeden, tamamen dijital ortamda (örneğin görüntülü görüşme ile) hesap açma imkanı sunar. Bu büyük bir kolaylık olsa da kimlik sahtekarlığı gibi ciddi riskler içerir. Bu risklere karşı alınan önlemler şunlardır:
 
-| Risk                                  | Alınan Sıkılaştırılmış Tedbir                                                                                                                  |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Kimlik sahtekarlığı riski             | Müşterinin gelir durumu, fon kaynağı, mesleği gibi standart kimlik bilgisine ek olarak ilave bilgilerin alınması.                              |
-| Yüksek riskli müşteri tespiti zorluğu | İş ilişkisine başlamak için sıradan bir çalışanın değil, üst seviye bir yöneticinin onayı alınması.                                            |
-| Şüpheli işlemlerin gözden kaçması     | Hesap üzerinden yapılabilecek işlemlere tutar ve sayı limiti konulması; müşterinin mali profiline uymayan işlemlerin yakından izlenmesi.       |
-| İlk işlemin güvensizliği              | İlk para transferinin, müşterinin kimliğinin daha önce doğrulanmış olduğu başka bir bankadaki kendi hesabından yapılmasının zorunlu tutulması. |
+<table><thead><tr><th width="218.41015625">Risk</th><th>Alınan Sıkılaştırılmış Tedbir</th></tr></thead><tbody><tr><td>Kimlik sahtekarlığı riski</td><td>Müşterinin gelir durumu, fon kaynağı, mesleği gibi standart kimlik bilgisine ek olarak ilave bilgilerin alınması.</td></tr><tr><td>Yüksek riskli müşteri tespiti zorluğu</td><td>İş ilişkisine başlamak için sıradan bir çalışanın değil, üst seviye bir yöneticinin onayı alınması.</td></tr><tr><td>Şüpheli işlemlerin gözden kaçması</td><td>Hesap üzerinden yapılabilecek işlemlere tutar ve sayı limiti konulması; müşterinin mali profiline uymayan işlemlerin yakından izlenmesi.</td></tr><tr><td>İlk işlemin güvensizliği</td><td>İlk para transferinin, müşterinin kimliğinin daha önce doğrulanmış olduğu başka bir bankadaki kendi hesabından yapılmasının zorunlu tutulması.</td></tr></tbody></table>
 
 Önemli Not: İşlemleri tamamen anonim hale getirmeyi amaçlayan "gizlilik tabanlı kripto varlıklar" (privacy coins) için alım-satım hizmeti veren platformların uzaktan kimlik tespiti yapması kesinlikle yasaklanmıştır.
 
 Tüm bu tedbirlerin temelinde, her duruma özel bir yaklaşım benimseyen "risk temelli yaklaşım" yatmaktadır.
 
-\--------------------------------------------------------------------------------
+***
 
-#### 5. Risk Temelli Yaklaşım: Her Duruma Özel Tedbir
+### 5. Risk Temelli Yaklaşım: Her Duruma Özel Tedbir
 
 Finansal kuruluşlar, her müşteriye veya her işleme aynı katılıkta kurallar uygulamaz. Bunun yerine, riski analiz ederek hareket ederler. Buna "risk temelli yaklaşım" denir. Düşük riskli görülen bir işlemde standart prosedürler yeterliyken, yüksek riskli bir durumda sıkılaştırılmış tedbirler devreye girer. Risk değerlendirmesi yapılırken üç ana kategori dikkate alınır:
 
@@ -110,9 +103,9 @@ Finansal kuruluşların dikkat ettiği ve yüksek risk sinyali olarak kabul etti
 
 Bu titiz yaklaşım, finansal sistemde inovasyon ve güvenlik arasında hassas bir denge kurmayı amaçlar.
 
-\--------------------------------------------------------------------------------
+***
 
-#### 6. Sonuç: İnovasyon ve Güvenlik Arasındaki Denge
+### 6.  İnovasyon ve Güvenlik Arasındaki Denge
 
 Kripto varlıklar, dijital bankacılık ve diğer finansal teknolojiler, şüphesiz ki büyük fırsatlar sunmaktadır. Düzenleyici otoriteler de bu yeniliklerin farkındadır. Ancak, bu yeni alanların suçlular tarafından finansal sisteme sızmak için bir araç olarak kullanılmasını engellemek de bir zorunluluktur.
 

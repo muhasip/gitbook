@@ -44,7 +44,7 @@ Bu kılavuzun amacı, KVHS uyum görevlilerine ve yöneticilerine, yasal yüküm
 
 Bu temel yükümlülükleri etkin bir şekilde yönetmenin ve yasal riskleri en aza indirmenin anahtarı, kaynakları en doğru alana yönlendiren risk temelli bir yaklaşım benimsemektir.
 
-\--------------------------------------------------------------------------------
+***
 
 ### 2.0 Risk Temelli Yaklaşım: Pratik Uygulama ve Risk Değerlendirmesi
 
@@ -67,7 +67,7 @@ Uyum görevlileri, müşteri kabul sürecinde ve iş ilişkisi boyunca aşağıd
 
 Risk değerlendirmesi sonucunda "yüksek riskli" olarak tanımlanan durumlar, standart KYC prosedürlerinin ötesinde, özel olarak tasarlanmış ve titizlikle uygulanması gereken sıkılaştırılmış tedbirler gerektirir.
 
-\--------------------------------------------------------------------------------
+***
 
 ### 3.0 Sıkılaştırılmış Tedbirlerin Uygulanacağı Durumlar ve Prosedürler
 
@@ -94,17 +94,11 @@ Aşağıdaki durumlar, bir KVHS için otomatik olarak sıkılaştırılmış ted
 
 Yüksek riskli bir müşteri veya işlem tespit edildiğinde, aşağıdaki sıkılaştırılmış tedbirlerden biri, birkaçı veya tamamı riskle orantılı olarak uygulanmalıdır:
 
-| Uygulanacak Sıkılaştırılmış Tedbir      | Pratik Uygulama Adımları                                                                                                                                                                                                                                              |
-| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| İlave Bilgi Edinme                      | Müşterinin fon ve malvarlığı kaynağını (maaş, ticari kazanç, miras vb.) detaylı olarak sorgulayın ve mümkünse belge (maaş bordrosu, vergi levhası vb.) talep edin. Müşteri ve gerçek faydalanıcı kimlik bilgilerinin güncellenme sıklığını artırın (örn: 6 ayda bir). |
-| İş İlişkisinin Mahiyetini Derinleştirme | Müşterinin gerçekleştirmeyi planladığı işlemlerin (örn: yurt dışı transferleri, yüksek hacimli alım-satımlar) amacını ve mantığını yazılı veya sözlü olarak teyit edin.                                                                                               |
-| Üst Seviye Görevli Onayı                | Yüksek riskli olarak sınıflandırılan yeni bir müşteri ile iş ilişkisi kurulması veya mevcut bir müşterinin işleminin gerçekleştirilmesi için Uyum Görevlisi veya daha üst bir yöneticiden yazılı onay alınmasını zorunlu hale getirin.                                |
-| Sıkı Gözetim ve Artırılmış Kontrol      | Müşterinin işlem hacmini ve sıklığını standart müşterilere göre daha yakından izleyin. Ani ve profiliyle uyumsuz işlem artışları için otomatik uyarılar oluşturan sistemler kurun.                                                                                    |
-| İlk Finansal Hareketin Kontrolü         | Sürekli iş ilişkisi tesisinde, ilk para yatırma işleminin, müşterinin kimliğinin doğrulanmış olduğu başka bir yerel banka veya finansal kuruluştan yapılmasını zorunlu tutun.                                                                                         |
+<table><thead><tr><th width="236.51953125">Sıkılaştırılmış Tedbir</th><th>Pratik Uygulama Adımları</th></tr></thead><tbody><tr><td>İlave Bilgi Edinme</td><td>Müşterinin fon ve malvarlığı kaynağını (maaş, ticari kazanç, miras vb.) detaylı olarak sorgulayın ve mümkünse belge (maaş bordrosu, vergi levhası vb.) talep edin. Müşteri ve gerçek faydalanıcı kimlik bilgilerinin güncellenme sıklığını artırın (örn: 6 ayda bir).</td></tr><tr><td>İş İlişkisinin Mahiyetini Derinleştirme</td><td>Müşterinin gerçekleştirmeyi planladığı işlemlerin (örn: yurt dışı transferleri, yüksek hacimli alım-satımlar) amacını ve mantığını yazılı veya sözlü olarak teyit edin.</td></tr><tr><td>Üst Seviye Görevli Onayı</td><td>Yüksek riskli olarak sınıflandırılan yeni bir müşteri ile iş ilişkisi kurulması veya mevcut bir müşterinin işleminin gerçekleştirilmesi için Uyum Görevlisi veya daha üst bir yöneticiden yazılı onay alınmasını zorunlu hale getirin.</td></tr><tr><td>Sıkı Gözetim ve Artırılmış Kontrol</td><td>Müşterinin işlem hacmini ve sıklığını standart müşterilere göre daha yakından izleyin. Ani ve profiliyle uyumsuz işlem artışları için otomatik uyarılar oluşturan sistemler kurun.</td></tr><tr><td>İlk Finansal Hareketin Kontrolü</td><td>Sürekli iş ilişkisi tesisinde, ilk para yatırma işleminin, müşterinin kimliğinin doğrulanmış olduğu başka bir yerel banka veya finansal kuruluştan yapılmasını zorunlu tutun.</td></tr></tbody></table>
 
 Bu genel tedbirlerin yanı sıra, kripto varlık hizmetlerinin doğası gereği ortaya çıkan teknolojik ve operasyonel riskler için özel olarak tasarlanmış prosedürlerin uygulanması, uyum programının etkinliği için hayati önem taşımaktadır.
 
-\--------------------------------------------------------------------------------
+***
 
 ### 4.0 KVHS'lere Özgü Kritik Uyum Prosedürleri
 
@@ -125,13 +119,13 @@ Uzaktan kimlik tespiti ile müşteri kabulü yapılırken aşağıdaki adımlar 
 Kripto varlık transferlerinde gönderici ve alıcı kurumların belirli bilgileri paylaşması zorunludur.
 
 * Giden Transferler (Gönderici KVHS Sorumlulukları):
-  * \[ ] Gönderen adı-soyadı/unvanı
-  * \[ ] Gönderen cüzdan adresi
-  * \[ ] Göndereni belirlemeye yarayan ek bilgilerden en az biri (Müşteri no, TC Kimlik no, Pasaport no vb.)
+  1. Gönderen adı-soyadı/unvanı
+  2. Gönderen cüzdan adresi
+  3. Göndereni belirlemeye yarayan ek bilgilerden en az biri (Müşteri no, TC Kimlik no, Pasaport no vb.)
 * Gelen Transferler (Alıcı KVHS Sorumlulukları):
-  * \[ ] Gelen transferdeki gönderici bilgileri eksik mi?
-  * \[ ] Evet ise: Eksik bilgiyi talep etme prosedürünü başlatın.
-  * \[ ] Bilgi temin edilemiyorsa veya karşı taraf işbirliği yapmıyorsa (özellikle yurt dışı sağlayıcı ise): Riski değerlendirerek transferi askıya alma/reddetme veya iş ilişkisini sonlandırma seçeneklerini üst yönetime sunun.
+  * Gelen transferdeki gönderici bilgileri eksik mi?
+  * Evet ise: Eksik bilgiyi talep etme prosedürünü başlatın.
+  * Bilgi temin edilemiyorsa veya karşı taraf işbirliği yapmıyorsa (özellikle yurt dışı sağlayıcı ise): Riski değerlendirerek transferi askıya alma/reddetme veya iş ilişkisini sonlandırma seçeneklerini üst yönetime sunun.
 * İşlem Açıklaması: Tüm kripto transferlerinde müşteriden en az 20 karakterlik bir işlem açıklaması alınması zorunludur.
 
 #### Zorunlu Yüksek Riskli Transfer Kontrolleri
@@ -144,7 +138,7 @@ Belirli yüksek riskli transfer senaryolarında aşağıdaki kısıtlamalar otom
 
 Bu spesifik operasyonel kontroller, ancak müşterinin tüm yaşam döngüsü boyunca devam eden genel bir sürekli izleme ve kayıt tutma çerçevesi içinde tam anlamıyla etkili olabilir.
 
-\--------------------------------------------------------------------------------
+***
 
 ### 5.0 Sürekli İzleme, Müşteri Bilgilerini Güncelleme ve Kayıtların Muhafazası
 
@@ -161,18 +155,18 @@ Müşteri hakkında tutulan bilgi ve belgelerin güncel olması yasal bir zorunl
 
 Bu kılavuzda ele alınan tüm teorik ve pratik adımlar, uyum görevlisinin sorumluluklarını özetleyen ve günlük faaliyetlerinde yol gösteren pratik bir kontrol listesiyle pekiştirilebilir.
 
-\--------------------------------------------------------------------------------
+***
 
-### 6.0 Sonuç: Uyum Görevlisi için Eylem Kontrol Listesi
+### 6.0  Uyum Görevlisi için Eylem Kontrol Listesi
 
 Kripto varlık sektörünün sunduğu büyük potansiyel, ancak sağlam, proaktif ve tavizsiz bir uyum kültürü ile sürdürülebilir hale gelebilir. Bu kılavuz, KVHS'lerin karmaşık yasal yükümlülüklerini, günlük operasyonlara entegre edilebilecek net ve pratik adımlara dönüştürmeyi amaçlamıştır. Uyum, bir engel değil, güvenli ve sürdürülebilir büyümenin temel taşıdır.
 
 Aşağıdaki kontrol listesi, bir uyum görevlisinin temel sorumluluklarını özetlemektedir:
 
-* \[ ] Her yeni müşteri için yazılı bir risk değerlendirmesi yapılıyor ve risk kategorisi (düşük, orta, yüksek) atanıyor mu?
-* \[ ] Yüksek riskli olarak tanımlanan tüm müşteriler ve işlemler için üst düzey yönetici onayı alınıyor mu?
-* \[ ] Uzaktan kimlik tespiti sürecinde, gizlilik tabanlı kripto varlıklarla işlem yapanlara hizmet verilmediği teyit ediliyor mu?
-* \[ ] Tüm kripto varlık transferleri "Travel Rule" gerekliliklerine uygun olarak gönderici/alıcı bilgisi içeriyor mu?
-* \[ ] Kayıtlı olmayan cüzdanlara yapılan transferlerde 48/72 saatlik gecikme kuralı otomatik olarak uygulanıyor mu?
-* \[ ] Müşteri işlemlerinin, beyan ettikleri mali profil ve fon kaynakları ile uyumlu olup olmadığı düzenli olarak izleniyor mu?
-* \[ ] Yaptırım listeleri taraması periyodik olarak tüm müşteri tabanına uygulanıyor mu?
+* Her yeni müşteri için yazılı bir risk değerlendirmesi yapılıyor ve risk kategorisi (düşük, orta, yüksek) atanıyor mu?
+* Yüksek riskli olarak tanımlanan tüm müşteriler ve işlemler için üst düzey yönetici onayı alınıyor mu?
+* Uzaktan kimlik tespiti sürecinde, gizlilik tabanlı kripto varlıklarla işlem yapanlara hizmet verilmediği teyit ediliyor mu?
+* Tüm kripto varlık transferleri "Travel Rule" gerekliliklerine uygun olarak gönderici/alıcı bilgisi içeriyor mu?
+* Kayıtlı olmayan cüzdanlara yapılan transferlerde 48/72 saatlik gecikme kuralı otomatik olarak uygulanıyor mu?
+* Müşteri işlemlerinin, beyan ettikleri mali profil ve fon kaynakları ile uyumlu olup olmadığı düzenli olarak izleniyor mu?
+* Yaptırım listeleri taraması periyodik olarak tüm müşteri tabanına uygulanıyor mu?

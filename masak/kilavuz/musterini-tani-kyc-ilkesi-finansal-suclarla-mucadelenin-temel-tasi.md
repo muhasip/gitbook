@@ -23,7 +23,7 @@ layout:
 
 # Müşterini Tanı (KYC) İlkesi: Finansal Suçlarla Mücadelenin Temel Taşı
 
-#### Giriş: Finansal Sistemin Korunması
+### Finansal Sistemin Korunması
 
 Günümüz finansal dünyası, suçlular için cazip bir hedef olabilir. Özellikle "suç gelirlerinin aklanması" olarak bilinen faaliyet, en basit tanımıyla yasa dışı yollardan elde edilen paranın, kaynağını gizleyerek yasal bir kazanç gibi gösterilme çabasıdır. Bu süreçte bankalar, ödeme kuruluşları veya kripto varlık platformları gibi finansal kuruluşlar, farkında olmadan birer araç olarak kullanılabilir.
 
@@ -31,7 +31,7 @@ Bu durumun engellenmesi, hem finansal sistemin kendisine hem de topluma olan gü
 
 Öğrenme Köprüsü: _Bu temel anlayışla, şimdi finansal kuruluşların bu savunma hattını nasıl inşa ettiğini ve Müşterini Tanı ilkesinin tam olarak ne anlama geldiğini inceleyelim._
 
-\--------------------------------------------------------------------------------
+***
 
 ### 1. Müşterini Tanı (KYC) Yükümlülüğü Nedir?
 
@@ -42,7 +42,7 @@ Müşterini Tanı (KYC) ilkesi, bir temenni veya tavsiye değil, Türkiye'deki 5
 
 Öğrenme Köprüsü: _Peki, bu temel ilke pratikte hangi adımlardan oluşur ve finansal kuruluşlar bir müşteriyi "tanımak" için tam olarak ne yapar?_
 
-\--------------------------------------------------------------------------------
+***
 
 ### 2. KYC'nin Üç Temel Adımı
 
@@ -77,7 +77,7 @@ KYC, bir kereye mahsus yapılan bir kontrol değildir; müşteri ile ilişki dev
 
 Öğrenme Köprüsü: _KYC, detaylı bir süreçtir ve bu süreci ilk hesabını açan bir öğrenciden uluslararası karmaşık bir şirkete kadar her müşteriye aynı yoğunlukta uygulamak verimsiz olurdu. İşte bu yüzden tüm sistem, daha akıllı bir prensip üzerine kurulmuştur: Risk Temelli Yaklaşım._
 
-\--------------------------------------------------------------------------------
+***
 
 ### 3. Risk Temelli Yaklaşım: Herkese Aynı Gözle Bakılmaz
 
@@ -86,18 +86,13 @@ KYC süreci katı ve tek tip bir kurallar bütünü değildir. Finansal kuruluş
 1. Ana Fikir: Bu yaklaşımın anlamı şudur: "Düşük riskli" görülen müşteriler veya işlemler için süreç daha basit olabilirken, "yüksek riskli" olarak değerlendirilen durumlarda çok daha detaylı ve sıkı tedbirler uygulanır.
 2. Yüksek Risk Göstergeleri: Bir müşterinin veya işlemin neden daha fazla dikkat gerektirebileceğine dair bazı somut örnekler aşağıdaki tabloda özetlenmiştir.
 
-| Riskli Durum Örneği                                | Neden Dikkat Çeker?                                                                |
-| -------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Bilgi ve belge vermekten kaçınan müşteri           | Şeffaflıktan kaçınması, gizlediği bir şey olabileceğine dair şüphe uyandırır.      |
-| Müşterinin geliri ile orantılı olmayan işlemler    | Fonların kaynağının beyan edilenden farklı olabileceğini düşündürür.               |
-| Görünürde ekonomik amacı olmayan karmaşık işlemler | İşlemin asıl amacının gizlenmeye çalışıldığına işaret edebilir.                    |
-| Yüksek tutarlı ve sık nakit işlemleri              | Nakit, takibi zor olduğu için aklama faaliyetlerinde sıkça kullanılan bir araçtır. |
+<table><thead><tr><th width="236.19921875">Riskli Durum Örneği</th><th>Neden Dikkat Çeker?</th></tr></thead><tbody><tr><td>Bilgi ve belge vermekten kaçınan müşteri</td><td>Şeffaflıktan kaçınması, gizlediği bir şey olabileceğine dair şüphe uyandırır.</td></tr><tr><td>Müşterinin geliri ile orantılı olmayan işlemler</td><td>Fonların kaynağının beyan edilenden farklı olabileceğini düşündürür.</td></tr><tr><td>Görünürde ekonomik amacı olmayan karmaşık işlemler</td><td>İşlemin asıl amacının gizlenmeye çalışıldığına işaret edebilir.</td></tr><tr><td>Yüksek tutarlı ve sık nakit işlemleri</td><td>Nakit, takibi zor olduğu için aklama faaliyetlerinde sıkça kullanılan bir araçtır.</td></tr></tbody></table>
 
 Öğrenme Köprüsü: _Risk temelli bu yaklaşım, finansal sistemin kaynaklarını en doğru şekilde kullanarak etkili bir koruma sağlamasına olanak tanır._
 
-\--------------------------------------------------------------------------------
+***
 
-### 4. Sonuç: KYC Sadece Bir Form Değil, Bir Güvencedir
+### 4. KYC Sadece Bir Form Değil, Bir Güvencedir
 
 Özetle, Müşterini Tanı (KYC) ilkesi, finansal kuruluşların müşterilerinden sadece bir form doldurmalarını istediği bürokratik bir işlem değildir. Aksine;
 
