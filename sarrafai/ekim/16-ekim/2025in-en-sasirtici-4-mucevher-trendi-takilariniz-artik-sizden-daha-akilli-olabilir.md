@@ -1,5 +1,7 @@
 ---
 description: trend, takı, Mücevher
+cover: >-
+  https://images.unsplash.com/photo-1729751291840-3da5d4b56e6c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxnaWZ0JTIwb2YlMjBqZXdlbHJ5fGVufDB8fHx8MTc2MDc0MjIzMHww&ixlib=rb-4.1.0&q=85
 coverY: 0
 layout:
   width: default
@@ -23,6 +25,8 @@ layout:
 # 2025'in En Şaşırtıcı 4 Mücevher Trendi: Takılarınız Artık Sizden Daha Akıllı Olabilir
 
 ## 2025'in En Şaşırtıcı 4 Mücevher Trendi: Takılarınız Artık Sizden Daha Akıllı Olabilir
+
+<figure><img src="https://images.unsplash.com/photo-1760128761580-1fca5a1215f7?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnaWZ0JTIwb2YlMjBqZXdlbHJ5fGVufDB8fHx8MTc2MDc0MjIzMHww&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption></figcaption></figure>
 
 #### Mücevher Kutunuzdaki Devrim
 
@@ -53,6 +57,10 @@ Geleceğin lüksü, yepyeni olanı satın almakta değil, var olanın hikayesini
 Tüketicinin en büyük endişelerinden biri olan kaynak belirsizliği, teknoloji sayesinde ortadan kalkıyor. Blockchain gibi dijital teknolojiler, değerli bir taşın veya metalin madenden çıkarıldığı andan size ulaşana kadarki tüm yolculuğunu şeffaf bir şekilde izlenebilir hale getiriyor. Bu dijital kimlik, ürünün "conflict-free" (çatışmasız) ve etik kaynaklardan elde edildiğine dair somut bir kanıt sunuyor. Bu durum, markalara olan güveni artırırken, tüketiciye daha önce hiç sahip olmadığı bir denetim gücü vererek, markaları mutlak şeffaflığa zorluyor.
 
 Teknoloji, mücevherin sadece ışıltısını değil, aynı zamanda geçmişini de şeffaf hale getirerek en değerli unsuru, yani güveni yeniden inşa ediyor.
+
+####
+
+<figure><img src="https://images.unsplash.com/photo-1674822968853-e8cf0192a63b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxnaWZ0JTIwb2YlMjBqZXdlbHJ5fGVufDB8fHx8MTc2MDc0MjIzMHww&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption></figcaption></figure>
 
 #### Geleceğin Mücevherini Ne Belirleyecek?
 
