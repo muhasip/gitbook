@@ -16,4 +16,4 @@
 * [Vitrinlerin Arkasındaki Sır: Kuyumcular Müşteri Sadakatini Nasıl Yaratıyor?](vitrinlerin-arkasindaki-sir-kuyumcular-musteri-sadakatini-nasil-yaratiyor.md)
 * [Altın Yatırımı Hakkında Ezber Bozan 4 Kritik Gerçek](altin-yatirimi-hakkinda-ezber-bozan-4-kritik-gercek.md)
 * [Kuyum Dünyasında Sürdürülebilirlik: Geri Dönüştürülmüş Altın ve Etik Mücevher Tasarımı](kuyum-dunyasinda-surdurulebilirlik-geri-donusturulmus-altin-ve-etik-mucevher-tasarimi.md)
-* [Page 5](page-5.md)
+* [Altının Fiyatını Gerçekten Ne Belirler? Ezber Bozan 5 Faktör](altinin-fiyatini-gercekten-ne-belirler-ezber-bozan-5-faktor.md)
