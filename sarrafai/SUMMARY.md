@@ -13,7 +13,7 @@
 * [Sürdürülebilir Mücevherler Hakkında Sizi Şaşırtacak 5 Gerçek](surdurulebilir-mucevherler-hakkinda-sizi-sasirtacak-5-gercek.md)
 * [Altın Almadan Önce Bilmeniz Gereken 5 Şaşırtıcı Gerçek](altin-almadan-once-bilmeniz-gereken-5-sasirtici-gercek.md)
 * [17 Ekim](17-ekim.md)
-* [Page 4](page-4.md)
+* [Vitrinlerin Arkasındaki Sır: Kuyumcular Müşteri Sadakatini Nasıl Yaratıyor?](vitrinlerin-arkasindaki-sir-kuyumcular-musteri-sadakatini-nasil-yaratiyor.md)
 * [Altın Yatırımı Hakkında Ezber Bozan 4 Kritik Gerçek](altin-yatirimi-hakkinda-ezber-bozan-4-kritik-gercek.md)
 * [Kuyum Dünyasında Sürdürülebilirlik: Geri Dönüştürülmüş Altın ve Etik Mücevher Tasarımı](kuyum-dunyasinda-surdurulebilirlik-geri-donusturulmus-altin-ve-etik-mucevher-tasarimi.md)
 * [Page 5](page-5.md)
