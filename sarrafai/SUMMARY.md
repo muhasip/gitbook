@@ -11,4 +11,4 @@
 
 ***
 
-* [Page 1](page-1.md)
+* [Sürdürülebilir Mücevherler Hakkında Sizi Şaşırtacak 5 Gerçek](surdurulebilir-mucevherler-hakkinda-sizi-sasirtacak-5-gercek.md)
