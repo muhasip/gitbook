@@ -1,5 +1,23 @@
 ---
 description: trend, takı, Mücevher
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 2025'in En Şaşırtıcı 4 Mücevher Trendi: Takılarınız Artık Sizden Daha Akıllı Olabilir

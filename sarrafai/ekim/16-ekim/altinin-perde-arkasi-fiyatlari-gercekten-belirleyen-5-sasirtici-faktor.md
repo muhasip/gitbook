@@ -1,5 +1,6 @@
 ---
 description: altın fiyat
+coverY: 0
 ---
 
 # Altının Perde Arkası: Fiyatları Gerçekten Belirleyen 5 Şaşırtıcı Faktör

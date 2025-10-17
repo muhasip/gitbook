@@ -1,5 +1,6 @@
 ---
 description: takı, stil, trend
+coverY: 0
 ---
 
 # Anlam Yüklü Takıların Sırrı: Kişisel Stilinizi Şekillendiren Trendler

@@ -1,5 +1,6 @@
 ---
 description: altın, fiyat, kuyum
+coverY: 0
 ---
 
 # Altın Fiyatının Perde Arkası: Kimsenin Size Söylemediği 5 Gerçek
