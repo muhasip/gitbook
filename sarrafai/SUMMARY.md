@@ -15,5 +15,5 @@
 * [17 Ekim](17-ekim.md)
 * [Page 4](page-4.md)
 * [Page 3](page-3.md)
-* [Page 2](page-2.md)
+* [Kuyum Dünyasında Sürdürülebilirlik: Geri Dönüştürülmüş Altın ve Etik Mücevher Tasarımı](kuyum-dunyasinda-surdurulebilirlik-geri-donusturulmus-altin-ve-etik-mucevher-tasarimi.md)
 * [Page 5](page-5.md)
