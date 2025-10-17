@@ -18,5 +18,4 @@
   * [Altın Yatırımı Hakkında Ezber Bozan 4 Kritik Gerçek](altin-yatirimi-hakkinda-ezber-bozan-4-kritik-gercek.md)
   * [Kuyum Dünyasında Sürdürülebilirlik: Geri Dönüştürülmüş Altın ve Etik Mücevher Tasarımı](17-ekim/kuyum-dunyasinda-surdurulebilirlik-geri-donusturulmus-altin-ve-etik-mucevher-tasarimi.md)
   * [Altının Fiyatını Gerçekten Ne Belirler? Ezber Bozan 5 Faktör](17-ekim/altinin-fiyatini-gercekten-ne-belirler-ezber-bozan-5-faktor.md)
-* [Untitled](untitled/README.md)
-  * [Altının Gerçek Değeri Gramında Değil, Ustalığında Gizli](untitled/altinin-gercek-degeri-graminda-degil-ustaliginda-gizli.md)
+* [Altının Gerçek Değeri Gramında Değil, Ustalığında Gizli](altinin-gercek-degeri-graminda-degil-ustaliginda-gizli.md)
