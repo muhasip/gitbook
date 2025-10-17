@@ -14,7 +14,7 @@
   * [Sürdürülebilir Mücevherler Hakkında Sizi Şaşırtacak 5 Gerçek](surdurulebilir-mucevherler-hakkinda-sizi-sasirtacak-5-gercek.md)
   * [Altın Almadan Önce Bilmeniz Gereken 5 Şaşırtıcı Gerçek](altin-almadan-once-bilmeniz-gereken-5-sasirtici-gercek.md)
   * [ESKİ ALTINLARA YENİ HAYAT](17-ekim/eski-altinlara-yeni-hayat.md)
-  * [Vitrinlerin Arkasındaki Sır: Kuyumcular Müşteri Sadakatini Nasıl Yaratıyor?](vitrinlerin-arkasindaki-sir-kuyumcular-musteri-sadakatini-nasil-yaratiyor.md)
+  * [Kuyumcunun Unutulmaz Deneyim Rehberi](17-ekim/kuyumcunun-unutulmaz-deneyim-rehberi.md)
   * [Altın Yatırımı Hakkında Ezber Bozan 4 Kritik Gerçek](altin-yatirimi-hakkinda-ezber-bozan-4-kritik-gercek.md)
   * [PARILTININ ARDINDAKİ HİKAYE](17-ekim/pariltinin-ardindaki-hikaye.md)
   * [Altının Fiyatını Ne Belirler?](17-ekim/altinin-fiyatini-ne-belirler.md)
