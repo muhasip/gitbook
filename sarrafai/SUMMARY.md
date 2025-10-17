@@ -7,8 +7,13 @@
   * [Altın Fiyatının Perde Arkası: Kimsenin Size Söylemediği 5 Gerçek](ekim/16-ekim/altin-fiyatinin-perde-arkasi-kimsenin-size-soylemedigi-5-gercek.md)
   * [Anlam Yüklü Takıların Sırrı: Kişisel Stilinizi Şekillendiren Trendler](ekim/16-ekim/anlam-yuklu-takilarin-sirri-kisisel-stilinizi-sekillendiren-trendler.md)
   * [Altının Perde Arkası: Fiyatları Gerçekten Belirleyen 5 Şaşırtıcı Faktör](ekim/16-ekim/altinin-perde-arkasi-fiyatlari-gercekten-belirleyen-5-sasirtici-faktor.md)
-* [17 EKİM](ekim/17-ekim.md)
 
 ***
 
 * [Sürdürülebilir Mücevherler Hakkında Sizi Şaşırtacak 5 Gerçek](surdurulebilir-mucevherler-hakkinda-sizi-sasirtacak-5-gercek.md)
+* [Altın Almadan Önce Bilmeniz Gereken 5 Şaşırtıcı Gerçek](altin-almadan-once-bilmeniz-gereken-5-sasirtici-gercek.md)
+* [17 Ekim](17-ekim.md)
+* [Page 4](page-4.md)
+* [Page 3](page-3.md)
+* [Page 2](page-2.md)
+* [Page 5](page-5.md)
