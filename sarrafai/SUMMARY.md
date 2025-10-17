@@ -16,6 +16,6 @@
   * [ESKİ ALTINLARA YENİ HAYAT](17-ekim/eski-altinlara-yeni-hayat.md)
   * [Vitrinlerin Arkasındaki Sır: Kuyumcular Müşteri Sadakatini Nasıl Yaratıyor?](vitrinlerin-arkasindaki-sir-kuyumcular-musteri-sadakatini-nasil-yaratiyor.md)
   * [Altın Yatırımı Hakkında Ezber Bozan 4 Kritik Gerçek](altin-yatirimi-hakkinda-ezber-bozan-4-kritik-gercek.md)
-  * [Kuyum Dünyasında Sürdürülebilirlik: Geri Dönüştürülmüş Altın ve Etik Mücevher Tasarımı](17-ekim/kuyum-dunyasinda-surdurulebilirlik-geri-donusturulmus-altin-ve-etik-mucevher-tasarimi.md)
+  * [PARILTININ ARDINDAKİ HİKAYE](17-ekim/pariltinin-ardindaki-hikaye.md)
   * [Altının Fiyatını Gerçekten Ne Belirler? Ezber Bozan 5 Faktör](17-ekim/altinin-fiyatini-gercekten-ne-belirler-ezber-bozan-5-faktor.md)
   * [Altının Gerçek Değeri Gramında Değil, Ustalığında Gizli](17-ekim/altinin-gercek-degeri-graminda-degil-ustaliginda-gizli.md)
