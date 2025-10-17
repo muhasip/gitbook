@@ -41,6 +41,6 @@ Bu profesyonel bir test olmasa da, bu basit görsel ipucu bir tüketici olarak s
 
 \--------------------------------------------------------------------------------
 
-Sonuç: Değer Algınızı Yeniden Şekillendirin Sonuç olarak, altında "en iyi" diye tek bir doğrunun olmadığı açıktır; en değerli seçim, en yüksek ayar değil, sizin amacınıza en uygun olandır. En iyi seçim; amaca (yatırım mı, günlük kullanım mı?), aranan dayanıklılığa ve ayrılan bütçeye göre kişiden kişiye değişir. Artık bir kuyumcu vitrinine baktığınızda, sadece parlaklığı değil, ardındaki bilimi de göreceksiniz.
+Değer Algınızı Yeniden Şekillendirin Sonuç olarak, altında "en iyi" diye tek bir doğrunun olmadığı açıktır; en değerli seçim, en yüksek ayar değil, sizin amacınıza en uygun olandır. En iyi seçim; amaca (yatırım mı, günlük kullanım mı?), aranan dayanıklılığa ve ayrılan bütçeye göre kişiden kişiye değişir. Artık bir kuyumcu vitrinine baktığınızda, sadece parlaklığı değil, ardındaki bilimi de göreceksiniz.
 
 Peki, bu bilgiler ışığında sizin için en "değerli" altın hangisi: Kasada saklanan en saf olan mı, yoksa her gün keyifle taktığınız en dayanıklı olan mı?
