@@ -7,4 +7,4 @@
   * [Altın Fiyatının Perde Arkası: Kimsenin Size Söylemediği 5 Gerçek](ekim/16-ekim/altin-fiyatinin-perde-arkasi-kimsenin-size-soylemedigi-5-gercek.md)
   * [Anlam Yüklü Takıların Sırrı: Kişisel Stilinizi Şekillendiren Trendler](ekim/16-ekim/anlam-yuklu-takilarin-sirri-kisisel-stilinizi-sekillendiren-trendler.md)
   * [Altının Perde Arkası: Fiyatları Gerçekten Belirleyen 5 Şaşırtıcı Faktör](ekim/16-ekim/altinin-perde-arkasi-fiyatlari-gercekten-belirleyen-5-sasirtici-faktor.md)
-* [17](ekim/17.md)
+* [17 EKİM](ekim/17-ekim.md)
