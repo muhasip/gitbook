@@ -2,7 +2,7 @@
 description: trend, takı, Mücevher
 cover: >-
   https://images.unsplash.com/photo-1729751291840-3da5d4b56e6c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxnaWZ0JTIwb2YlMjBqZXdlbHJ5fGVufDB8fHx8MTc2MDc0MjIzMHww&ixlib=rb-4.1.0&q=85
-coverY: 0
+coverY: 374.92723880597015
 layout:
   width: default
   cover:
@@ -22,7 +22,7 @@ layout:
     visible: true
 ---
 
-# 2025'in En Şaşırtıcı 4 Mücevher Trendi: Takılarınız Artık Sizden Daha Akıllı Olabilir
+# 💎 2025'in En Şaşırtıcı 4 Mücevher Trendi: Takılarınız Artık Sizden Daha Akıllı Olabilir
 
 ## 2025'in En Şaşırtıcı 4 Mücevher Trendi: Takılarınız Artık Sizden Daha Akıllı Olabilir
 
