@@ -14,7 +14,7 @@ description: altın güncel gram
 
 Daha Düşük Ayar, Daha Fazla Dayanıklılık ve Tasarım Özgürlüğü Demektir 14 ayar bir takı, %58,3 oranında saf altın içerir; geri kalanı ise onu daha dayanıklı hale getiren diğer metallerden oluşur. Bu daha düşük altın oranının sizin için en büyük avantajı, sertlik ve dayanıklılıktır. 14 ayar altın, çizilmelere ve bükülmelere karşı 22 veya 24 ayara göre çok daha dirençlidir. Bu dayanıklılığın pratik bir anlamı vardır: Özellikle her gün takılan nişan yüzükleri gibi takılar için 14 ayar ideal bir seçenektir. Ayrıca, daha sert yapısı, malzemenin detaylı işçiliği daha kolay tutmasını sağlar. Bu sayede kuyumcular karmaşık ve incelikli tasarımları hayata geçirebilir, bu da size daha fazla model çeşitliliği sunar.
 
-\--------------------------------------------------------------------------------
+
 
 Takınızdaki Sayılar Gizli Bir Kod Değil, Altının Kimliğidir Mücevherlerin içine dikkatlice işlenmiş "585" veya "916" gibi damgaları fark etmişsinizdir. Bunlar gizli bir kod değil, altının saflık oranını belirten evrensel bir kimliktir. "Milyem" adı verilen bu sistem, altının saflığını binde birlik oranlarla ifade eder. Bu sayıları okumak oldukça basittir:
 
@@ -23,7 +23,7 @@ Takınızdaki Sayılar Gizli Bir Kod Değil, Altının Kimliğidir Mücevherleri
 
 Bu bilgiyi bilmek, bir alıcı olarak ne satın aldığınızı tam olarak anlamanızı sağlar. Bu evrensel standart sayesinde, dünyanın neresinde olursanız olun bilinçli bir alışveriş yapabilirsiniz.
 
-\--------------------------------------------------------------------------------
+
 
 "En İyi Yatırım" Her Zaman En Yüksek Ayar Anlamına Gelmez Yatırım söz konusu olduğunda, 24 ayar altının en saf haliyle en uygun seçenek olduğu doğrudur. Ancak amaç "takı" almak olduğunda durum tamamen değişir. 14 ayar altın, daha düşük saf altın oranı sayesinde çok daha uygun fiyatlıdır. 22 ayar altın ise saflık ve dayanıklılık arasında ideal bir denge sunduğu için takı üretiminde oldukça popülerdir ve yüksek altın oranı sayesinde, özellikle uzun vadede değerini 14 ayara göre daha iyi korur. Buradaki kritik ayrım şudur: Eğer amacınız saf altının değerini korumaksa 24 ayar en doğrusudur. Fakat amacınız hem estetik görünen hem de uzun yıllar boyunca keyifle takabileceğiniz bir mücevhere sahip olmaksa, 14 veya 22 ayar çok daha "akıllıca" bir yatırım olabilir. "En iyi" seçim, tamamen kullanım amacınıza ve bütçenize bağlıdır.
 
