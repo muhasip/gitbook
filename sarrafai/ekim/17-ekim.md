@@ -1,3 +1,7 @@
+---
+description: altın trend bilgi
+---
+
 # 17 EKİM
 
 ## Altın Almadan Önce Bilmeniz Gereken 4 Şaşırtıcı Gerçek
