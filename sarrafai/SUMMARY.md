@@ -15,3 +15,4 @@
       * [Altının Perde Arkası: Fiyatları Gerçekten Belirleyen 5 Şaşırtıcı Faktör](blog/2025/ekim/altinin-perde-arkasi-fiyatlari-gercekten-belirleyen-5-sasirtici-faktor.md)
       * [Anlam Yüklü Takıların Sırrı: Kişisel Stilinizi Şekillendiren Trendler](blog/2025/ekim/anlam-yuklu-takilarin-sirri-kisisel-stilinizi-sekillendiren-trendler.md)
       * [Altın Fiyatının Perde Arkası: Kimsenin Size Söylemediği 5 Gerçek](blog/2025/ekim/altin-fiyatinin-perde-arkasi-kimsenin-size-soylemedigi-5-gercek.md)
+* [Mücevher Sertifikaları Rehberi](mucevher-sertifikalari-rehberi.md)
