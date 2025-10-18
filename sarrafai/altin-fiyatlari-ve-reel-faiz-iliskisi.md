@@ -6,11 +6,11 @@ description: fiyat düşüş artış ,ayar altın ,
 
 ## Altın Fiyatlarını Aslında Ne Belirliyor? Yatırımcılar İçin Ezber Bozan 3 Gerçek
 
-#### Giriş: Altının Parıltısının Ardındaki Gizli Güç
+#### Altının Parıltısının Ardındaki Gizli Güç
 
 Altın fiyatlarının seyrini anlamaya çalışırken aklımıza ilk olarak küresel krizler, jeopolitik gerilimler veya basit arz-talep dengesi gelir. Ancak bu faktörler resmin sadece bir parçasıdır. Altının değerini asıl yönlendiren, çoğu yatırımcının gözden kaçırdığı çok daha temel ve güçlü bir ekonomik gösterge bulunur: reel faiz. Gelin, altının parıltısını bir kenara bırakıp motorun kaputunu açalım ve yatırım kararlarınızı kökten değiştirecek üç temel gerçeği masaya yatıralım.
 
-\--------------------------------------------------------------------------------
+
 
 #### &#x20;Unutun Gitsin: Altının Asıl Rakibi 'Nominal' Değil, 'Reel' Faizdir
 
