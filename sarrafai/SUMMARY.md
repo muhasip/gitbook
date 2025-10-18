@@ -20,4 +20,4 @@
       * [DEĞERLİ TAŞ SEÇİM REHBERİ](blog/2025/ekim/degerli-tas-secim-rehberi.md)
       * [Altının Sessiz Gücü](blog/2025/ekim/altinin-sessiz-gucu/README.md)
         * [Altın Fiyatları ve Reel Faiz İlişkisi](blog/2025/ekim/altinin-sessiz-gucu/altin-fiyatlari-ve-reel-faiz-iliskisi.md)
-* [Şeffaflık Güven Yaratır: Altınınızın Yolculuğunu Takip Edin](seffaflik-guven-yaratir-altininizin-yolculugunu-takip-edin.md)
+        * [Şeffaflık Güven Yaratır: Altınınızın Yolculuğunu Takip Edin](blog/2025/ekim/altinin-sessiz-gucu/seffaflik-guven-yaratir-altininizin-yolculugunu-takip-edin.md)
