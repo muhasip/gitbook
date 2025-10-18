@@ -17,3 +17,4 @@
       * [Altın Fiyatının Perde Arkası: Kimsenin Size Söylemediği 5 Gerçek](blog/2025/ekim/altin-fiyatinin-perde-arkasi-kimsenin-size-soylemedigi-5-gercek.md)
 * [Mücevher Sertifikaları Rehberi](mucevher-sertifikalari-rehberi.md)
 * [Altın: Renk Kalite Midir?](altin-renk-kalite-midir.md)
+* [DEĞERLİ TAŞ SEÇİM REHBERİ](degerli-tas-secim-rehberi.md)
