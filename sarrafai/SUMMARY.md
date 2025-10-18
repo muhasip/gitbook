@@ -19,3 +19,4 @@
 * [Altın: Renk Kalite Midir?](altin-renk-kalite-midir.md)
 * [DEĞERLİ TAŞ SEÇİM REHBERİ](degerli-tas-secim-rehberi.md)
 * [Altının Sessiz Gücü](altinin-sessiz-gucu.md)
+* [Altın Fiyatları ve Reel Faiz İlişkisi](altin-fiyatlari-ve-reel-faiz-iliskisi.md)
