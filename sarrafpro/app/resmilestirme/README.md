@@ -25,7 +25,7 @@ layout:
 **Resmileştirme**, SarrafPro’nun işletmenizin tüm resmi kayıt ve belgelerini güvenle yönetebilmeniz için geliştirdiği kapsamlı modül grubudur.\
 Bu bölüm, günlük operasyonlarınızı **yasal mevzuata tam uyumlu** şekilde yürütmenizi sağlar ve üç güçlü alt modülden oluşur:
 
-* [**E-Banka ve E-Fatura Otomasyonu**](otomasyon.md)
+* [**E-Banka ve E-Fatura Otomasyonu**](otomasyon/)
 * [**Hızlı E-Fatura Oluşturma**](pos-islem.md)
 * [**Gider Pusulası**](gider-pusulasi/)
 
