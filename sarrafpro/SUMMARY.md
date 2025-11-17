@@ -45,6 +45,7 @@
   * [Entegrasyonlar](app/konnektor/entegrasyonlar/README.md)
     * [Pusula Yazılım](app/konnektor/entegrasyonlar/pusula-yazilim.md)
     * [AIFASOFT ERPGOLD](app/konnektor/entegrasyonlar/aifasoft-erpgold.md)
+    * [Mikro Socket](app/konnektor/entegrasyonlar/mikro-socket.md)
 * [Konfigürasyon](app/admin/README.md)
   * [Şube / Birim Yönetimi](app/admin/sube-yonetimi.md)
   * [Fatura Ayarları](app/admin/fatura-ayarlari.md)
@@ -56,3 +57,7 @@
     * [Loncalar](app/uygulamalar/topluluk/loncalar.md)
   * [WhatsApp Entegrasyonu](app/uygulamalar/whatsapp-entegrasyonu/README.md)
     * [WhatsApp Hesabı](app/uygulamalar/whatsapp-entegrasyonu/whatsapp-hesabi.md)
+
+## Güncellemeler
+
+* [2.0.23](guncellemeler/2.0.23.md)
