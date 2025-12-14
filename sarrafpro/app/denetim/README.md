@@ -76,5 +76,5 @@ TC Kimlik No sisteminizde veya [topluluk](../uygulamalar/topluluk/ "mention") ta
 
 
 {% hint style="info" %}
-[Broken link](broken-reference "mention") modülü alt yapısını kullanmaktadır.
+[Broken link](/broken/pages/2kFDd2sXS2jfqremg6TY "mention") modülü alt yapısını kullanmaktadır.
 {% endhint %}

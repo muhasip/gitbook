@@ -39,8 +39,8 @@ layout:
 Kuyumculuk sektörü için özel olarak Altın ve Para Birimleri alt yapısı ile çalışmaktadır.
 {% endhint %}
 
-Envanter tanımları ile [Stok Modülü](broken-reference) ile tanımlanan ürünlerde Envanter olarak işaretlenmesi gerekmektedir.
+Envanter tanımları ile [Stok Modülü](/broken/pages/ZHLlAej4J7oWECiE2Qzy) ile tanımlanan ürünlerde Envanter olarak işaretlenmesi gerekmektedir.
 
-Envanter olarak eklenen kayıtlar Spesiyal olarak tanımlanır ve bir çok [Kuyumcu Hesabını](broken-reference) yapabilir, [Varyantlı Fatura Otomasyonların](../resmilestirme/otomasyon/)da kullanılabilmektedir.
+Envanter olarak eklenen kayıtlar Spesiyal olarak tanımlanır ve bir çok [Kuyumcu Hesabını](/broken/pages/jI3M3JgCiE9HuFhL8jiI) yapabilir, [Varyantlı Fatura Otomasyonların](../resmilestirme/otomasyon/)da kullanılabilmektedir.
 
 &#x20;

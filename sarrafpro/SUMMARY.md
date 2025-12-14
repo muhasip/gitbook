@@ -55,7 +55,6 @@
   * [E-Fatura](app/uygulamalar/e-fatura.md)
   * [Topluluk](app/uygulamalar/topluluk/README.md)
     * [Dernekler](app/uygulamalar/topluluk/dernekler.md)
-    * [Loncalar](app/uygulamalar/topluluk/loncalar.md)
   * [WhatsApp Entegrasyonu](app/uygulamalar/whatsapp-entegrasyonu/README.md)
     * [WhatsApp Hesabı](app/uygulamalar/whatsapp-entegrasyonu/whatsapp-hesabi.md)
 
