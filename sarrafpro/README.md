@@ -29,8 +29,3 @@ Bugün paranızın kaynağını doğru bilmek, yarın işinizi ayakta tutmanın 
 
 
 
-{% hint style="info" %}
-Güncel Versiyon: <code class="expression">space.vars.VERSION</code>
-
-Güncellemeleri [buraya tıklayarak](broken-reference) takip edebilirsiniz.
-{% endhint %}
