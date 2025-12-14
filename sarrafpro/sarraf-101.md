@@ -4,99 +4,88 @@ icon: circle
 
 # Sarraf 101
 
-## Uygulamalar
+## Sarraf 101
 
-SarrafPro, teoriyle kalmaz; sahada **uygulamalı, pratik akışlar** sunar.\
-Bu bölüm, sistemdeki modüllerin gerçek iş süreçlerinde nasıl kullanılacağını, örneklerle ve adım adım anlatım ile gösterir.
-
-İster yeni başlıyor olun, ister deneyimli kullanıcı; bu sayfa uygulama odaklıdır.
+**Sarraf 101**, SarrafPro’yu ilk kez kullanacaklar için hazırlanmış **hızlı başlangıç ve temel kavram** rehberidir.\
+Bu sayfa, sistemi tanımanız, modüller arası ilişkiyi anlamanız ve ilk işlemleri güvenle yapmanız için özet bilgi sağlar.
 
 ***
 
-### 📌 Uygulama 1 — Yeni Müşteri Kaydı
+### SarrafPro Nedir?
 
-**Senaryo:** İşletmenize yeni bir müşteri eklemeniz gerekiyor.
+SarrafPro, kuyumculuk ve değerli maden sektöründe faaliyet gösteren işletmeler için geliştirilmiş:
 
-**Adımlar:**
+* **Denetim**
+* **Uyum**
+* **Raporlama**
+* **Resmileştirme**
+* **İnteraktif paylaşım**
 
-1. Denetim > Müşteri Yönetimi’ne girin
-2. “Yeni Müşteri Ekle” butonuna tıklayın
-3. Zorunlu alanları doldurun (Ad, TCKN/VKN, iletişim)
-4. Kimlik dosyasını yükleyin
-5. Kaydet → Onay
-
-🎯 **Sonuç:** Müşteri profili oluşturulur, uyum kontrolleri otomatik başlar.
+modüllerini bir arada sunan **uyum ve operasyon platformu**dur.
 
 ***
 
-### 📊 Uygulama 2 — Banka Hareketleri Mutabakatı
+### Temel Kavramlar
 
-**Senaryo:** Gün sonu banka hesap hareketlerini sistemle eşleştireceksiniz.
+#### ✔️ Uyum (Compliance)
 
-**Adımlar:**
+Mevzuat ve denetim standartlarına uygun iş yapma ilkesidir.\
+SarrafPro ile KYC, yaptırım kontrolleri ve resmi kayıt süreçleri **otomatikleşir**.
 
-1. Raporlama > Mutabakat Raporları
-2. Tarih aralığını seçin
-3. Banka dosyasını yükleyin
-4. Sistem otomatik eşleştirme yapar
-5. Farkları raporla → PDF/Excel al
+#### ✔️ Denetim
 
-🎯 **Sonuç:** Mutabakat raporu hazır, denetime sunulabilir.
+Dış denetçiler veya iç kontroller için sistemde tutulan **kanıtlanabilir veri setleri** oluşturma sürecidir.
 
-***
+#### ✔️ Raporlama
 
-### 🔐 Uygulama 3 — Yaptırım Listesi Kontrolü
+Finansal, uyum ve mutabakat raporlarının **standart formatlarda çıkarılması**dır.
 
-**Senaryo:** Yeni müşteri veya işlem için yaptırım kontrolü yapacaksınız.
+#### ✔️ Resmileştirme
 
-**Adımlar:**
+POS ve finansal işlemlerin **resmi, izlenebilir kayıtlar** haline getirilmesidir.
 
-1. Denetim > Yaptırım Listeleri
-2. Listeyi güncelle
-3. Kontrol etmek istediğiniz kaydı seç
-4. “Kontrol Et” butonuna bas
-5. Eşleşme varsa raporla
+#### ✔️ İnteraktif
 
-🎯 **Sonuç:** Riskli kişi/kurum tespit edilir, uyarı çıkar.
+Canlı ekranlar, paylaşılabilir fiyatlar ve işlem merkezleri gibi **etkileşimli araçlar**dır.
 
 ***
 
-### 💼 Uygulama 4 — POS İşlemi Resmileştirme
+### SarrafPro Modülleri
 
-**Senaryo:** Günlük POS verilerini resmi kayıt altına alacaksınız.
-
-**Adımlar:**
-
-1. Resmileştirme > POS İşlem
-2. POS veri dosyasını yükle
-3. İşlem tipi ve tarih doğrulaması
-4. Kaydet ve raporla
-
-🎯 **Sonuç:** POS işlemleri denetime hazır resmi kayıt olur.
+| Modül         | Ne İşe Yarar?                                   |
+| ------------- | ----------------------------------------------- |
+| Denetim       | Müşteri, kimlik ve uyum süreçlerini yönetir     |
+| Raporlama     | Denetim ve finansal raporları üretir            |
+| Resmileştirme | İşlem ve POS verilerini resmi kayıt altına alır |
+| İnteraktif    | Canlı ve paylaşılabilir ekranlar sağlar         |
 
 ***
 
-### 📈 Uygulama 5 — Paylaşılabilir Fiyat Ekranı
+### İlk Adımlar
 
-**Senaryo:** Canlı fiyatları müşterinize göstereceksiniz.
-
-**Adımlar:**
-
-1. İnteraktif > Paylaşılabilir Fiyat Ekranı
-2. Fiyat setini seç (altın/döviz vb.)
-3. Paylaşılabilir link oluştur
-4. Linki dış paydaşa gönder
-
-🎯 **Sonuç:** Özelleştirilmiş canlı fiyat ekranı paylaşılır.
+1. **Hesap oluştur**
+2. **Müşteri kaydı yap**
+3. **Kimlik ve uyum kontrollerini tamamla**
+4. **Banka ve POS verilerini yükle**
+5. **Rapor ve mutabakat al**
 
 ***
 
-### 📌 İpucu: Uygulama Önceliklendirme
+### Öneriler
 
-Her işletme farklı önceliklere sahiptir.\
-Başlangıçta **uyum & mutabakat** uygulamalarını oturtmak, uzun vadede risk azaltır ve denetim süreçlerini kolaylaştırır.
+* Her kayıt **zorunlu alanları eksiksiz** doldurun.
+* Mutabakat ve uyum raporlarını **günlük** çıkarmak riski azaltır.
+* Paylaşılabilir ekranları **süre sınırlı** açmak güvenliği artırır.
 
 ***
 
-📍 **Kısa Yol:**\
-Uygulama adımlarını **PDF olarak kaydet** ve ekiple paylaş. Böylece ortak standart oluşur.
+### Hızlı Terimler Sözlüğü
+
+* **KYC:** Müşteri Tanıma
+* **Mutabakat:** Banka ve sistem kayıtlarının eşleştirilmesi
+* **Yaptırım Listesi:** Ulusal / uluslararası riskli kişi/kurum listesi
+* **Denetim Kaydı:** İzlenebilir, kanıtlanabilir veri seti
+
+***
+
+SarrafPro ile **denetim geldiğinde hazırlıksız yakalanmak tarihe karışır.**

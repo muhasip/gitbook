@@ -14,11 +14,95 @@ Uygulamaya WhatsApp ile erişebilmek ve özellikleri kullanmak için [WhatsApp H
 Sarraf Pro WhatsApp hesabı haricinde kendi hesaplarınızı entegre edebilirsiniz.
 {% endhint %}
 
-## Özellikler
+## WhatsApp Entegrasyonu
 
-* Kimlik resimlerini sisteme
-* Güncel kur bilgileri sorgulama
-* Güncel hareket bilgileri sorgulama
-* Son hareket bilgileri sorgulama
-* TC Kimlik ile Müşteri ve [Denetim](../../denetim/) sorgulama
+WhatsApp, günümüz işletmeleri için en etkili iletişim kanallarından biridir.\
+SarrafPro’nun **WhatsApp Entegrasyonu**, müşteri ilişkileri, bildirimler ve otomatik mesaj akışlarını sistemle entegre ederek iş süreçlerinizi **daha hızlı, güvenli ve izlenebilir** hale getirir.
+
+***
+
+### WhatsApp Entegrasyonu Nedir?
+
+WhatsApp Entegrasyonu, SarrafPro içinde:
+
+* **Otomatik bildirim gönderme**
+* **Müşteri iletişimi yönetimi**
+* **Olay tetiklemeli mesajlaşma** … gibi işlevleri sağlar.
+
+Bu entegrasyon, WhatsApp Business API veya onaylı entegratör bağlantısı üzerinden çalışır ve sistemden gelen tetiklerle **otomasyon mesajları** üretir.
+
+***
+
+### Neden SarrafPro ile WhatsApp Entegrasyonu?
+
+#### 📩 1. Müşteri İletişimini Otomatikleştirin
+
+* Mutabakat / rapor hazır olduğunda
+* Hesap hareketi olduğunda
+* Belge veya uyarı gerektiğinde\
+  … otomatik mesajla müşteriye bilgi gönderin.
+
+#### 🕒 2. Zaman ve İş Gücü Tasarrufu
+
+Manuel mesajlaşma yerine sistem mesajı, hem **hızlı** hem **doğru** ileti sağlar.
+
+#### 🔒 3. Uyumlu ve İzlenebilir İletişim
+
+* Tüm mesajlar sistemde **loglanır**
+* Denetim için mesaj geçmişi saklanır
+* Müşteri kabul/red kayıtları tutulur
+
+#### 🔄 4. CRM ile Entegre
+
+WhatsApp mesaj geçmişi, müşteri kayıtlarına **CRM benzeri** biçimde iliştirilir.
+
+***
+
+### Kullanım Senaryoları
+
+#### 📌 Bildirim Mesajları
+
+* Mutabakat raporu hazır
+* Fatura onay bildirimi
+* Yaptırım kontrol sonucu
+* Hesap hareket uyarısı
+
+#### 🤝 Müşteri Etkileşimi
+
+* Onay talepleri
+* Belge gönderme talepleri
+* Hızlı geri bildirim
+
+#### ⚠️ Uyarı & Alarm Mesajları
+
+* Riskli işlem
+* Hesap sapması
+* Süre sonu yaklaşımı
+
+***
+
+### Nasıl Çalışır?
+
+1. **WhatsApp API Bağlantısı Kurulur**
+   * Onaylı telefon / numara
+2. **Mesaj Şablonları Oluşturulur**
+   * SMS benzeri ama daha zengin içerik
+3. **Olay Tetikleyicileri Tanımlanır**
+   * Tarih/saat, rapor hazır, risk uyarısı
+4. **Otomatik Mesaj Akışı Başlar**
+   * Müşteri anında bilgilendirilir
+
+***
+
+### Güvenlik & Gizlilik
+
+✅ Onaylı WhatsApp Business API kullanımı\
+✅ Müşteri onayı & KVKK uyumu\
+✅ Loglanmış iletişim geçmişi\
+✅ Denetime hazır mesaj dökümleri
+
+***
+
+SarrafPro WhatsApp Entegrasyonu ile **müşteri iletişimini akıllı, hızlı ve izlenebilir hale getirin.**\
+Her mesaj bir işlem kaydıdır — hem veri hem süreç yönetimi sağlar.
 
