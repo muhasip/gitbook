@@ -4,26 +4,9 @@ description: >-
   otomatik olarak tanır ve fatura sürecini hızlandırır.
 icon: paper-plane
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 ---
 
-# Fatura Otomasyonu
+# Otomasyon
 
 SarrafPro’nun **yapay zekâ destekli sistemi**, gelen hareketleri kurallara ve tanımlara göre analiz eder, doğru müşteri ve işlemle eşleştirir.
 

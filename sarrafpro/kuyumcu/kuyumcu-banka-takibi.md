@@ -3,23 +3,6 @@ description: Kuyumculukta finansal süreçleri güvenli ve hızlı yönetmenin y
 icon: rectangles-mixed
 cover: https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg
 coverY: 154.74603174603175
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 ---
 
 # Kuyumcu Banka Takibi

@@ -6,23 +6,6 @@ icon: sparkles
 cover: >-
   https://images.unsplash.com/photo-1612945578381-6481cdd73b0a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8amV3ZWxyeXN8ZW58MHx8fHwxNzQ2Mzk1ODk5fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 ---
 
 # Envanter
@@ -41,6 +24,6 @@ Kuyumculuk sektörü için özel olarak Altın ve Para Birimleri alt yapısı il
 
 Envanter tanımları ile [Stok Modülü](/broken/pages/ZHLlAej4J7oWECiE2Qzy) ile tanımlanan ürünlerde Envanter olarak işaretlenmesi gerekmektedir.
 
-Envanter olarak eklenen kayıtlar Spesiyal olarak tanımlanır ve bir çok [Kuyumcu Hesabını](/broken/pages/jI3M3JgCiE9HuFhL8jiI) yapabilir, [Varyantlı Fatura Otomasyonların](../resmilestirme/otomasyon/)da kullanılabilmektedir.
+Envanter olarak eklenen kayıtlar Spesiyal olarak tanımlanır ve bir çok [Kuyumcu Hesabını](/broken/pages/jI3M3JgCiE9HuFhL8jiI) yapabilir, [Varyantlı Fatura Otomasyonların](../resmilestirme/otomasyon.md)da kullanılabilmektedir.
 
 &#x20;

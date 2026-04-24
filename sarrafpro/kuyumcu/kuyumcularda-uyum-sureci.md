@@ -3,23 +3,6 @@ description: Paranızı güvence altına alan en güçlü özellik
 icon: user-secret
 cover: https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 ---
 
 # Kuyumcularda Uyum Süreci

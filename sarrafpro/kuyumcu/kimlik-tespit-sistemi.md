@@ -4,23 +4,6 @@ icon: face-viewfinder
 cover: >-
   https://images.unsplash.com/photo-1585079374502-415f8516dcc3?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxmaW5nZXJwcmludHxlbnwwfHx8fDE3NTU1NjM4MjF8MA&ixlib=rb-4.1.0&q=85
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 ---
 
 # Kimlik Tespit Sistemi
