@@ -6,26 +6,9 @@ icon: fingerprint
 cover: >-
   https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxidXNzaW5lc3xlbnwwfHx8fDE3NDYzOTYxMTB8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 ---
 
-# Denetim
+# Uyum
 
 Müşterilerin kimlik tespit ve denetimlerini yapabilirsiniz.
 

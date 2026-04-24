@@ -20,7 +20,7 @@
     * [Gider Pusulası](moduller/resmilestirme/gider-pusulasi/README.md)
       * [Banka Hareketleri](moduller/resmilestirme/gider-pusulasi/banka-hareketleri.md)
       * [Manuel Gider Pusulası](moduller/resmilestirme/gider-pusulasi/manuel-gider-pusulasi.md)
-  * [Denetim](moduller/denetim/README.md)
+  * [Uyum](moduller/denetim/README.md)
     * [Müşteri Yönetimi](moduller/denetim/musteri-yonetimi.md)
     * [Kimlik Yönetimi](moduller/denetim/kimlik-yonetimi/README.md)
       * [Kimlik Tanıma Sistemi](moduller/denetim/kimlik-yonetimi/kimlik-tanima-sistemi/README.md)
