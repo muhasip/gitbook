@@ -2,6 +2,7 @@
 description: >-
   Sarraf Pro artık modül bazlı satın alınıp daha erişilebilir bir fiyatla
   kullanılabilir.
+icon: trophy-star
 ---
 
 # Paketler

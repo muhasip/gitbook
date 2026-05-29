@@ -3,6 +3,27 @@ description: 'Altın ve kıymetli maden ticaretinde dijital dönüşümün yeni 
 icon: robot
 cover: https://images.pexels.com/photos/8438979/pexels-photo-8438979.jpeg
 coverY: 546.7360858938548
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Kuyumcular için Yapay Zeka

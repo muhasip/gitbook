@@ -6,6 +6,27 @@ icon: sparkles
 cover: >-
   https://images.unsplash.com/photo-1612945578381-6481cdd73b0a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8amV3ZWxyeXN8ZW58MHx8fHwxNzQ2Mzk1ODk5fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Envanter

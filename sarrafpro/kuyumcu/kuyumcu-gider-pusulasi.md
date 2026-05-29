@@ -5,6 +5,27 @@ description: >-
 icon: shredder
 cover: https://images.pexels.com/photos/3488259/pexels-photo-3488259.jpeg
 coverY: -349.70238095238096
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Kuyumcu Gider Pusulası
