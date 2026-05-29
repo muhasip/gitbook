@@ -39,6 +39,7 @@
     * [Uyum Raporları](moduller/raporlama/uyum-raporlari.md)
     * [Mali Raporlar](moduller/raporlama/mali-raporlar.md)
   * [Mahsup](moduller/mahsup.md)
+  * [Socket](moduller/socket.md)
   * [Könnektör](moduller/konnektor/README.md)
     * [Pusula Yazılım](moduller/konnektor/pusula-yazilim.md)
     * [AIFASOFT ERPGOLD](moduller/konnektor/aifasoft-erpgold.md)
